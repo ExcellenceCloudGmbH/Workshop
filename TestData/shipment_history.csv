@@ -1,0 +1,2279 @@
+warehouse,product_category,supplier,ship_date,quantity,unit_cost,delay_days,damage_rate,order_id
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-11-16,8670,11.03,0,0.012,ORD-12022
+Dubai Hub,Consumer Goods,SinoLogistics Co.,2024-04-19,2234,31.27,0,0.002,ORD-10673
+Shanghai Hub,Machinery,TechSource GmbH,2024-01-08,33,6008.24,0,0.002,ORD-10041
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-08-20,395,1245.13,0,0.003,ORD-11495
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-01-14,18,2805.01,0,0.005,ORD-10113
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-12-22,820,185.62,0,0.002,ORD-12103
+Shanghai Hub,Machinery,TechSource GmbH,2024-08-30,37,4852.59,0,0.002,ORD-11368
+Los Angeles Hub,Agricultural,Oceania Freight,2024-12-27,2228,17.05,0,0.01,ORD-12161
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-10-10,72,2449.4,0,0.005,ORD-11745
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-09-15,387,162.91,0,0.002,ORD-11566
+Singapore Hub,Machinery,Nordic Materials AB,2024-01-14,23,5768.26,0,0.002,ORD-10151
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-02-20,282,180.3,0,0.002,ORD-10215
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-06-06,1257,42.09,0,0.002,ORD-11015
+Shanghai Hub,Textiles,Mediterranean Trading,2024-02-07,2349,39.07,0,0.002,ORD-10217
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-07-03,9055,10.24,0,0.012,ORD-11240
+São Paulo Hub,Textiles,Mediterranean Trading,2024-07-15,1618,32.78,0,0.002,ORD-11211
+Mumbai Hub,Consumer Goods,SinoLogistics Co.,2024-11-22,1133,24.08,0,0.002,ORD-12030
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-05-14,1323,25.17,0,0.002,ORD-10893
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-05-29,206,188.02,0,0.002,ORD-10942
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-12-11,283,194.51,0,0.002,ORD-12104
+Shanghai Hub,Machinery,Nordic Materials AB,2024-10-13,13,4856.06,0,0.002,ORD-11742
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-12-02,595,1317.02,0,0.003,ORD-12215
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-06-21,1528,12.51,0,0.012,ORD-11026
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-12-29,1238,1058.83,0,0.003,ORD-12239
+Shanghai Hub,Chemicals,Baltic Shipping OÜ,2024-10-24,132,85.32,0,0.006,ORD-11739
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-04-30,59,165.33,0,0.002,ORD-10686
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-04-07,8866,12.97,0,0.012,ORD-10572
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-09-21,2766,32.14,0,0.002,ORD-11543
+São Paulo Hub,Food & Beverage,Oceania Freight,2024-07-03,2413,10.22,0,0.012,ORD-11214
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-10-13,14,2623.7,0,0.005,ORD-11834
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-08-09,395,1220.52,0,0.003,ORD-11334
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-04-15,833,18.62,0,0.01,ORD-10586
+Singapore Hub,Electronics,TechSource GmbH,2024-03-25,114,395.94,0,0.008,ORD-10518
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-09-20,2884,19.74,0,0.01,ORD-11703
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-20,423,1225.69,1,0.005,ORD-11020
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-08-23,2628,11.87,0,0.012,ORD-11476
+Singapore Hub,Raw Materials,Oceania Freight,2024-05-24,481,222.06,0,0.002,ORD-10918
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-01-11,2763,30.8,1,0.004,ORD-10168
+Dubai Hub,Consumer Goods,MarinaPort Pte,2024-07-01,1084,31.9,0,0.002,ORD-11244
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-07-09,96,203.56,0,0.002,ORD-11312
+Los Angeles Hub,Luxury Goods,MarinaPort Pte,2024-07-06,25,3153.16,0,0.005,ORD-11199
+Los Angeles Hub,Agricultural,Panama Canal Trade,2024-02-02,646,19.68,6,0.022,ORD-10254
+Los Angeles Hub,Building Materials,CapeTown Distributors,2024-05-19,625,49.79,0,0.002,ORD-10824
+Dubai Hub,Machinery,Pacific Trade Corp,2024-12-16,24,6058.77,0,0.002,ORD-12198
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-02-16,48,3048.92,0,0.005,ORD-10249
+Mumbai Hub,Textiles,Mediterranean Trading,2024-03-25,3097,37.55,0,0.002,ORD-10499
+Frankfurt Hub,Electronics,Sakura Industries,2024-07-29,179,444.08,0,0.008,ORD-11137
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-10-12,5552,11.73,0,0.012,ORD-11805
+Singapore Hub,Food & Beverage,Andean Exports SA,2024-03-23,5404,10.45,0,0.012,ORD-10526
+Shanghai Hub,Machinery,Sakura Industries,2024-04-11,13,5237.25,0,0.002,ORD-10600
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-06-25,6914,12.21,0,0.012,ORD-10957
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-07-27,308,196.42,0,0.002,ORD-11286
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-05-25,1249,24.33,0,0.002,ORD-10796
+Mumbai Hub,Machinery,Sakura Industries,2024-11-10,17,5899.55,0,0.002,ORD-12028
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-12-31,10920,10.81,0,0.012,ORD-12221
+Singapore Hub,Chemicals,Atlas Logistics,2024-06-05,522,102.71,0,0.006,ORD-11098
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-09-02,35,3160.21,0,0.005,ORD-11581
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-01-05,491,1045.71,0,0.003,ORD-10143
+São Paulo Hub,Agricultural,Oceania Freight,2024-05-20,1707,19.51,0,0.01,ORD-10852
+Shanghai Hub,Building Materials,Atlas Logistics,2024-08-04,422,47.1,0,0.002,ORD-11375
+Dubai Hub,Electronics,SinoLogistics Co.,2024-05-31,86,485.67,0,0.008,ORD-10853
+Frankfurt Hub,Pharmaceuticals,TechSource GmbH,2024-03-06,1177,1136.5,0,0.003,ORD-10377
+Frankfurt Hub,Agricultural,Oceania Freight,2024-06-01,4422,17.39,5,0.02,ORD-10970
+Mumbai Hub,Consumer Goods,EuroFreight BV,2024-09-27,368,29.12,0,0.002,ORD-11647
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-02-13,246,172.33,0,0.002,ORD-10343
+São Paulo Hub,Building Materials,Baltic Shipping OÜ,2024-03-24,739,48.81,0,0.002,ORD-10465
+Singapore Hub,Electronics,SinoLogistics Co.,2024-01-10,121,475.3,5,0.018,ORD-10141
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-12-07,11371,12.41,0,0.012,ORD-12194
+Rotterdam Hub,Consumer Goods,SinoLogistics Co.,2024-09-03,2373,26.31,2,0.006,ORD-11693
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-03-29,73,2704.14,0,0.005,ORD-10536
+Singapore Hub,Agricultural,Panama Canal Trade,2024-08-01,2269,19.66,0,0.01,ORD-11492
+Los Angeles Hub,Agricultural,Panama Canal Trade,2024-05-18,1848,17.3,0,0.01,ORD-10826
+Singapore Hub,Machinery,Sakura Industries,2024-03-24,31,5691.53,0,0.002,ORD-10530
+Mumbai Hub,Machinery,Nordic Materials AB,2024-07-19,35,5602.72,0,0.002,ORD-11269
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-06-28,131,87.45,0,0.006,ORD-11075
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-04-08,73,2498.14,0,0.005,ORD-10609
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-11-19,115,186.53,0,0.002,ORD-11995
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-02-22,319,173.35,4,0.01,ORD-10355
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-12-28,126,153.38,3,0.008,ORD-12263
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-06-26,5331,13.74,3,0.018,ORD-11097
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-07-20,701,106.43,0,0.006,ORD-11241
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-09-05,275,163.5,0,0.002,ORD-11516
+Los Angeles Hub,Food & Beverage,Mapleleaf Supply,2024-03-30,5824,10.74,0,0.012,ORD-10435
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-04-19,488,46.99,0,0.002,ORD-10655
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-12-30,1422,1367.48,0,0.003,ORD-12241
+Singapore Hub,Machinery,Sakura Industries,2024-08-29,5,4998.54,0,0.002,ORD-11480
+Dubai Hub,Building Materials,CapeTown Distributors,2024-12-23,215,46.69,7,0.016,ORD-12207
+Mumbai Hub,Textiles,Andean Exports SA,2024-02-20,2511,31.85,0,0.002,ORD-10310
+Frankfurt Hub,Machinery,Sakura Industries,2024-07-20,36,5684.88,0,0.002,ORD-11148
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-09-13,172,200.82,0,0.002,ORD-11567
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-05-15,2307,25.39,0,0.002,ORD-10917
+Dubai Hub,Chemicals,Atlas Logistics,2024-08-05,568,84.44,0,0.006,ORD-11432
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-02-22,313,45.18,0,0.002,ORD-10303
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-03-04,927,1079.88,0,0.003,ORD-10473
+Dubai Hub,Machinery,Nordic Materials AB,2024-06-20,27,5190.53,0,0.002,ORD-11053
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-08-17,1954,27.55,0,0.002,ORD-11416
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-02-05,269,153.08,0,0.002,ORD-10284
+Singapore Hub,Food & Beverage,Andean Exports SA,2024-04-23,7784,13.34,0,0.012,ORD-10711
+Mumbai Hub,Raw Materials,Atlas Logistics,2024-12-22,412,190.53,5,0.012,ORD-12229
+Los Angeles Hub,Textiles,SinoLogistics Co.,2024-11-05,2983,33.8,0,0.002,ORD-11946
+Frankfurt Hub,Agricultural,Oceania Freight,2024-11-04,1060,19.59,4,0.018,ORD-11911
+Rotterdam Hub,Luxury Goods,Mediterranean Trading,2024-11-19,45,3133.52,0,0.005,ORD-12080
+Frankfurt Hub,Textiles,Mediterranean Trading,2024-10-18,3434,35.97,0,0.002,ORD-11712
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-04-10,4855,18.39,0,0.01,ORD-10753
+Dubai Hub,Pharmaceuticals,Rhine Chemical AG,2024-10-30,288,1237.62,0,0.003,ORD-11798
+Frankfurt Hub,Textiles,Mediterranean Trading,2024-01-04,986,35.55,0,0.002,ORD-10008
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-10-02,79,2483.38,0,0.005,ORD-11793
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-05-18,68,2380.6,0,0.005,ORD-10920
+São Paulo Hub,Food & Beverage,Oceania Freight,2024-07-14,3000,13.21,0,0.012,ORD-11212
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-11-24,65,2871.59,0,0.005,ORD-11985
+Frankfurt Hub,Machinery,Sakura Industries,2024-04-02,25,4919.73,0,0.002,ORD-10576
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-11-06,116,190.68,0,0.002,ORD-12019
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-03-16,548,101.33,0,0.006,ORD-10480
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-10-09,1300,1256.63,0,0.003,ORD-11779
+Los Angeles Hub,Machinery,TechSource GmbH,2024-01-05,24,5276.68,0,0.002,ORD-10064
+Mumbai Hub,Textiles,Tata Supply Chain,2024-08-14,2395,33.08,0,0.002,ORD-11451
+Frankfurt Hub,Agricultural,Andean Exports SA,2024-01-06,1771,17.05,0,0.01,ORD-10026
+Mumbai Hub,Building Materials,Andean Mining Corp,2024-05-16,750,43.92,0,0.002,ORD-10900
+Shanghai Hub,Agricultural,Oceania Freight,2024-09-15,1723,15.34,0,0.01,ORD-11561
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-10-08,888,1173.39,0,0.003,ORD-11752
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-06-29,34,2497.55,0,0.005,ORD-11130
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-07-18,263,44.47,5,0.012,ORD-11276
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-06-06,7884,13.34,0,0.012,ORD-11006
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-08-15,763,100.31,0,0.006,ORD-11364
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-05-07,418,430.71,0,0.008,ORD-10781
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-30,990,1112.37,0,0.003,ORD-10759
+Singapore Hub,Textiles,Tata Supply Chain,2024-04-12,1345,34.82,0,0.002,ORD-10709
+Frankfurt Hub,Chemicals,Baltic Shipping OÜ,2024-12-08,336,93.74,0,0.006,ORD-12099
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-01-03,7794,11.2,0,0.012,ORD-10060
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-03-28,524,45.63,0,0.002,ORD-10538
+Mumbai Hub,Food & Beverage,Andean Exports SA,2024-11-30,2235,13.44,0,0.012,ORD-12023
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-11-16,328,106.26,0,0.006,ORD-12001
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-07-18,472,31.9,0,0.002,ORD-11298
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-09-09,1149,1130.11,0,0.003,ORD-11613
+Frankfurt Hub,Machinery,Pacific Trade Corp,2024-07-27,27,5366.0,0,0.002,ORD-11149
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-12-10,385,84.75,0,0.006,ORD-12224
+Frankfurt Hub,Food & Beverage,Mapleleaf Supply,2024-07-06,9504,12.55,0,0.012,ORD-11145
+Singapore Hub,Machinery,Sakura Industries,2024-03-01,33,5254.46,0,0.002,ORD-10529
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-07-28,597,47.5,0,0.002,ORD-11228
+Mumbai Hub,Pharmaceuticals,TechSource GmbH,2024-02-19,1284,1152.1,0,0.003,ORD-10307
+Frankfurt Hub,Agricultural,Oceania Freight,2024-09-17,2918,17.74,0,0.01,ORD-11534
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-02-01,1005,190.01,4,0.01,ORD-10204
+Shanghai Hub,Chemicals,Baltic Shipping OÜ,2024-05-08,237,93.99,0,0.006,ORD-10792
+Singapore Hub,Electronics,Sakura Industries,2024-08-29,347,514.75,0,0.008,ORD-11469
+Rotterdam Hub,Machinery,TechSource GmbH,2024-01-11,23,5266.46,0,0.002,ORD-10175
+São Paulo Hub,Raw Materials,Oceania Freight,2024-11-02,513,170.31,0,0.002,ORD-11982
+Singapore Hub,Food & Beverage,Oceania Freight,2024-05-26,8630,12.35,0,0.012,ORD-10911
+Los Angeles Hub,Electronics,TechSource GmbH,2024-12-08,673,439.15,0,0.008,ORD-12140
+Singapore Hub,Raw Materials,Oceania Freight,2024-08-09,202,226.27,0,0.002,ORD-11485
+Mumbai Hub,Machinery,Pacific Trade Corp,2024-04-01,31,5766.75,0,0.002,ORD-10692
+Mumbai Hub,Consumer Goods,EuroFreight BV,2024-04-04,766,30.39,0,0.002,ORD-10694
+Mumbai Hub,Automotive Parts,TechSource GmbH,2024-05-15,117,181.44,0,0.002,ORD-10884
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-01-15,1384,24.97,0,0.002,ORD-10017
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-08-01,135,201.73,0,0.002,ORD-11381
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-04-23,713,26.63,0,0.002,ORD-10603
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-04-01,430,1169.2,0,0.003,ORD-10637
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-12-14,791,89.19,0,0.006,ORD-12266
+São Paulo Hub,Raw Materials,Atlas Logistics,2024-04-07,577,219.41,0,0.002,ORD-10651
+Dubai Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-17,208,1131.95,0,0.003,ORD-11043
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-01-31,102,158.01,0,0.002,ORD-10006
+Los Angeles Hub,Machinery,Sakura Industries,2024-12-07,39,5327.62,0,0.002,ORD-12152
+Rotterdam Hub,Building Materials,Atlas Logistics,2024-05-10,1101,43.65,6,0.014,ORD-10946
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-11-14,3228,12.88,0,0.012,ORD-11973
+Dubai Hub,Raw Materials,Oceania Freight,2024-06-15,437,226.85,0,0.002,ORD-11056
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-01-26,313,44.13,0,0.002,ORD-10116
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-05-09,2706,31.81,0,0.002,ORD-10788
+Mumbai Hub,Textiles,Tata Supply Chain,2024-04-24,3789,35.05,0,0.002,ORD-10687
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-08-05,2079,30.33,0,0.002,ORD-11497
+Dubai Hub,Raw Materials,Atlas Logistics,2024-05-11,569,191.62,0,0.002,ORD-10870
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-02-08,1567,31.91,0,0.002,ORD-10269
+Mumbai Hub,Luxury Goods,MarinaPort Pte,2024-03-30,68,3178.21,0,0.005,ORD-10513
+Mumbai Hub,Raw Materials,Oceania Freight,2024-11-25,781,202.79,0,0.002,ORD-12031
+Frankfurt Hub,Textiles,Tata Supply Chain,2024-06-11,1959,35.75,0,0.002,ORD-10955
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-07-14,16,2623.48,0,0.005,ORD-11225
+Shanghai Hub,Machinery,Sakura Industries,2024-10-23,25,5914.3,0,0.002,ORD-11741
+Frankfurt Hub,Food & Beverage,Mapleleaf Supply,2024-11-04,5713,13.54,0,0.012,ORD-11898
+Dubai Hub,Machinery,TechSource GmbH,2024-01-06,15,6266.79,0,0.002,ORD-10109
+Frankfurt Hub,Food & Beverage,Mapleleaf Supply,2024-12-17,8959,11.9,0,0.012,ORD-12097
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-08-15,10,3062.62,5,0.015,ORD-11463
+Frankfurt Hub,Machinery,Sakura Industries,2024-02-12,33,5408.75,0,0.002,ORD-10201
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-11-24,2222,10.33,0,0.012,ORD-12046
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-01-29,893,202.8,0,0.002,ORD-10179
+Dubai Hub,Machinery,Pacific Trade Corp,2024-09-27,6,5825.83,0,0.002,ORD-11622
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-20,1421,1297.68,0,0.003,ORD-11068
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-04-27,2410,30.45,0,0.002,ORD-10647
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-01-25,1653,13.28,0,0.012,ORD-10010
+Dubai Hub,Luxury Goods,Sakura Industries,2024-09-17,49,2996.5,0,0.005,ORD-11627
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-12-25,85,38.45,0,0.002,ORD-12159
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-01-18,1258,1361.3,0,0.003,ORD-10121
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-08-10,637,33.26,0,0.002,ORD-11383
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-11-23,203,46.13,0,0.002,ORD-11937
+Frankfurt Hub,Consumer Goods,SinoLogistics Co.,2024-11-20,948,28.18,0,0.002,ORD-11904
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-06-12,59,2792.81,0,0.005,ORD-10989
+Shanghai Hub,Automotive Parts,Sakura Industries,2024-04-06,213,185.24,0,0.002,ORD-10591
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-03-13,80,2650.16,0,0.005,ORD-10419
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-01-20,1349,1091.58,0,0.003,ORD-10003
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-09-06,62,2708.53,1,0.007,ORD-11557
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-02-22,959,1153.92,0,0.003,ORD-10306
+Los Angeles Hub,Textiles,Andean Exports SA,2024-05-01,851,32.02,0,0.002,ORD-10810
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-05-30,314,204.74,0,0.002,ORD-10809
+Shanghai Hub,Food & Beverage,Andean Exports SA,2024-10-28,2096,10.88,0,0.012,ORD-11738
+Singapore Hub,Machinery,TechSource GmbH,2024-10-06,30,5942.56,0,0.002,ORD-11852
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-02-06,244,181.76,0,0.002,ORD-10237
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-04-26,4887,13.36,0,0.012,ORD-10688
+Frankfurt Hub,Agricultural,Oceania Freight,2024-10-04,2587,17.91,0,0.01,ORD-11728
+Dubai Hub,Luxury Goods,Mediterranean Trading,2024-03-23,23,3051.58,0,0.005,ORD-10487
+São Paulo Hub,Consumer Goods,Pacific Trade Corp,2024-04-23,855,30.36,0,0.002,ORD-10648
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-08-29,7827,13.19,5,0.022,ORD-11342
+Rotterdam Hub,Electronics,TechSource GmbH,2024-05-09,455,412.3,0,0.008,ORD-10928
+Dubai Hub,Machinery,Sakura Industries,2024-03-17,40,4939.22,0,0.002,ORD-10483
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-12-25,346,96.71,0,0.006,ORD-12197
+Singapore Hub,Consumer Goods,SinoLogistics Co.,2024-11-15,1806,26.76,0,0.002,ORD-12051
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-05-01,80,2809.47,0,0.005,ORD-10943
+Dubai Hub,Consumer Goods,SinoLogistics Co.,2024-12-22,2083,29.28,0,0.002,ORD-12201
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-10-27,931,195.5,0,0.002,ORD-11723
+Shanghai Hub,Textiles,Tata Supply Chain,2024-05-18,1219,36.53,0,0.002,ORD-10787
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-03-04,1103,1184.35,2,0.007,ORD-10519
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-09-05,412,107.64,0,0.006,ORD-11547
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-12-03,351,451.49,0,0.008,ORD-12087
+Los Angeles Hub,Consumer Goods,EuroFreight BV,2024-11-06,2469,28.9,0,0.002,ORD-11954
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-04-27,17,4835.03,0,0.002,ORD-10623
+São Paulo Hub,Food & Beverage,Mapleleaf Supply,2024-08-23,2202,11.42,0,0.012,ORD-11411
+Mumbai Hub,Electronics,Sakura Industries,2024-08-01,206,469.43,0,0.008,ORD-11445
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-12-16,5472,10.48,1,0.014,ORD-12195
+Shanghai Hub,Building Materials,Baltic Shipping OÜ,2024-03-16,250,49.09,0,0.002,ORD-10421
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-07-12,868,1039.81,0,0.003,ORD-11205
+Rotterdam Hub,Luxury Goods,Mediterranean Trading,2024-03-13,69,3107.47,0,0.005,ORD-10559
+Shanghai Hub,Textiles,Mediterranean Trading,2024-02-27,2133,34.12,0,0.002,ORD-10218
+Singapore Hub,Machinery,Pacific Trade Corp,2024-04-08,22,4758.08,0,0.002,ORD-10716
+Singapore Hub,Luxury Goods,Mediterranean Trading,2024-12-07,37,2633.63,0,0.005,ORD-12254
+Frankfurt Hub,Food & Beverage,Oceania Freight,2024-08-11,3056,11.34,2,0.016,ORD-11343
+Mumbai Hub,Machinery,Nordic Materials AB,2024-05-16,24,4690.07,0,0.002,ORD-10891
+Dubai Hub,Luxury Goods,Sakura Industries,2024-02-20,45,2917.15,0,0.005,ORD-10302
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-04-08,667,173.03,0,0.002,ORD-10650
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-08-18,1367,1207.83,0,0.003,ORD-11446
+Shanghai Hub,Building Materials,Baltic Shipping OÜ,2024-12-24,219,40.03,0,0.002,ORD-12134
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-03-07,10,6158.17,0,0.002,ORD-10388
+Los Angeles Hub,Agricultural,Panama Canal Trade,2024-09-07,2927,15.95,0,0.01,ORD-11586
+Shanghai Hub,Building Materials,Baltic Shipping OÜ,2024-05-21,786,46.18,1,0.004,ORD-10800
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-10-18,615,170.83,0,0.002,ORD-11722
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-07-30,564,1159.44,0,0.003,ORD-11160
+Los Angeles Hub,Building Materials,Atlas Logistics,2024-02-10,486,49.92,5,0.012,ORD-10251
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-11-26,6638,11.6,0,0.012,ORD-12071
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-10-24,3246,12.54,0,0.012,ORD-11759
+Singapore Hub,Chemicals,Rhine Chemical AG,2024-11-01,126,102.8,0,0.006,ORD-12048
+Dubai Hub,Machinery,Nordic Materials AB,2024-03-31,19,5991.3,0,0.002,ORD-10484
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-04-08,50,2521.03,0,0.005,ORD-10610
+Los Angeles Hub,Electronics,Sakura Industries,2024-01-08,388,400.17,0,0.008,ORD-10051
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-11-16,3897,11.72,0,0.012,ORD-11924
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-12-08,9318,13.15,0,0.012,ORD-12147
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-10-22,369,197.15,0,0.002,ORD-11800
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-09-03,382,1142.49,0,0.003,ORD-11660
+Dubai Hub,Machinery,Pacific Trade Corp,2024-08-04,23,4741.47,0,0.002,ORD-11435
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-03-20,208,188.97,0,0.002,ORD-10546
+Dubai Hub,Luxury Goods,Sakura Industries,2024-08-11,70,3080.95,0,0.005,ORD-11440
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-05-05,56,3127.29,0,0.005,ORD-10945
+Mumbai Hub,Agricultural,Andean Exports SA,2024-09-29,4192,16.03,0,0.01,ORD-11656
+São Paulo Hub,Agricultural,Andean Exports SA,2024-02-13,1424,16.51,0,0.01,ORD-10277
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-01-15,70,2758.06,0,0.005,ORD-10091
+Mumbai Hub,Machinery,Nordic Materials AB,2024-03-28,15,5691.65,0,0.002,ORD-10505
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-03-12,4191,11.84,0,0.012,ORD-10479
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-04-24,7015,10.3,0,0.012,ORD-10596
+Singapore Hub,Machinery,Nordic Materials AB,2024-04-21,30,6023.22,0,0.002,ORD-10717
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-03-17,8445,11.48,0,0.012,ORD-10436
+Dubai Hub,Agricultural,Andean Exports SA,2024-12-28,437,17.69,0,0.01,ORD-12211
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-06-03,160,422.03,0,0.008,ORD-11018
+Singapore Hub,Machinery,TechSource GmbH,2024-05-25,8,5261.6,0,0.002,ORD-10913
+Frankfurt Hub,Textiles,Tata Supply Chain,2024-12-01,4790,31.97,0,0.002,ORD-12092
+Dubai Hub,Raw Materials,Oceania Freight,2024-12-07,569,201.56,0,0.002,ORD-12204
+Mumbai Hub,Electronics,Dragon Electronics,2024-02-03,318,431.39,1,0.01,ORD-10305
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-07-26,2006,39.94,0,0.002,ORD-11164
+São Paulo Hub,Consumer Goods,Pacific Trade Corp,2024-01-23,505,28.48,0,0.002,ORD-10088
+Dubai Hub,Electronics,Dragon Electronics,2024-09-25,687,385.17,0,0.008,ORD-11611
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-04-16,570,390.73,0,0.008,ORD-10587
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-02-28,447,87.06,0,0.006,ORD-10243
+Dubai Hub,Electronics,SinoLogistics Co.,2024-03-20,441,454.64,4,0.016,ORD-10471
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-05-16,2485,25.65,0,0.002,ORD-10772
+Frankfurt Hub,Raw Materials,Oceania Freight,2024-07-05,709,180.58,0,0.002,ORD-11152
+Dubai Hub,Agricultural,Oceania Freight,2024-05-15,5344,18.47,4,0.018,ORD-10878
+São Paulo Hub,Textiles,Tata Supply Chain,2024-04-16,1566,32.64,0,0.002,ORD-10640
+São Paulo Hub,Electronics,TechSource GmbH,2024-01-14,224,431.67,0,0.008,ORD-10076
+Los Angeles Hub,Machinery,Sakura Industries,2024-09-22,33,4906.42,0,0.002,ORD-11575
+Mumbai Hub,Food & Beverage,Oceania Freight,2024-01-07,3265,12.81,5,0.022,ORD-10128
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-01-24,274,159.72,0,0.002,ORD-10144
+Frankfurt Hub,Pharmaceuticals,EuroFreight BV,2024-10-28,1329,1117.58,0,0.003,ORD-11710
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-12-29,76,2650.8,0,0.005,ORD-12180
+Mumbai Hub,Agricultural,Mapleleaf Supply,2024-10-03,4233,18.69,0,0.01,ORD-11839
+Frankfurt Hub,Chemicals,Rhine Chemical AG,2024-03-19,163,104.37,0,0.006,ORD-10386
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-06-04,1758,34.1,0,0.002,ORD-11025
+Mumbai Hub,Food & Beverage,Oceania Freight,2024-05-21,6874,12.5,0,0.012,ORD-10887
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-06-09,275,156.75,1,0.004,ORD-11116
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-12-27,241,174.59,0,0.002,ORD-12272
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-11-24,78,3211.23,0,0.005,ORD-11934
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-12-24,58,2930.43,0,0.005,ORD-12157
+Mumbai Hub,Electronics,TechSource GmbH,2024-10-21,334,450.44,0,0.008,ORD-11820
+Singapore Hub,Machinery,Pacific Trade Corp,2024-12-28,5,5462.62,0,0.002,ORD-12246
+São Paulo Hub,Raw Materials,CapeTown Distributors,2024-06-13,784,206.34,0,0.002,ORD-11035
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-06-25,1245,28.81,0,0.002,ORD-10987
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-06-03,1839,18.0,0,0.01,ORD-10972
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-01-23,554,85.49,0,0.006,ORD-10174
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-11-15,371,106.69,0,0.006,ORD-11975
+Dubai Hub,Raw Materials,Oceania Freight,2024-08-06,202,177.34,0,0.002,ORD-11438
+Singapore Hub,Electronics,Dragon Electronics,2024-03-19,518,488.92,0,0.008,ORD-10517
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-09-17,599,211.42,0,0.002,ORD-11580
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-08-18,76,2666.2,0,0.005,ORD-11420
+Los Angeles Hub,Electronics,TechSource GmbH,2024-05-27,315,438.47,0,0.008,ORD-10805
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-02-21,1129,216.12,0,0.002,ORD-10368
+São Paulo Hub,Agricultural,Oceania Freight,2024-12-01,1323,16.27,0,0.01,ORD-12184
+Rotterdam Hub,Chemicals,Gulf Dynamics LLC,2024-09-20,105,96.56,0,0.006,ORD-11691
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-01-13,7160,13.62,0,0.012,ORD-10104
+Rotterdam Hub,Electronics,Dragon Electronics,2024-11-26,174,514.52,0,0.008,ORD-12063
+Singapore Hub,Agricultural,Mapleleaf Supply,2024-01-07,471,16.79,0,0.01,ORD-10161
+Singapore Hub,Food & Beverage,Oceania Freight,2024-07-09,7891,12.82,0,0.012,ORD-11290
+Shanghai Hub,Machinery,TechSource GmbH,2024-11-13,39,6189.76,0,0.002,ORD-11927
+Shanghai Hub,Electronics,TechSource GmbH,2024-01-19,133,481.31,0,0.008,ORD-10028
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-04-23,789,38.4,0,0.002,ORD-10611
+Mumbai Hub,Food & Beverage,Andean Exports SA,2024-07-15,4765,12.58,0,0.012,ORD-11263
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-12-04,42,2802.35,0,0.005,ORD-12205
+Dubai Hub,Building Materials,CapeTown Distributors,2024-03-04,510,49.66,0,0.002,ORD-10490
+São Paulo Hub,Chemicals,Baltic Shipping OÜ,2024-04-25,375,101.52,0,0.006,ORD-10645
+Frankfurt Hub,Textiles,Andean Exports SA,2024-12-23,2208,33.73,0,0.002,ORD-12093
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-10-11,2291,25.59,0,0.002,ORD-11853
+Los Angeles Hub,Machinery,TechSource GmbH,2024-03-27,7,4829.28,0,0.002,ORD-10438
+Frankfurt Hub,Machinery,Sakura Industries,2024-09-14,7,5934.09,0,0.002,ORD-11524
+Rotterdam Hub,Electronics,Sakura Industries,2024-01-30,65,420.68,0,0.008,ORD-10162
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-06-27,130,102.56,0,0.006,ORD-10984
+Singapore Hub,Textiles,SinoLogistics Co.,2024-06-04,2338,37.51,0,0.002,ORD-11095
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-05-18,49,2556.44,0,0.005,ORD-10776
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-02-23,1685,30.96,0,0.002,ORD-10240
+São Paulo Hub,Pharmaceuticals,EuroFreight BV,2024-06-16,1074,1239.18,0,0.003,ORD-11021
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-09-30,515,31.55,0,0.002,ORD-11670
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-01-10,868,1164.86,0,0.003,ORD-10078
+Los Angeles Hub,Pharmaceuticals,EuroFreight BV,2024-12-04,1015,1273.73,0,0.003,ORD-12142
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-04-16,4096,16.24,0,0.01,ORD-10657
+Dubai Hub,Luxury Goods,Mediterranean Trading,2024-05-12,62,2481.84,0,0.005,ORD-10871
+Dubai Hub,Building Materials,Atlas Logistics,2024-04-25,366,46.55,0,0.002,ORD-10679
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-09-06,1046,211.34,0,0.002,ORD-11554
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-08-02,626,222.61,0,0.002,ORD-11371
+Mumbai Hub,Textiles,Tata Supply Chain,2024-09-01,2065,37.64,0,0.002,ORD-11638
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-03-09,785,192.37,0,0.002,ORD-10557
+Los Angeles Hub,Pharmaceuticals,EuroFreight BV,2024-07-14,311,1042.81,0,0.003,ORD-11181
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-03-11,372,386.5,0,0.008,ORD-10448
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-09-03,4946,11.44,0,0.012,ORD-11572
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-04-07,8053,12.19,5,0.022,ORD-10620
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-10-27,303,48.58,0,0.002,ORD-11817
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-05-21,23,2971.14,0,0.005,ORD-10798
+Shanghai Hub,Raw Materials,Oceania Freight,2024-03-07,413,222.17,0,0.002,ORD-10416
+Los Angeles Hub,Electronics,TechSource GmbH,2024-08-04,272,498.47,0,0.008,ORD-11378
+Shanghai Hub,Electronics,TechSource GmbH,2024-06-01,366,507.01,0,0.008,ORD-10973
+Los Angeles Hub,Chemicals,Gulf Dynamics LLC,2024-05-13,211,81.22,0,0.006,ORD-10814
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-09-14,141,201.6,0,0.002,ORD-11565
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-09-07,2839,40.17,0,0.002,ORD-11569
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-04-21,796,205.17,2,0.006,ORD-10581
+Frankfurt Hub,Textiles,Andean Exports SA,2024-08-05,880,33.04,4,0.01,ORD-11340
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-07-01,293,82.54,2,0.01,ORD-11189
+Rotterdam Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-25,983,1159.89,3,0.009,ORD-11115
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-06-27,556,508.08,0,0.008,ORD-10950
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-08-03,3360,15.96,0,0.01,ORD-11467
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-10-21,377,205.35,0,0.002,ORD-11868
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-03-24,3919,15.32,0,0.01,ORD-10396
+Singapore Hub,Automotive Parts,Sakura Industries,2024-08-29,394,162.37,0,0.002,ORD-11472
+Mumbai Hub,Consumer Goods,SinoLogistics Co.,2024-06-03,889,29.86,0,0.002,ORD-11079
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-08-02,243,169.92,0,0.002,ORD-11496
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-05-26,1231,19.51,3,0.016,ORD-10949
+Frankfurt Hub,Consumer Goods,Pacific Trade Corp,2024-04-13,1323,24.6,0,0.002,ORD-10578
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-09-13,757,81.83,4,0.014,ORD-11599
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-01-10,1924,31.71,0,0.002,ORD-10110
+Singapore Hub,Building Materials,Atlas Logistics,2024-01-08,311,51.04,0,0.002,ORD-10158
+Singapore Hub,Textiles,Tata Supply Chain,2024-10-27,1586,38.71,0,0.002,ORD-11849
+São Paulo Hub,Food & Beverage,Mapleleaf Supply,2024-09-23,3486,10.28,0,0.012,ORD-11596
+Dubai Hub,Textiles,Mediterranean Trading,2024-12-19,2963,35.79,0,0.002,ORD-12192
+Mumbai Hub,Textiles,Andean Exports SA,2024-10-26,3131,31.79,0,0.002,ORD-11826
+Frankfurt Hub,Luxury Goods,EuroFreight BV,2024-03-25,63,2694.55,0,0.005,ORD-10393
+Mumbai Hub,Luxury Goods,EuroFreight BV,2024-08-10,10,2430.55,0,0.005,ORD-11464
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-03-22,1920,24.05,0,0.002,ORD-10485
+Singapore Hub,Chemicals,Atlas Logistics,2024-02-21,392,96.05,4,0.014,ORD-10338
+Frankfurt Hub,Machinery,Sakura Industries,2024-11-01,7,4868.39,0,0.002,ORD-11903
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-04-05,989,38.94,5,0.012,ORD-10752
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-09-03,93,173.4,0,0.002,ORD-11636
+Mumbai Hub,Pharmaceuticals,TechSource GmbH,2024-11-15,770,1302.59,0,0.003,ORD-12017
+Mumbai Hub,Raw Materials,CapeTown Distributors,2024-08-21,1001,228.07,0,0.002,ORD-11461
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-04-03,2863,18.23,0,0.01,ORD-10755
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-12-01,251,204.38,0,0.002,ORD-12165
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-01-21,767,81.9,0,0.006,ORD-10106
+Shanghai Hub,Electronics,TechSource GmbH,2024-11-29,810,405.08,0,0.008,ORD-11914
+Dubai Hub,Machinery,TechSource GmbH,2024-03-21,15,6209.37,0,0.002,ORD-10482
+Mumbai Hub,Building Materials,Atlas Logistics,2024-12-28,156,43.94,0,0.002,ORD-12234
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-08-29,93,196.57,0,0.002,ORD-11449
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-12-25,998,24.11,0,0.002,ORD-12227
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-01-21,303,205.1,0,0.002,ORD-10167
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-12-10,390,1100.01,0,0.003,ORD-12163
+Frankfurt Hub,Electronics,Dragon Electronics,2024-05-29,419,427.19,0,0.008,ORD-10756
+Los Angeles Hub,Automotive Parts,Pacific Trade Corp,2024-02-18,86,174.44,0,0.002,ORD-10238
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-11-11,301,192.68,3,0.008,ORD-11967
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-07-31,1192,1204.11,0,0.003,ORD-11258
+Dubai Hub,Raw Materials,Oceania Freight,2024-11-27,1079,209.49,0,0.002,ORD-12007
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-03-29,465,452.06,0,0.008,ORD-10376
+Frankfurt Hub,Electronics,Sakura Industries,2024-12-28,225,463.58,0,0.008,ORD-12086
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-02-05,1478,1247.91,0,0.003,ORD-10214
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-06-13,1242,49.75,0,0.002,ORD-10969
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-06-25,26,2806.68,0,0.005,ORD-11060
+Los Angeles Hub,Building Materials,CapeTown Distributors,2024-05-12,1269,43.62,0,0.002,ORD-10825
+Mumbai Hub,Agricultural,Andean Exports SA,2024-12-06,1378,19.67,0,0.01,ORD-12236
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-10-01,2567,13.39,0,0.012,ORD-11785
+Los Angeles Hub,Machinery,TechSource GmbH,2024-01-28,27,5021.63,0,0.002,ORD-10065
+Singapore Hub,Automotive Parts,TechSource GmbH,2024-03-21,76,174.4,0,0.002,ORD-10522
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-06-02,3502,18.83,0,0.01,ORD-11135
+São Paulo Hub,Agricultural,Oceania Freight,2024-02-04,2618,16.09,0,0.01,ORD-10278
+Los Angeles Hub,Agricultural,Oceania Freight,2024-09-04,2367,18.34,0,0.01,ORD-11585
+Rotterdam Hub,Chemicals,Atlas Logistics,2024-11-28,534,97.07,0,0.006,ORD-12072
+Los Angeles Hub,Pharmaceuticals,EuroFreight BV,2024-02-25,792,1138.12,0,0.003,ORD-10236
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-09-04,442,172.2,0,0.002,ORD-11697
+Los Angeles Hub,Pharmaceuticals,Tata Supply Chain,2024-03-05,576,1350.08,0,0.003,ORD-10427
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-07-31,4530,18.35,0,0.01,ORD-11202
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-03-28,678,28.3,0,0.002,ORD-10413
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-11-17,70,2783.59,0,0.005,ORD-12009
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-10-07,265,190.61,0,0.002,ORD-11869
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-09-28,560,44.08,0,0.002,ORD-11559
+Dubai Hub,Agricultural,Panama Canal Trade,2024-11-21,606,20.2,0,0.01,ORD-12013
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-06-30,9021,11.61,0,0.012,ORD-11121
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-04-05,1043,194.03,0,0.002,ORD-10580
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-03-27,228,42.29,0,0.002,ORD-10444
+São Paulo Hub,Luxury Goods,Sakura Industries,2024-01-25,74,2738.46,0,0.005,ORD-10090
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-04-04,320,1373.36,0,0.003,ORD-10707
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-06-29,214,163.83,0,0.002,ORD-11046
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-10-15,21,3180.37,0,0.005,ORD-11835
+Singapore Hub,Chemicals,Atlas Logistics,2024-05-06,193,100.3,0,0.006,ORD-10912
+Dubai Hub,Agricultural,Panama Canal Trade,2024-09-23,3445,17.55,0,0.01,ORD-11631
+Singapore Hub,Agricultural,Panama Canal Trade,2024-04-04,3084,18.86,2,0.014,ORD-10729
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-02-17,358,39.49,8,0.018,ORD-10275
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-11-30,6620,11.92,0,0.012,ORD-12045
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-06-15,315,97.22,0,0.006,ORD-11099
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-06-15,55,2569.62,0,0.005,ORD-11082
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-20,529,1160.08,0,0.003,ORD-10830
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-09-19,40,2806.24,0,0.005,ORD-11606
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-12-16,2169,20.35,0,0.01,ORD-12278
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-01-04,403,87.23,0,0.006,ORD-10129
+Los Angeles Hub,Machinery,Sakura Industries,2024-12-10,28,5221.98,0,0.002,ORD-12153
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-11-02,691,208.26,0,0.002,ORD-12079
+Mumbai Hub,Consumer Goods,MarinaPort Pte,2024-12-13,1162,32.15,0,0.002,ORD-12228
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-12-21,7156,10.49,0,0.012,ORD-12222
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-05-17,1194,36.83,0,0.002,ORD-10836
+Rotterdam Hub,Consumer Goods,EuroFreight BV,2024-06-28,629,30.87,0,0.002,ORD-11127
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-06-07,348,82.79,0,0.006,ORD-10958
+Mumbai Hub,Machinery,Sakura Industries,2024-02-26,10,4783.48,0,0.002,ORD-10316
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-05-05,343,160.93,0,0.002,ORD-10808
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-12-16,2530,10.71,0,0.012,ORD-12169
+Singapore Hub,Luxury Goods,Sakura Industries,2024-04-20,56,2981.37,0,0.005,ORD-10723
+Singapore Hub,Automotive Parts,Sakura Industries,2024-02-12,213,166.05,0,0.002,ORD-10331
+Shanghai Hub,Automotive Parts,TechSource GmbH,2024-08-31,111,169.12,0,0.002,ORD-11359
+Los Angeles Hub,Machinery,TechSource GmbH,2024-02-21,38,5516.42,0,0.002,ORD-10244
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-07-29,77,2407.48,0,0.005,ORD-11175
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-08-28,3393,15.57,7,0.024,ORD-11400
+Mumbai Hub,Electronics,SinoLogistics Co.,2024-07-07,205,413.94,0,0.008,ORD-11256
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-01-14,6972,10.4,0,0.012,ORD-10038
+Shanghai Hub,Textiles,Tata Supply Chain,2024-04-09,1817,35.79,4,0.01,ORD-10594
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-10-17,1428,1085.29,0,0.003,ORD-11799
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-08-19,917,1127.71,0,0.003,ORD-11425
+Rotterdam Hub,Building Materials,Atlas Logistics,2024-08-08,756,42.89,6,0.014,ORD-11508
+Mumbai Hub,Chemicals,Atlas Logistics,2024-07-13,570,81.78,0,0.006,ORD-11266
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-11-19,349,186.34,0,0.002,ORD-12020
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-03-18,8,5725.63,0,0.002,ORD-10439
+Los Angeles Hub,Building Materials,CapeTown Distributors,2024-08-11,256,48.65,0,0.002,ORD-11399
+Dubai Hub,Machinery,Sakura Industries,2024-07-03,22,6240.51,0,0.002,ORD-11242
+Rotterdam Hub,Textiles,Mediterranean Trading,2024-07-16,1533,39.48,0,0.002,ORD-11315
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-02-18,701,101.9,0,0.006,ORD-10199
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-06-02,5105,16.92,0,0.01,ORD-11017
+Dubai Hub,Agricultural,Panama Canal Trade,2024-03-17,2213,18.52,0,0.01,ORD-10493
+Dubai Hub,Textiles,Mediterranean Trading,2024-08-07,737,33.63,0,0.002,ORD-11429
+Los Angeles Hub,Chemicals,Gulf Dynamics LLC,2024-06-05,152,92.71,0,0.006,ORD-11007
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-02-23,6318,11.67,0,0.012,ORD-10196
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-01-18,651,1181.72,0,0.003,ORD-10004
+Dubai Hub,Agricultural,Oceania Freight,2024-05-10,4468,18.78,0,0.01,ORD-10877
+Shanghai Hub,Machinery,Sakura Industries,2024-08-10,13,5804.12,0,0.002,ORD-11366
+Frankfurt Hub,Pharmaceuticals,TechSource GmbH,2024-05-21,281,1265.72,0,0.003,ORD-10758
+Frankfurt Hub,Automotive Parts,SinoLogistics Co.,2024-08-10,393,173.03,5,0.012,ORD-11337
+Los Angeles Hub,Machinery,Pacific Trade Corp,2024-07-17,31,5629.86,0,0.002,ORD-11190
+Rotterdam Hub,Machinery,TechSource GmbH,2024-10-21,31,4846.06,0,0.002,ORD-11878
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-02-27,804,1288.76,0,0.003,ORD-10190
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-01-08,678,1328.16,0,0.003,ORD-10165
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-08-13,7872,12.91,0,0.012,ORD-11499
+Dubai Hub,Electronics,SinoLogistics Co.,2024-07-25,501,428.44,1,0.01,ORD-11230
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-10-26,40,2383.49,0,0.005,ORD-11885
+Rotterdam Hub,Luxury Goods,Mediterranean Trading,2024-02-24,32,2731.02,0,0.005,ORD-10369
+São Paulo Hub,Chemicals,Atlas Logistics,2024-10-21,202,101.39,0,0.006,ORD-11787
+Frankfurt Hub,Textiles,Andean Exports SA,2024-01-20,3436,31.77,0,0.002,ORD-10009
+São Paulo Hub,Luxury Goods,Mediterranean Trading,2024-02-17,46,2450.46,0,0.005,ORD-10274
+Dubai Hub,Building Materials,CapeTown Distributors,2024-09-05,436,50.81,0,0.002,ORD-11629
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-06-20,306,44.53,1,0.004,ORD-10968
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-08-02,3231,10.3,0,0.012,ORD-11454
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-02-24,161,493.42,0,0.008,ORD-10351
+Shanghai Hub,Agricultural,Andean Exports SA,2024-10-26,5056,19.24,0,0.01,ORD-11748
+Singapore Hub,Agricultural,Oceania Freight,2024-07-16,4038,20.42,0,0.01,ORD-11306
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-12-26,3585,33.94,3,0.008,ORD-12146
+Mumbai Hub,Electronics,Dragon Electronics,2024-03-16,225,448.6,0,0.008,ORD-10494
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-06-11,62,162.66,0,0.002,ORD-11001
+Los Angeles Hub,Agricultural,Panama Canal Trade,2024-01-04,1149,19.23,0,0.01,ORD-10074
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-11-03,689,30.77,0,0.002,ORD-11928
+Dubai Hub,Textiles,Tata Supply Chain,2024-02-03,2099,38.92,0,0.002,ORD-10286
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-05-17,253,164.99,0,0.002,ORD-10856
+São Paulo Hub,Raw Materials,Atlas Logistics,2024-02-25,996,192.91,0,0.002,ORD-10271
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-09-22,712,1128.98,0,0.003,ORD-11539
+São Paulo Hub,Raw Materials,Atlas Logistics,2024-08-07,286,172.22,0,0.002,ORD-11418
+Los Angeles Hub,Textiles,Tata Supply Chain,2024-03-01,2946,35.54,0,0.002,ORD-10432
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-01-19,2990,13.02,0,0.012,ORD-10036
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-02-14,823,225.75,5,0.012,ORD-10226
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-04-18,7038,13.78,0,0.012,ORD-10689
+Frankfurt Hub,Consumer Goods,Pacific Trade Corp,2024-05-30,1862,27.12,0,0.002,ORD-10771
+Los Angeles Hub,Raw Materials,Atlas Logistics,2024-06-29,834,207.72,0,0.002,ORD-11012
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-02-02,73,2536.5,0,0.005,ORD-10370
+Singapore Hub,Chemicals,Rhine Chemical AG,2024-02-02,388,94.85,0,0.006,ORD-10337
+Singapore Hub,Luxury Goods,Sakura Industries,2024-02-17,29,2889.26,0,0.005,ORD-10344
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-05-13,364,188.43,0,0.002,ORD-10833
+Frankfurt Hub,Pharmaceuticals,EuroFreight BV,2024-12-01,1443,1303.74,0,0.003,ORD-12089
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-10-25,2120,13.53,0,0.012,ORD-11874
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-05-30,662,88.86,0,0.006,ORD-10839
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-04-23,760,1163.23,0,0.003,ORD-10733
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-03-13,756,109.05,0,0.006,ORD-10528
+Shanghai Hub,Textiles,Tata Supply Chain,2024-11-07,4195,32.67,0,0.002,ORD-11921
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-03-02,1424,1261.93,2,0.007,ORD-10401
+Singapore Hub,Chemicals,Atlas Logistics,2024-11-14,410,103.02,2,0.01,ORD-12047
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-10-21,527,204.09,7,0.016,ORD-11855
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-03-21,219,205.15,0,0.002,ORD-10474
+Singapore Hub,Electronics,Sakura Industries,2024-11-27,718,477.44,0,0.008,ORD-12037
+Los Angeles Hub,Consumer Goods,EuroFreight BV,2024-09-22,928,27.5,0,0.002,ORD-11578
+São Paulo Hub,Electronics,Sakura Industries,2024-02-14,93,489.05,0,0.008,ORD-10257
+Singapore Hub,Agricultural,Mapleleaf Supply,2024-02-25,2417,15.58,0,0.01,ORD-10350
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-01-21,30,2641.03,0,0.005,ORD-10157
+Mumbai Hub,Food & Beverage,Andean Exports SA,2024-08-03,4566,13.63,0,0.012,ORD-11453
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-09-08,781,92.11,0,0.006,ORD-11642
+São Paulo Hub,Raw Materials,Atlas Logistics,2024-07-28,366,204.9,0,0.002,ORD-11223
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-10-11,407,178.35,0,0.002,ORD-11791
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-10-22,4084,11.5,0,0.012,ORD-11758
+Shanghai Hub,Chemicals,Atlas Logistics,2024-11-11,342,97.18,0,0.006,ORD-11925
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-06-12,14,5401.76,2,0.006,ORD-10961
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-03-31,277,172.44,0,0.002,ORD-10453
+Rotterdam Hub,Textiles,Andean Exports SA,2024-11-20,2362,38.26,0,0.002,ORD-12069
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-05-02,1143,1284.72,0,0.003,ORD-10905
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-10-04,305,188.73,0,0.002,ORD-11801
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-09-21,36,2564.4,0,0.005,ORD-11530
+Los Angeles Hub,Raw Materials,Atlas Logistics,2024-02-21,1084,228.26,0,0.002,ORD-10248
+Singapore Hub,Building Materials,CapeTown Distributors,2024-07-04,681,49.49,0,0.002,ORD-11303
+São Paulo Hub,Machinery,Nordic Materials AB,2024-01-23,36,5334.43,0,0.002,ORD-10086
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-05-07,597,198.18,0,0.002,ORD-10797
+Rotterdam Hub,Building Materials,Atlas Logistics,2024-11-20,271,39.8,0,0.002,ORD-12083
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-09-08,8301,13.13,0,0.012,ORD-11544
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-02-01,817,1360.32,0,0.003,ORD-10235
+Singapore Hub,Agricultural,Mapleleaf Supply,2024-09-27,949,15.82,1,0.012,ORD-11679
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-03-26,787,41.52,0,0.002,ORD-10561
+Dubai Hub,Building Materials,CapeTown Distributors,2024-03-27,779,46.22,0,0.002,ORD-10491
+Dubai Hub,Chemicals,Baltic Shipping OÜ,2024-03-03,145,103.84,0,0.006,ORD-10481
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-01-07,1794,12.57,0,0.012,ORD-10037
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-08-31,763,1303.23,0,0.003,ORD-11448
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-11-11,580,1148.79,0,0.003,ORD-11917
+Dubai Hub,Agricultural,Andean Exports SA,2024-04-12,2364,19.39,0,0.01,ORD-10681
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-08-12,19,5512.6,0,0.002,ORD-11390
+São Paulo Hub,Raw Materials,Oceania Freight,2024-01-05,883,201.87,0,0.002,ORD-10089
+Frankfurt Hub,Textiles,Andean Exports SA,2024-09-08,1576,33.32,0,0.002,ORD-11518
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-09-30,388,28.4,0,0.002,ORD-11672
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-06-19,125,188.69,0,0.002,ORD-11070
+Dubai Hub,Raw Materials,Andean Mining Corp,2024-01-22,1015,229.03,0,0.002,ORD-10112
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-09-06,711,25.29,0,0.002,ORD-11576
+Los Angeles Hub,Electronics,Dragon Electronics,2024-07-16,310,425.76,0,0.008,ORD-11180
+Dubai Hub,Machinery,Pacific Trade Corp,2024-02-16,7,5917.93,0,0.002,ORD-10294
+Mumbai Hub,Textiles,Tata Supply Chain,2024-08-04,2447,31.52,0,0.002,ORD-11452
+Rotterdam Hub,Pharmaceuticals,EuroFreight BV,2024-10-05,848,1025.11,0,0.003,ORD-11865
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-10-15,3584,13.63,0,0.012,ORD-11716
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-08-27,798,46.73,0,0.002,ORD-11353
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-07-18,152,175.37,0,0.002,ORD-11287
+Singapore Hub,Food & Beverage,Oceania Freight,2024-02-03,5140,11.85,0,0.012,ORD-10336
+Rotterdam Hub,Chemicals,Atlas Logistics,2024-03-26,378,95.68,0,0.006,ORD-10550
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-06-15,1593,31.88,0,0.002,ORD-11103
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-01-04,14,3101.22,0,0.005,ORD-10069
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-03-12,7947,12.79,0,0.012,ORD-10501
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-11-22,1063,16.31,2,0.014,ORD-11961
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-12-09,516,395.96,5,0.018,ORD-12162
+Dubai Hub,Agricultural,Mapleleaf Supply,2024-01-15,2143,17.81,0,0.01,ORD-10118
+Mumbai Hub,Machinery,Pacific Trade Corp,2024-06-30,31,4929.54,1,0.004,ORD-11078
+Singapore Hub,Machinery,Nordic Materials AB,2024-12-16,18,6181.17,0,0.002,ORD-12247
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-05-08,3317,10.9,0,0.012,ORD-10933
+Shanghai Hub,Building Materials,Baltic Shipping OÜ,2024-06-08,846,48.73,0,0.002,ORD-10993
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-10-20,1351,11.06,0,0.012,ORD-11827
+Singapore Hub,Raw Materials,Atlas Logistics,2024-12-08,570,190.39,0,0.002,ORD-12252
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-04-26,79,196.67,0,0.002,ORD-10592
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-02-12,385,190.72,0,0.002,ORD-10260
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-11-07,54,2974.79,0,0.005,ORD-11908
+São Paulo Hub,Machinery,TechSource GmbH,2024-07-01,14,5108.42,3,0.008,ORD-11218
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-02-19,145,188.88,0,0.002,ORD-10285
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-11-12,500,83.62,0,0.006,ORD-11900
+São Paulo Hub,Food & Beverage,Mapleleaf Supply,2024-05-06,4238,13.01,0,0.012,ORD-10837
+Frankfurt Hub,Building Materials,Andean Mining Corp,2024-11-06,597,49.67,0,0.002,ORD-11910
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-01-13,4714,12.49,0,0.012,ORD-10011
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-03-21,465,41.78,0,0.002,ORD-10420
+Dubai Hub,Electronics,TechSource GmbH,2024-02-03,239,411.61,0,0.008,ORD-10280
+Shanghai Hub,Electronics,TechSource GmbH,2024-02-12,379,450.52,0,0.008,ORD-10210
+Dubai Hub,Consumer Goods,EuroFreight BV,2024-05-29,2293,26.32,0,0.002,ORD-10867
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-08-14,502,102.39,0,0.006,ORD-11412
+Dubai Hub,Electronics,TechSource GmbH,2024-12-06,788,468.41,0,0.008,ORD-12187
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-02-18,777,90.35,0,0.006,ORD-10265
+Singapore Hub,Automotive Parts,SinoLogistics Co.,2024-04-30,341,189.63,0,0.002,ORD-10708
+Singapore Hub,Textiles,Mediterranean Trading,2024-01-02,2184,36.09,0,0.002,ORD-10146
+Singapore Hub,Agricultural,Panama Canal Trade,2024-01-16,898,17.77,0,0.01,ORD-10160
+São Paulo Hub,Chemicals,Baltic Shipping OÜ,2024-05-30,455,108.2,0,0.006,ORD-10840
+Shanghai Hub,Consumer Goods,MarinaPort Pte,2024-05-19,2280,31.69,0,0.002,ORD-10795
+Frankfurt Hub,Textiles,Andean Exports SA,2024-03-29,1078,36.46,3,0.008,ORD-10381
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-12-21,165,404.22,0,0.008,ORD-12258
+Rotterdam Hub,Pharmaceuticals,Rhine Chemical AG,2024-09-01,438,1049.75,0,0.003,ORD-11684
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-07-24,864,1063.49,0,0.003,ORD-11140
+Dubai Hub,Chemicals,Atlas Logistics,2024-05-16,315,92.69,0,0.006,ORD-10862
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-08-29,28,2774.4,0,0.005,ORD-11506
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-05-24,295,177.99,0,0.002,ORD-10786
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-07-29,67,167.8,0,0.002,ORD-11314
+Singapore Hub,Chemicals,Atlas Logistics,2024-04-22,252,104.66,0,0.006,ORD-10713
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-07-28,3882,12.33,0,0.012,ORD-11165
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-12-11,703,18.13,0,0.01,ORD-12183
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-01-28,104,51.22,0,0.002,ORD-10047
+Frankfurt Hub,Machinery,Pacific Trade Corp,2024-01-30,18,5756.47,0,0.002,ORD-10016
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-05-27,9491,12.32,5,0.022,ORD-10790
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-07-04,122,193.91,0,0.002,ORD-11142
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-11-11,352,194.13,0,0.002,ORD-11944
+Frankfurt Hub,Agricultural,Panama Canal Trade,2024-02-24,1857,15.91,0,0.01,ORD-10209
+Singapore Hub,Agricultural,Andean Exports SA,2024-12-22,1442,19.65,0,0.01,ORD-12257
+Rotterdam Hub,Raw Materials,CapeTown Distributors,2024-07-20,1128,175.34,0,0.002,ORD-11324
+Shanghai Hub,Raw Materials,CapeTown Distributors,2024-02-01,479,212.16,0,0.002,ORD-10227
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-10-10,453,47.81,0,0.002,ORD-11772
+Rotterdam Hub,Chemicals,Gulf Dynamics LLC,2024-10-18,655,93.17,0,0.006,ORD-11875
+Mumbai Hub,Consumer Goods,MarinaPort Pte,2024-04-20,1377,30.78,2,0.006,ORD-10695
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-02-16,1747,13.19,0,0.012,ORD-10220
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-01-02,50,2428.02,0,0.005,ORD-10046
+Shanghai Hub,Chemicals,Rhine Chemical AG,2024-08-16,397,94.09,0,0.006,ORD-11365
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-12-23,2120,31.27,0,0.002,ORD-12126
+Shanghai Hub,Electronics,TechSource GmbH,2024-12-11,226,392.46,0,0.008,ORD-12111
+Singapore Hub,Electronics,Sakura Industries,2024-07-22,250,465.5,0,0.008,ORD-11280
+Dubai Hub,Textiles,SinoLogistics Co.,2024-05-28,2372,40.0,0,0.002,ORD-10858
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-08-04,7255,10.39,0,0.012,ORD-11498
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-12-24,488,83.32,0,0.006,ORD-12150
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-04-30,152,164.32,0,0.002,ORD-10736
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-02-02,180,90.62,0,0.006,ORD-10361
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-12-07,128,97.8,0,0.006,ORD-12122
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-03-05,271,40.66,0,0.002,ORD-10395
+São Paulo Hub,Machinery,Nordic Materials AB,2024-12-23,37,5590.43,0,0.002,ORD-12174
+Frankfurt Hub,Machinery,TechSource GmbH,2024-10-08,15,5624.27,0,0.002,ORD-11719
+Frankfurt Hub,Chemicals,Baltic Shipping OÜ,2024-05-06,671,82.76,0,0.006,ORD-10766
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-03-27,2603,11.54,0,0.012,ORD-10548
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-09-03,726,45.25,0,0.002,ORD-11533
+Singapore Hub,Textiles,Mediterranean Trading,2024-07-06,960,36.69,0,0.002,ORD-11289
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-01-09,461,210.01,4,0.01,ORD-10178
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-08-22,564,91.69,0,0.006,ORD-11500
+Frankfurt Hub,Agricultural,Oceania Freight,2024-04-06,1792,20.2,0,0.01,ORD-10585
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-05-16,1691,31.87,0,0.002,ORD-10844
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-08-27,973,1207.08,0,0.003,ORD-11426
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-08-13,301,199.55,0,0.002,ORD-11450
+Singapore Hub,Electronics,Dragon Electronics,2024-04-22,416,430.77,0,0.008,ORD-10703
+Mumbai Hub,Agricultural,Oceania Freight,2024-04-02,2567,19.63,0,0.01,ORD-10701
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-03-23,461,477.24,0,0.008,ORD-10541
+Los Angeles Hub,Textiles,SinoLogistics Co.,2024-01-31,1899,30.96,0,0.002,ORD-10057
+Singapore Hub,Agricultural,Panama Canal Trade,2024-11-20,1480,15.72,7,0.024,ORD-12061
+Rotterdam Hub,Machinery,Sakura Industries,2024-04-24,40,5316.66,0,0.002,ORD-10744
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-07-23,55,2517.18,0,0.005,ORD-11224
+Shanghai Hub,Luxury Goods,Sakura Industries,2024-08-15,43,2666.72,0,0.005,ORD-11372
+Rotterdam Hub,Machinery,TechSource GmbH,2024-12-10,12,5264.45,0,0.002,ORD-12268
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-12-18,2049,16.88,0,0.01,ORD-12110
+Frankfurt Hub,Machinery,Sakura Industries,2024-04-03,24,6038.54,0,0.002,ORD-10575
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-11-28,21,2979.09,0,0.005,ORD-11984
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-06-24,302,196.63,2,0.006,ORD-11023
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-03-28,342,86.73,0,0.006,ORD-10504
+São Paulo Hub,Machinery,Sakura Industries,2024-11-30,34,5798.52,0,0.002,ORD-11979
+Singapore Hub,Electronics,Sakura Industries,2024-04-20,175,432.8,0,0.008,ORD-10704
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-06-16,1979,27.51,0,0.002,ORD-11011
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-09-26,296,95.93,0,0.006,ORD-11523
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-03-25,3737,20.64,0,0.01,ORD-10446
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-06-23,397,46.08,1,0.004,ORD-11085
+Singapore Hub,Luxury Goods,Sakura Industries,2024-11-13,25,2931.54,0,0.005,ORD-12056
+São Paulo Hub,Food & Beverage,Oceania Freight,2024-04-02,3840,13.43,0,0.012,ORD-10642
+Dubai Hub,Raw Materials,Atlas Logistics,2024-02-10,656,206.16,0,0.002,ORD-10300
+Singapore Hub,Electronics,SinoLogistics Co.,2024-06-16,616,459.99,0,0.008,ORD-11089
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-05-16,1198,32.05,0,0.002,ORD-10811
+Mumbai Hub,Agricultural,Mapleleaf Supply,2024-01-08,1656,15.71,0,0.01,ORD-10139
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-04-01,218,92.63,0,0.006,ORD-10690
+Dubai Hub,Food & Beverage,Andean Exports SA,2024-02-27,7802,13.0,0,0.012,ORD-10290
+São Paulo Hub,Agricultural,Panama Canal Trade,2024-09-26,1075,20.44,0,0.01,ORD-11609
+Dubai Hub,Electronics,SinoLogistics Co.,2024-04-12,338,411.96,0,0.008,ORD-10659
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-03-03,158,43.23,0,0.002,ORD-10560
+São Paulo Hub,Building Materials,Baltic Shipping OÜ,2024-11-14,175,50.31,5,0.012,ORD-11987
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-03-17,60,2628.26,0,0.005,ORD-10535
+Rotterdam Hub,Raw Materials,CapeTown Distributors,2024-12-20,1140,219.53,6,0.014,ORD-12271
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-08-18,1693,11.95,0,0.012,ORD-11385
+Frankfurt Hub,Food & Beverage,Oceania Freight,2024-05-18,8184,13.14,0,0.012,ORD-10764
+São Paulo Hub,Machinery,Nordic Materials AB,2024-06-30,7,5740.33,0,0.002,ORD-11030
+Mumbai Hub,Food & Beverage,Oceania Freight,2024-06-20,11120,10.66,0,0.012,ORD-11073
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-07-21,216,198.79,0,0.002,ORD-11171
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-08-11,374,106.2,0,0.006,ORD-11387
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-12-04,232,97.99,0,0.006,ORD-12149
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-03-03,766,206.06,0,0.002,ORD-10533
+Dubai Hub,Textiles,Mediterranean Trading,2024-01-21,1266,38.85,0,0.002,ORD-10102
+Singapore Hub,Electronics,Dragon Electronics,2024-05-06,336,492.83,0,0.008,ORD-10903
+Dubai Hub,Raw Materials,Atlas Logistics,2024-04-05,1083,212.94,0,0.002,ORD-10676
+Dubai Hub,Agricultural,Oceania Freight,2024-03-08,979,16.29,0,0.01,ORD-10492
+São Paulo Hub,Machinery,Nordic Materials AB,2024-11-14,27,5150.87,4,0.01,ORD-11978
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-09-21,295,180.29,0,0.002,ORD-11553
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-01-16,1175,31.06,0,0.002,ORD-10043
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-08-29,7,5403.51,4,0.01,ORD-11346
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-02-18,282,172.9,0,0.002,ORD-10193
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-09-10,888,44.3,0,0.002,ORD-11608
+Los Angeles Hub,Consumer Goods,MarinaPort Pte,2024-02-06,608,25.29,0,0.002,ORD-10246
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-07-29,4144,17.7,0,0.01,ORD-11156
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-10-27,493,83.13,0,0.006,ORD-11808
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-10-23,575,505.7,0,0.008,ORD-11863
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-11-10,191,45.87,0,0.002,ORD-12012
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-11-04,235,1224.22,2,0.007,ORD-11965
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-11-07,610,48.18,0,0.002,ORD-12057
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-04-29,233,193.51,0,0.002,ORD-10685
+Mumbai Hub,Electronics,Sakura Industries,2024-01-26,342,420.25,0,0.008,ORD-10120
+São Paulo Hub,Consumer Goods,EuroFreight BV,2024-03-14,2283,30.37,0,0.002,ORD-10459
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-10-14,316,192.0,1,0.004,ORD-11867
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-12-03,1113,225.48,0,0.002,ORD-12130
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-11-23,323,49.76,0,0.002,ORD-11960
+Singapore Hub,Machinery,Nordic Materials AB,2024-11-25,13,5384.04,0,0.002,ORD-12050
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-06-22,61,184.19,0,0.002,ORD-11045
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-12-09,689,89.1,0,0.006,ORD-12098
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-04-04,241,195.71,0,0.002,ORD-10750
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-04-20,813,34.28,0,0.002,ORD-10618
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-07-11,228,205.43,0,0.002,ORD-11271
+Singapore Hub,Electronics,Dragon Electronics,2024-05-04,474,486.62,0,0.008,ORD-10904
+Dubai Hub,Food & Beverage,Andean Exports SA,2024-01-11,4724,11.38,0,0.012,ORD-10103
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-01-02,340,98.74,0,0.006,ORD-10172
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-12-01,386,46.79,0,0.002,ORD-12208
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-04-23,428,209.93,0,0.002,ORD-10605
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-01-26,187,46.84,0,0.002,ORD-10185
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-11-18,1543,27.89,0,0.002,ORD-11980
+Dubai Hub,Consumer Goods,EuroFreight BV,2024-10-12,870,26.28,0,0.002,ORD-11811
+Dubai Hub,Raw Materials,CapeTown Distributors,2024-01-27,304,211.83,0,0.002,ORD-10111
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-06-01,298,90.17,0,0.006,ORD-11029
+Mumbai Hub,Food & Beverage,Oceania Freight,2024-11-29,8629,13.7,1,0.014,ORD-12024
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-09-22,1211,28.91,0,0.002,ORD-11603
+Rotterdam Hub,Machinery,TechSource GmbH,2024-03-21,36,5426.08,0,0.002,ORD-10551
+Shanghai Hub,Electronics,TechSource GmbH,2024-10-29,720,502.99,0,0.008,ORD-11730
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-11-27,251,185.09,0,0.002,ORD-11983
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-01-29,111,166.39,0,0.002,ORD-10032
+Shanghai Hub,Machinery,Sakura Industries,2024-12-12,23,6228.98,0,0.002,ORD-12124
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-11-01,159,178.13,0,0.002,ORD-11919
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-09-10,68,2428.26,0,0.005,ORD-11556
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-23,631,1080.09,0,0.003,ORD-10880
+Dubai Hub,Agricultural,Panama Canal Trade,2024-08-22,3514,16.8,0,0.01,ORD-11444
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-03-05,212,172.48,0,0.002,ORD-10452
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-05-17,3451,16.19,0,0.01,ORD-10803
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-11-02,1181,176.66,0,0.002,ORD-11955
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-05-25,8598,11.73,0,0.012,ORD-10763
+São Paulo Hub,Electronics,TechSource GmbH,2024-07-22,395,385.85,0,0.008,ORD-11204
+Rotterdam Hub,Consumer Goods,EuroFreight BV,2024-11-27,1032,27.53,0,0.002,ORD-12078
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-05-07,1216,49.74,0,0.002,ORD-10777
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-01-11,134,198.39,5,0.012,ORD-10100
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-08-21,1008,37.66,0,0.002,ORD-11408
+Shanghai Hub,Consumer Goods,MarinaPort Pte,2024-02-19,933,29.32,0,0.002,ORD-10224
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-07-22,533,45.73,0,0.002,ORD-11251
+Rotterdam Hub,Agricultural,Oceania Freight,2024-01-02,2238,17.68,0,0.01,ORD-10187
+Mumbai Hub,Raw Materials,CapeTown Distributors,2024-03-16,791,207.94,0,0.002,ORD-10511
+Los Angeles Hub,Building Materials,CapeTown Distributors,2024-11-10,107,39.52,0,0.002,ORD-11959
+Dubai Hub,Chemicals,Atlas Logistics,2024-12-15,780,94.19,0,0.006,ORD-12196
+Mumbai Hub,Textiles,SinoLogistics Co.,2024-07-01,1446,36.1,0,0.002,ORD-11261
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-01-13,2338,31.47,0,0.002,ORD-10177
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-01-12,422,51.5,0,0.002,ORD-10072
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-03-26,7965,11.09,0,0.012,ORD-10384
+Frankfurt Hub,Consumer Goods,SinoLogistics Co.,2024-04-13,1524,25.99,1,0.004,ORD-10577
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-06-16,264,384.98,0,0.008,ORD-10974
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-06-05,10231,10.72,2,0.016,ORD-10982
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-02-06,620,87.14,2,0.01,ORD-10314
+Dubai Hub,Agricultural,Mapleleaf Supply,2024-12-23,2391,16.01,0,0.01,ORD-12210
+Shanghai Hub,Textiles,Tata Supply Chain,2024-11-18,3118,32.73,0,0.002,ORD-11920
+Frankfurt Hub,Automotive Parts,TechSource GmbH,2024-01-25,266,171.37,0,0.002,ORD-10005
+Shanghai Hub,Machinery,Pacific Trade Corp,2024-06-21,14,5960.53,0,0.002,ORD-10986
+Mumbai Hub,Consumer Goods,MarinaPort Pte,2024-11-26,652,28.69,0,0.002,ORD-12029
+Shanghai Hub,Pharmaceuticals,TechSource GmbH,2024-08-28,533,1159.86,0,0.003,ORD-11358
+Dubai Hub,Raw Materials,Andean Mining Corp,2024-08-28,627,198.87,0,0.002,ORD-11439
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-09-30,52,153.69,0,0.002,ORD-11615
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-03-20,4846,12.73,5,0.022,ORD-10383
+Frankfurt Hub,Building Materials,Andean Mining Corp,2024-07-18,435,48.85,0,0.002,ORD-11155
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-01-21,265,101.88,0,0.006,ORD-10061
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-09-10,343,204.62,0,0.002,ORD-11695
+Los Angeles Hub,Machinery,TechSource GmbH,2024-01-18,28,5636.14,0,0.002,ORD-10063
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-08-19,816,29.15,0,0.002,ORD-11503
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-12-05,2065,31.3,0,0.002,ORD-12270
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-02-05,1632,11.26,0,0.012,ORD-10264
+Singapore Hub,Building Materials,Atlas Logistics,2024-03-03,519,50.86,0,0.002,ORD-10537
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-12-16,801,455.86,0,0.008,ORD-12139
+Rotterdam Hub,Pharmaceuticals,EuroFreight BV,2024-06-29,727,1078.31,0,0.003,ORD-11114
+Dubai Hub,Consumer Goods,SinoLogistics Co.,2024-05-19,1931,24.63,0,0.002,ORD-10868
+Shanghai Hub,Agricultural,Panama Canal Trade,2024-08-22,1740,18.64,3,0.016,ORD-11376
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-07-12,1105,1340.3,0,0.003,ORD-11234
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-06-18,840,46.22,0,0.002,ORD-11062
+Dubai Hub,Food & Beverage,Oceania Freight,2024-08-15,9092,13.7,0,0.012,ORD-11431
+Dubai Hub,Raw Materials,Andean Mining Corp,2024-11-05,389,178.5,0,0.002,ORD-12008
+Los Angeles Hub,Electronics,Dragon Electronics,2024-02-09,137,429.1,0,0.008,ORD-10233
+São Paulo Hub,Consumer Goods,Pacific Trade Corp,2024-08-18,1714,31.26,0,0.002,ORD-11417
+Shanghai Hub,Machinery,Sakura Industries,2024-03-13,21,5010.51,0,0.002,ORD-10412
+São Paulo Hub,Machinery,Sakura Industries,2024-02-26,33,4747.09,0,0.002,ORD-10267
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-08-17,403,1075.55,0,0.003,ORD-11404
+Dubai Hub,Food & Beverage,Oceania Freight,2024-08-17,4108,12.3,0,0.012,ORD-11430
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-12-27,92,41.77,2,0.006,ORD-12256
+Rotterdam Hub,Consumer Goods,EuroFreight BV,2024-05-24,1774,31.88,0,0.002,ORD-10940
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-10-13,452,1083.26,0,0.003,ORD-11708
+Mumbai Hub,Textiles,SinoLogistics Co.,2024-11-28,2173,30.76,0,0.002,ORD-12021
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-09-17,1069,23.83,0,0.002,ORD-11646
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-08-19,234,177.53,0,0.002,ORD-11427
+São Paulo Hub,Agricultural,Andean Exports SA,2024-08-17,3498,15.62,0,0.01,ORD-11422
+Rotterdam Hub,Textiles,Andean Exports SA,2024-05-03,819,39.67,1,0.004,ORD-10932
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-11-11,3147,10.91,0,0.012,ORD-11923
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-10-19,245,204.07,0,0.002,ORD-11780
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-08-23,2956,19.04,5,0.02,ORD-11510
+Dubai Hub,Raw Materials,Oceania Freight,2024-03-19,598,170.27,0,0.002,ORD-10486
+Frankfurt Hub,Consumer Goods,EuroFreight BV,2024-12-30,2283,28.88,0,0.002,ORD-12101
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-09-02,356,84.02,0,0.006,ORD-11573
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-08-06,74,2406.85,0,0.005,ORD-11397
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-11-17,266,108.12,0,0.006,ORD-12073
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-07-09,1847,28.98,0,0.002,ORD-11270
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-07-07,6703,10.73,0,0.012,ORD-11291
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-04-05,284,469.26,0,0.008,ORD-10588
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-08-14,2121,25.36,0,0.002,ORD-11504
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-08-24,400,185.59,0,0.002,ORD-11360
+São Paulo Hub,Building Materials,Baltic Shipping OÜ,2024-01-09,395,41.48,0,0.002,ORD-10092
+São Paulo Hub,Consumer Goods,EuroFreight BV,2024-07-03,2268,28.55,0,0.002,ORD-11221
+São Paulo Hub,Consumer Goods,EuroFreight BV,2024-05-26,1324,29.63,3,0.008,ORD-10843
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-04-28,1223,31.46,0,0.002,ORD-10747
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-08-30,837,31.22,0,0.002,ORD-11391
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-11-17,1015,1030.78,0,0.003,ORD-11916
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-08-26,37,2535.47,0,0.005,ORD-11373
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-06-30,2434,26.31,0,0.002,ORD-11032
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-01-02,221,48.72,0,0.002,ORD-10184
+Dubai Hub,Machinery,TechSource GmbH,2024-11-16,37,5407.3,0,0.002,ORD-12005
+Shanghai Hub,Machinery,TechSource GmbH,2024-05-17,20,6074.17,0,0.002,ORD-10793
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-11-18,3072,37.84,0,0.002,ORD-11896
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-02-03,461,16.64,0,0.01,ORD-10255
+Frankfurt Hub,Chemicals,Rhine Chemical AG,2024-02-14,601,98.3,3,0.012,ORD-10200
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-04-19,10,2657.67,0,0.005,ORD-10751
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-01-16,247,206.37,0,0.002,ORD-10166
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-08-28,3873,18.34,0,0.01,ORD-11402
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-03-19,343,403.08,0,0.008,ORD-10424
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-12-19,511,1342.42,0,0.003,ORD-12114
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-05-16,191,93.34,0,0.006,ORD-10888
+Shanghai Hub,Textiles,Andean Exports SA,2024-10-13,2415,33.58,5,0.012,ORD-11735
+Los Angeles Hub,Agricultural,Oceania Freight,2024-01-04,738,18.44,1,0.012,ORD-10073
+Shanghai Hub,Machinery,Sakura Industries,2024-05-20,37,4906.61,0,0.002,ORD-10794
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-01-16,1117,1305.46,0,0.003,ORD-10123
+Singapore Hub,Agricultural,Panama Canal Trade,2024-10-31,3708,17.87,0,0.01,ORD-11862
+Rotterdam Hub,Machinery,Sakura Industries,2024-11-08,5,5138.16,0,0.002,ORD-12074
+Shanghai Hub,Raw Materials,Oceania Freight,2024-12-09,845,214.13,0,0.002,ORD-12129
+Rotterdam Hub,Electronics,TechSource GmbH,2024-04-01,523,495.74,0,0.008,ORD-10730
+Dubai Hub,Raw Materials,Andean Mining Corp,2024-10-13,912,227.89,0,0.002,ORD-11814
+Los Angeles Hub,Consumer Goods,EuroFreight BV,2024-04-16,673,29.19,0,0.002,ORD-10625
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-01-28,359,167.28,0,0.002,ORD-10007
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-08-15,1615,11.79,0,0.012,ORD-11410
+São Paulo Hub,Machinery,Pacific Trade Corp,2024-08-22,31,5338.3,0,0.002,ORD-11414
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-04-04,29,3177.53,0,0.005,ORD-10698
+Rotterdam Hub,Machinery,TechSource GmbH,2024-03-29,19,5897.29,0,0.002,ORD-10553
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-05-08,191,198.37,0,0.002,ORD-10785
+Singapore Hub,Food & Beverage,Andean Exports SA,2024-01-02,4854,12.07,0,0.012,ORD-10148
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-03-31,416,226.23,2,0.006,ORD-10417
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-03-21,178,157.45,0,0.002,ORD-10521
+Mumbai Hub,Automotive Parts,TechSource GmbH,2024-10-13,336,185.67,0,0.002,ORD-11824
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-17,412,1114.48,0,0.003,ORD-10882
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-10-23,3847,15.94,0,0.01,ORD-11891
+Singapore Hub,Machinery,Pacific Trade Corp,2024-02-09,30,5278.8,0,0.002,ORD-10339
+São Paulo Hub,Machinery,TechSource GmbH,2024-07-16,23,5363.31,0,0.002,ORD-11219
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-06-11,3022,13.6,0,0.012,ORD-11049
+Shanghai Hub,Textiles,Andean Exports SA,2024-10-26,1323,40.14,0,0.002,ORD-11736
+Mumbai Hub,Raw Materials,Atlas Logistics,2024-07-12,1028,214.52,0,0.002,ORD-11272
+Mumbai Hub,Consumer Goods,SinoLogistics Co.,2024-02-11,2143,27.71,0,0.002,ORD-10318
+São Paulo Hub,Luxury Goods,EuroFreight BV,2024-03-21,48,2649.36,0,0.005,ORD-10463
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-04-09,31,2864.07,0,0.005,ORD-10678
+Singapore Hub,Agricultural,Andean Exports SA,2024-06-01,1024,20.37,0,0.01,ORD-11110
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-11-10,2159,24.14,0,0.002,ORD-11981
+Rotterdam Hub,Machinery,Nordic Materials AB,2024-12-24,20,4964.14,0,0.002,ORD-12269
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-05-20,1396,1074.86,0,0.003,ORD-10783
+Shanghai Hub,Raw Materials,CapeTown Distributors,2024-09-06,271,224.68,0,0.002,ORD-11555
+Frankfurt Hub,Automotive Parts,TechSource GmbH,2024-06-08,75,189.38,2,0.006,ORD-10953
+Mumbai Hub,Building Materials,Andean Mining Corp,2024-09-08,439,40.55,2,0.006,ORD-11653
+Singapore Hub,Electronics,SinoLogistics Co.,2024-09-24,632,491.64,0,0.008,ORD-11659
+Rotterdam Hub,Textiles,Mediterranean Trading,2024-12-27,3649,30.26,0,0.002,ORD-12264
+Shanghai Hub,Textiles,Tata Supply Chain,2024-12-05,2179,34.27,0,0.002,ORD-12118
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-11-10,1294,1227.13,0,0.003,ORD-12038
+Dubai Hub,Agricultural,Andean Exports SA,2024-07-15,1185,16.07,0,0.01,ORD-11254
+Frankfurt Hub,Electronics,TechSource GmbH,2024-07-19,188,397.91,0,0.008,ORD-11138
+Dubai Hub,Automotive Parts,Sakura Industries,2024-02-20,373,180.83,0,0.002,ORD-10283
+Mumbai Hub,Consumer Goods,MarinaPort Pte,2024-08-04,814,26.36,0,0.002,ORD-11460
+São Paulo Hub,Electronics,TechSource GmbH,2024-11-09,381,474.19,0,0.008,ORD-11963
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-02-18,13,4855.22,0,0.002,ORD-10363
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-07-19,18,3109.91,0,0.005,ORD-11275
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-10-02,1013,228.35,0,0.002,ORD-11767
+Singapore Hub,Chemicals,Rhine Chemical AG,2024-09-22,713,89.87,0,0.006,ORD-11667
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-10-30,1222,1331.15,0,0.003,ORD-11866
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-07-28,1412,1141.26,0,0.003,ORD-11284
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-08-25,626,225.22,0,0.002,ORD-11350
+Rotterdam Hub,Textiles,Andean Exports SA,2024-02-11,1582,36.16,0,0.002,ORD-10356
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-06-05,939,45.23,0,0.002,ORD-11086
+Dubai Hub,Food & Beverage,Oceania Freight,2024-04-09,5176,11.6,0,0.012,ORD-10666
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-08-16,377,181.97,0,0.002,ORD-11394
+Dubai Hub,Textiles,Mediterranean Trading,2024-11-02,1522,33.98,0,0.002,ORD-11996
+Rotterdam Hub,Building Materials,Atlas Logistics,2024-06-26,847,39.85,0,0.002,ORD-11133
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-08-30,154,86.13,0,0.006,ORD-11344
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-01-14,996,25.27,0,0.002,ORD-10176
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-01-26,1102,194.74,0,0.002,ORD-10067
+São Paulo Hub,Electronics,TechSource GmbH,2024-03-12,162,441.51,0,0.008,ORD-10447
+Mumbai Hub,Electronics,Dragon Electronics,2024-07-04,146,431.6,0,0.008,ORD-11255
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-06-05,340,208.53,0,0.002,ORD-11080
+São Paulo Hub,Pharmaceuticals,TechSource GmbH,2024-03-16,928,1219.09,0,0.003,ORD-10449
+Dubai Hub,Textiles,Tata Supply Chain,2024-11-21,2797,35.99,0,0.002,ORD-11998
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-07-25,988,42.61,0,0.002,ORD-11227
+Los Angeles Hub,Automotive Parts,Pacific Trade Corp,2024-01-18,363,206.13,0,0.002,ORD-10055
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-05-02,294,203.74,0,0.002,ORD-10857
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-04-26,983,1301.49,0,0.003,ORD-10589
+São Paulo Hub,Pharmaceuticals,TechSource GmbH,2024-11-17,500,1299.09,0,0.003,ORD-11966
+Dubai Hub,Textiles,SinoLogistics Co.,2024-03-22,2103,40.23,0,0.002,ORD-10477
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-07-26,229,86.63,0,0.006,ORD-11146
+Singapore Hub,Electronics,Sakura Industries,2024-12-12,1033,474.11,0,0.008,ORD-12238
+Los Angeles Hub,Textiles,Andean Exports SA,2024-09-18,1004,37.08,0,0.002,ORD-11568
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-12-18,107,195.42,2,0.006,ORD-12262
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-09-11,1143,28.33,0,0.002,ORD-11602
+São Paulo Hub,Food & Beverage,Mapleleaf Supply,2024-11-13,3891,13.36,0,0.012,ORD-11974
+Rotterdam Hub,Textiles,Andean Exports SA,2024-02-08,2785,32.88,3,0.008,ORD-10357
+Rotterdam Hub,Textiles,Andean Exports SA,2024-04-06,1263,37.74,0,0.002,ORD-10738
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-02-22,276,388.63,0,0.008,ORD-10234
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-04-14,1725,10.56,0,0.012,ORD-10619
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-05-18,917,219.93,0,0.002,ORD-10847
+Los Angeles Hub,Raw Materials,Oceania Freight,2024-08-04,1165,229.63,0,0.002,ORD-11395
+Dubai Hub,Machinery,Sakura Industries,2024-01-04,34,5829.12,0,0.002,ORD-10108
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-10-21,5808,16.43,0,0.01,ORD-11775
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-03-28,7704,13.39,0,0.012,ORD-10549
+Dubai Hub,Electronics,Sakura Industries,2024-12-15,316,390.75,0,0.008,ORD-12186
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-04-05,336,41.68,0,0.002,ORD-10726
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-11-28,2587,17.01,0,0.01,ORD-12084
+Los Angeles Hub,Electronics,Dragon Electronics,2024-05-07,271,403.74,0,0.008,ORD-10804
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-12-14,952,1244.82,0,0.003,ORD-12189
+Mumbai Hub,Machinery,Nordic Materials AB,2024-01-10,35,5401.77,0,0.002,ORD-10132
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-04-19,1498,30.8,0,0.002,ORD-10593
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-10-23,2086,24.37,0,0.002,ORD-11765
+Dubai Hub,Consumer Goods,SinoLogistics Co.,2024-07-25,704,31.56,4,0.01,ORD-11245
+Frankfurt Hub,Raw Materials,Atlas Logistics,2024-09-13,710,201.13,0,0.002,ORD-11528
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-04-01,1010,206.25,0,0.002,ORD-10720
+Singapore Hub,Textiles,Mediterranean Trading,2024-09-13,2351,37.85,0,0.002,ORD-11663
+Los Angeles Hub,Automotive Parts,Pacific Trade Corp,2024-12-10,309,164.62,0,0.002,ORD-12144
+Los Angeles Hub,Building Materials,Atlas Logistics,2024-12-09,114,39.25,0,0.002,ORD-12158
+Shanghai Hub,Automotive Parts,Sakura Industries,2024-12-09,168,169.06,0,0.002,ORD-12116
+Singapore Hub,Textiles,Mediterranean Trading,2024-04-29,2996,30.23,0,0.002,ORD-10710
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-01-14,396,193.4,0,0.002,ORD-10079
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-02-06,868,226.1,4,0.01,ORD-10366
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-03-01,488,27.76,0,0.002,ORD-10554
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-02-10,349,1267.9,0,0.003,ORD-10328
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-12-26,357,175.25,0,0.002,ORD-12143
+Rotterdam Hub,Agricultural,Andean Exports SA,2024-05-27,4407,18.77,0,0.01,ORD-10948
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-10-07,2158,15.95,0,0.01,ORD-11749
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-12-27,235,89.6,0,0.006,ORD-12223
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-03-02,288,169.57,0,0.002,ORD-10380
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-03-30,45,3135.42,0,0.005,ORD-10442
+Rotterdam Hub,Food & Beverage,Andean Exports SA,2024-07-21,8626,11.8,0,0.012,ORD-11318
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-07-05,4877,11.91,3,0.018,ORD-11213
+Shanghai Hub,Machinery,Nordic Materials AB,2024-09-25,39,5169.4,0,0.002,ORD-11549
+Frankfurt Hub,Raw Materials,Atlas Logistics,2024-11-07,317,223.91,0,0.002,ORD-11906
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-06-26,50,2976.27,0,0.005,ORD-11036
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-04-25,10,2666.74,0,0.005,ORD-10724
+São Paulo Hub,Machinery,Sakura Industries,2024-02-24,33,5682.48,0,0.002,ORD-10268
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-08-20,489,211.44,0,0.002,ORD-11393
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-10-17,7400,12.0,2,0.016,ORD-11872
+Singapore Hub,Building Materials,CapeTown Distributors,2024-05-05,720,43.78,0,0.002,ORD-10924
+Singapore Hub,Building Materials,Andean Mining Corp,2024-08-24,1112,43.97,0,0.002,ORD-11490
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-04-18,904,1348.56,0,0.003,ORD-10590
+Los Angeles Hub,Electronics,TechSource GmbH,2024-11-23,661,457.9,0,0.008,ORD-11941
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-09-24,1131,19.6,0,0.01,ORD-11657
+Shanghai Hub,Food & Beverage,Andean Exports SA,2024-04-27,2930,11.05,0,0.012,ORD-10595
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-11-30,1017,1242.71,0,0.003,ORD-12039
+São Paulo Hub,Machinery,Pacific Trade Corp,2024-07-27,36,5597.81,0,0.002,ORD-11217
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-09-17,820,202.29,0,0.002,ORD-11696
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-09-10,345,91.28,0,0.006,ORD-11521
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-02-02,5035,10.62,0,0.012,ORD-10197
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-10-31,241,157.51,0,0.002,ORD-11847
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-06-16,249,38.75,0,0.002,ORD-11132
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-11-03,364,201.97,0,0.002,ORD-11994
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-12-08,31,5272.1,0,0.002,ORD-12100
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-08-27,9263,11.5,0,0.012,ORD-11341
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-07-10,132,202.46,0,0.002,ORD-11313
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-11-05,285,213.66,3,0.008,ORD-11907
+Dubai Hub,Building Materials,CapeTown Distributors,2024-06-04,1078,47.02,0,0.002,ORD-11061
+Mumbai Hub,Electronics,TechSource GmbH,2024-05-28,208,480.75,0,0.008,ORD-10879
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-01-18,896,213.24,0,0.002,ORD-10022
+Singapore Hub,Automotive Parts,SinoLogistics Co.,2024-08-23,251,182.06,0,0.002,ORD-11473
+Shanghai Hub,Textiles,Tata Supply Chain,2024-11-29,4275,39.12,0,0.002,ORD-11922
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-01-06,267,93.92,0,0.006,ORD-10013
+Singapore Hub,Chemicals,Atlas Logistics,2024-01-19,750,103.96,4,0.014,ORD-10149
+Shanghai Hub,Machinery,TechSource GmbH,2024-02-11,31,5258.44,0,0.002,ORD-10222
+Singapore Hub,Textiles,Tata Supply Chain,2024-08-03,2090,36.81,0,0.002,ORD-11474
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-10-22,1724,10.72,0,0.012,ORD-11786
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-03-08,368,1116.47,0,0.003,ORD-10451
+Mumbai Hub,Building Materials,Andean Mining Corp,2024-10-15,497,42.18,0,0.002,ORD-11837
+Mumbai Hub,Building Materials,Atlas Logistics,2024-12-19,240,47.72,0,0.002,ORD-12233
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-06-17,5742,12.18,0,0.012,ORD-11005
+Mumbai Hub,Building Materials,Baltic Shipping OÜ,2024-11-03,410,46.69,5,0.012,ORD-12034
+Singapore Hub,Machinery,Sakura Industries,2024-06-16,29,5802.79,0,0.002,ORD-11101
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-12-17,1025,1169.9,0,0.003,ORD-12214
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-08-31,153,86.52,0,0.006,ORD-11456
+Mumbai Hub,Consumer Goods,EuroFreight BV,2024-03-06,1498,26.23,0,0.002,ORD-10507
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-06-26,653,87.19,0,0.006,ORD-11124
+Dubai Hub,Electronics,SinoLogistics Co.,2024-02-24,135,487.28,0,0.008,ORD-10281
+Singapore Hub,Automotive Parts,TechSource GmbH,2024-10-20,275,172.8,0,0.002,ORD-11846
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-01-05,441,42.19,0,0.002,ORD-10159
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-09-26,2667,15.44,0,0.01,ORD-11704
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-02-20,373,46.08,6,0.014,ORD-10252
+Shanghai Hub,Machinery,TechSource GmbH,2024-01-04,39,6054.45,1,0.004,ORD-10042
+São Paulo Hub,Raw Materials,CapeTown Distributors,2024-05-08,1019,188.94,5,0.012,ORD-10846
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-06-09,513,30.52,0,0.002,ORD-11119
+Shanghai Hub,Machinery,Nordic Materials AB,2024-08-08,23,5613.08,0,0.002,ORD-11367
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-10-18,359,1280.18,0,0.003,ORD-11864
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-01-16,566,92.56,0,0.006,ORD-10085
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-06-15,233,81.58,0,0.006,ORD-11051
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-04-19,1158,43.58,0,0.002,ORD-10584
+Dubai Hub,Agricultural,Andean Exports SA,2024-07-07,4732,19.63,3,0.016,ORD-11252
+Dubai Hub,Luxury Goods,Sakura Industries,2024-02-12,15,2990.52,0,0.005,ORD-10301
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-08-28,1193,211.58,0,0.002,ORD-11484
+Shanghai Hub,Luxury Goods,Sakura Industries,2024-07-21,10,3102.72,0,0.005,ORD-11174
+Shanghai Hub,Automotive Parts,Sakura Industries,2024-07-23,193,160.37,0,0.002,ORD-11162
+Shanghai Hub,Electronics,Sakura Industries,2024-09-16,430,434.12,0,0.008,ORD-11535
+Rotterdam Hub,Agricultural,Oceania Freight,2024-04-26,3447,16.49,0,0.01,ORD-10754
+Frankfurt Hub,Electronics,Sakura Industries,2024-11-25,363,510.57,0,0.008,ORD-11892
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-12-27,2108,27.92,0,0.002,ORD-12200
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-11-19,815,1317.78,0,0.003,ORD-12065
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-07-15,216,1347.52,0,0.003,ORD-11311
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-02-28,80,3164.81,0,0.005,ORD-10273
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-12-04,1228,1154.22,0,0.003,ORD-12261
+Dubai Hub,Textiles,Mediterranean Trading,2024-07-25,471,31.81,0,0.002,ORD-11238
+Mumbai Hub,Agricultural,Mapleleaf Supply,2024-12-04,1179,16.95,0,0.01,ORD-12235
+Dubai Hub,Raw Materials,Atlas Logistics,2024-02-18,528,176.16,0,0.002,ORD-10299
+Dubai Hub,Luxury Goods,Mediterranean Trading,2024-12-09,45,2919.01,0,0.005,ORD-12206
+São Paulo Hub,Electronics,TechSource GmbH,2024-05-06,299,451.13,0,0.008,ORD-10829
+Rotterdam Hub,Machinery,Sakura Industries,2024-07-16,21,4961.24,0,0.002,ORD-11321
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-02-13,96,195.7,0,0.002,ORD-10192
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-12-19,427,223.14,0,0.002,ORD-12251
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-01-09,1149,187.28,4,0.01,ORD-10156
+Los Angeles Hub,Machinery,TechSource GmbH,2024-05-29,39,5505.49,0,0.002,ORD-10816
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-02-23,711,29.52,0,0.002,ORD-10365
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-11-08,244,162.96,0,0.002,ORD-12067
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-06-29,795,44.35,4,0.01,ORD-11037
+São Paulo Hub,Pharmaceuticals,EuroFreight BV,2024-04-18,765,1207.09,0,0.003,ORD-10636
+Frankfurt Hub,Consumer Goods,Pacific Trade Corp,2024-03-05,2171,28.54,0,0.002,ORD-10389
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-10-25,1757,31.98,0,0.002,ORD-11832
+Dubai Hub,Machinery,Pacific Trade Corp,2024-08-31,12,5667.64,0,0.002,ORD-11434
+Rotterdam Hub,Building Materials,Andean Mining Corp,2024-11-16,267,46.76,0,0.002,ORD-12082
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-02-27,53,2806.14,0,0.005,ORD-10346
+Los Angeles Hub,Chemicals,Atlas Logistics,2024-07-05,455,92.72,0,0.006,ORD-11188
+Rotterdam Hub,Food & Beverage,Andean Exports SA,2024-04-02,3824,12.9,0,0.012,ORD-10741
+Mumbai Hub,Raw Materials,Oceania Freight,2024-05-15,478,212.03,0,0.002,ORD-10897
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-10-09,32,2450.22,0,0.005,ORD-11858
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-04-04,372,24.66,0,0.002,ORD-10719
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-06-11,7989,10.21,0,0.012,ORD-11122
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-03-26,1298,1137.63,0,0.003,ORD-10543
+São Paulo Hub,Chemicals,Atlas Logistics,2024-07-06,396,96.54,0,0.006,ORD-11216
+Rotterdam Hub,Electronics,Dragon Electronics,2024-06-13,212,476.41,0,0.008,ORD-11112
+Mumbai Hub,Agricultural,Oceania Freight,2024-07-14,699,19.06,0,0.01,ORD-11277
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-08-20,354,45.84,0,0.002,ORD-11398
+São Paulo Hub,Textiles,Mediterranean Trading,2024-04-20,855,33.91,0,0.002,ORD-10641
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-11-24,34,3079.22,0,0.005,ORD-12032
+Mumbai Hub,Luxury Goods,EuroFreight BV,2024-08-26,78,3180.19,3,0.011,ORD-11462
+Rotterdam Hub,Chemicals,Atlas Logistics,2024-06-16,513,104.81,0,0.006,ORD-11123
+Singapore Hub,Food & Beverage,Andean Exports SA,2024-12-01,3961,13.38,0,0.012,ORD-12244
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-08-27,254,40.43,0,0.002,ORD-11466
+Dubai Hub,Consumer Goods,MarinaPort Pte,2024-09-22,350,24.78,0,0.002,ORD-11624
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-04-10,870,210.29,3,0.008,ORD-10721
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-09-25,408,1276.51,0,0.003,ORD-11590
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-01-22,215,38.36,6,0.014,ORD-10183
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-12-31,447,30.9,0,0.002,ORD-12154
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-02-23,1040,1200.66,0,0.003,ORD-10353
+Rotterdam Hub,Agricultural,Oceania Freight,2024-08-31,3023,16.92,0,0.01,ORD-11511
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-05-01,76,2478.98,0,0.005,ORD-10822
+São Paulo Hub,Pharmaceuticals,TechSource GmbH,2024-07-19,769,1090.46,0,0.003,ORD-11206
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-03-22,53,175.27,0,0.002,ORD-10429
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-11-04,421,28.3,0,0.002,ORD-11905
+Mumbai Hub,Machinery,TechSource GmbH,2024-07-16,36,5764.13,0,0.002,ORD-11268
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-05-20,1176,26.95,0,0.002,ORD-10939
+Singapore Hub,Food & Beverage,Oceania Freight,2024-09-08,7884,11.84,0,0.012,ORD-11666
+Frankfurt Hub,Agricultural,Panama Canal Trade,2024-12-17,1337,17.21,0,0.01,ORD-12109
+Dubai Hub,Building Materials,Atlas Logistics,2024-09-10,386,49.27,0,0.002,ORD-11630
+Frankfurt Hub,Pharmaceuticals,TechSource GmbH,2024-04-30,1264,1168.7,0,0.003,ORD-10567
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-07-23,146,201.16,0,0.002,ORD-11184
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-04-27,68,2658.86,0,0.005,ORD-10722
+Singapore Hub,Chemicals,Baltic Shipping OÜ,2024-07-06,715,87.48,0,0.006,ORD-11294
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-04-17,330,199.48,0,0.002,ORD-10735
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-03-07,818,1077.23,0,0.003,ORD-10520
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-08-11,522,106.2,0,0.006,ORD-11455
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-08-19,3768,12.77,0,0.012,ORD-11386
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-05-15,2274,24.78,0,0.002,ORD-10845
+Shanghai Hub,Chemicals,Rhine Chemical AG,2024-04-03,338,97.9,0,0.006,ORD-10599
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-11-22,777,427.6,0,0.008,ORD-11962
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-06-23,1117,176.41,0,0.002,ORD-11129
+Los Angeles Hub,Electronics,Sakura Industries,2024-01-19,277,410.07,0,0.008,ORD-10050
+Rotterdam Hub,Building Materials,Atlas Logistics,2024-02-10,95,42.28,0,0.002,ORD-10371
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-03-02,50,2393.15,0,0.005,ORD-10443
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-07-09,10683,13.29,0,0.012,ORD-11264
+Mumbai Hub,Electronics,TechSource GmbH,2024-10-23,484,397.52,0,0.008,ORD-11819
+São Paulo Hub,Electronics,Sakura Industries,2024-11-20,847,461.23,0,0.008,ORD-11964
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-12-18,283,89.11,0,0.006,ORD-12267
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-12-23,281,165.1,4,0.01,ORD-12166
+Dubai Hub,Consumer Goods,MarinaPort Pte,2024-09-15,1341,25.88,0,0.002,ORD-11623
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-08-20,2260,12.92,0,0.012,ORD-11362
+Dubai Hub,Agricultural,Andean Exports SA,2024-07-06,3913,17.95,0,0.01,ORD-11253
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-01-26,6397,10.51,0,0.012,ORD-10082
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-05-01,72,159.91,0,0.002,ORD-10807
+Frankfurt Hub,Electronics,Dragon Electronics,2024-07-02,213,384.44,0,0.008,ORD-11136
+Rotterdam Hub,Textiles,SinoLogistics Co.,2024-09-23,2808,38.29,0,0.002,ORD-11688
+Dubai Hub,Building Materials,CapeTown Distributors,2024-03-17,761,43.5,0,0.002,ORD-10489
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-07-27,2153,27.96,0,0.002,ORD-11169
+Frankfurt Hub,Pharmaceuticals,TechSource GmbH,2024-08-30,1164,1346.96,3,0.009,ORD-11335
+Frankfurt Hub,Machinery,Pacific Trade Corp,2024-11-13,33,6009.11,0,0.002,ORD-11902
+Shanghai Hub,Chemicals,Baltic Shipping OÜ,2024-02-24,233,96.61,0,0.006,ORD-10221
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-01-29,2041,25.64,0,0.002,ORD-10087
+Frankfurt Hub,Food & Beverage,Oceania Freight,2024-10-23,2748,11.78,0,0.012,ORD-11715
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-08-25,175,198.08,0,0.002,ORD-11406
+Frankfurt Hub,Consumer Goods,EuroFreight BV,2024-05-04,1534,28.9,0,0.002,ORD-10770
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-24,568,1300.34,2,0.007,ORD-11000
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-02-15,365,1135.96,0,0.003,ORD-10213
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-12-12,976,1135.36,0,0.003,ORD-12115
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-05-09,410,81.05,0,0.006,ORD-10889
+Dubai Hub,Machinery,Sakura Industries,2024-12-03,15,6235.06,0,0.002,ORD-12199
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-06-28,48,2658.13,0,0.005,ORD-11014
+Rotterdam Hub,Building Materials,Andean Mining Corp,2024-09-23,837,41.0,0,0.002,ORD-11701
+Shanghai Hub,Agricultural,Andean Exports SA,2024-06-20,3684,15.89,0,0.01,ORD-10995
+Rotterdam Hub,Electronics,Sakura Industries,2024-09-04,628,513.41,0,0.008,ORD-11680
+Frankfurt Hub,Agricultural,Oceania Freight,2024-01-30,2343,19.66,0,0.01,ORD-10027
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-12-29,11,2586.57,0,0.005,ORD-12132
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-11-16,282,49.21,0,0.002,ORD-11986
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-09-28,763,1247.64,0,0.003,ORD-11683
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-12-10,11751,10.74,0,0.012,ORD-12171
+Rotterdam Hub,Raw Materials,CapeTown Distributors,2024-07-09,250,194.06,0,0.002,ORD-11325
+Dubai Hub,Electronics,Sakura Industries,2024-06-17,456,401.84,0,0.008,ORD-11041
+Singapore Hub,Luxury Goods,Mediterranean Trading,2024-10-13,48,3113.97,0,0.005,ORD-11859
+Singapore Hub,Machinery,Pacific Trade Corp,2024-07-06,13,4723.08,0,0.002,ORD-11297
+Dubai Hub,Machinery,Sakura Industries,2024-10-25,10,5063.07,0,0.002,ORD-11809
+Rotterdam Hub,Agricultural,Oceania Freight,2024-07-10,1756,18.64,3,0.016,ORD-11331
+Dubai Hub,Agricultural,Mapleleaf Supply,2024-01-28,2341,20.35,0,0.01,ORD-10117
+Dubai Hub,Machinery,Sakura Industries,2024-05-22,11,5864.35,0,0.002,ORD-10864
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-09-18,1071,27.79,0,0.002,ORD-11552
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-06-06,17,2928.75,0,0.005,ORD-11013
+Mumbai Hub,Electronics,SinoLogistics Co.,2024-03-11,120,499.35,4,0.016,ORD-10495
+São Paulo Hub,Agricultural,Oceania Freight,2024-07-19,4646,16.08,0,0.01,ORD-11229
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-01-13,47,3213.86,0,0.005,ORD-10182
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-02-28,1073,1267.0,0,0.003,ORD-10212
+Frankfurt Hub,Agricultural,Andean Exports SA,2024-11-11,2688,17.37,0,0.01,ORD-11913
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-11-23,1797,10.64,0,0.012,ORD-11999
+Mumbai Hub,Machinery,Sakura Industries,2024-09-29,6,5668.15,0,0.002,ORD-11644
+Rotterdam Hub,Textiles,Andean Exports SA,2024-09-14,3692,31.06,0,0.002,ORD-11687
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-02-11,30,2710.08,0,0.005,ORD-10345
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-05-12,75,2789.49,0,0.005,ORD-10873
+Frankfurt Hub,Food & Beverage,Oceania Freight,2024-06-03,7154,11.76,0,0.012,ORD-10956
+Shanghai Hub,Agricultural,Oceania Freight,2024-02-03,1619,18.87,0,0.01,ORD-10232
+Singapore Hub,Textiles,Tata Supply Chain,2024-03-16,1147,35.98,0,0.002,ORD-10524
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-10,596,1134.4,0,0.003,ORD-10782
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-01-08,250,81.45,0,0.006,ORD-10084
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-03-29,383,183.39,0,0.002,ORD-10558
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-04-09,916,15.84,0,0.01,ORD-10700
+Frankfurt Hub,Machinery,Pacific Trade Corp,2024-09-28,14,5215.67,0,0.002,ORD-11525
+Mumbai Hub,Machinery,TechSource GmbH,2024-02-16,28,5589.14,0,0.002,ORD-10315
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-05-27,79,197.48,0,0.002,ORD-10931
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-06-04,763,41.21,0,0.002,ORD-11109
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-08-10,339,108.68,1,0.008,ORD-11479
+Shanghai Hub,Agricultural,Oceania Freight,2024-04-12,4839,15.88,0,0.01,ORD-10612
+Mumbai Hub,Building Materials,Baltic Shipping OÜ,2024-09-04,1058,38.64,3,0.008,ORD-11654
+Dubai Hub,Textiles,SinoLogistics Co.,2024-03-23,2557,33.68,0,0.002,ORD-10476
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-06-07,408,202.79,0,0.002,ORD-10965
+São Paulo Hub,Building Materials,Atlas Logistics,2024-10-10,673,50.22,0,0.002,ORD-11794
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-11-22,2944,34.98,0,0.002,ORD-11972
+São Paulo Hub,Electronics,Sakura Industries,2024-10-21,535,393.74,0,0.008,ORD-11776
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-06-27,560,1130.89,0,0.003,ORD-11067
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-02-26,7815,12.68,0,0.012,ORD-10241
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-01-09,24,2626.54,0,0.005,ORD-10023
+Rotterdam Hub,Agricultural,Andean Exports SA,2024-08-26,1898,16.32,0,0.01,ORD-11509
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-04-22,394,396.53,0,0.008,ORD-10565
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-02-15,400,86.5,0,0.006,ORD-10292
+Singapore Hub,Textiles,SinoLogistics Co.,2024-05-04,2278,33.16,0,0.002,ORD-10909
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-08-22,567,28.74,0,0.002,ORD-11482
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-07-11,205,154.55,0,0.002,ORD-11235
+Dubai Hub,Electronics,SinoLogistics Co.,2024-11-29,267,401.21,0,0.008,ORD-11991
+Mumbai Hub,Machinery,TechSource GmbH,2024-10-10,27,5915.27,3,0.008,ORD-11831
+Los Angeles Hub,Consumer Goods,EuroFreight BV,2024-07-05,1464,27.63,0,0.002,ORD-11194
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-09-23,537,50.36,0,0.002,ORD-11676
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-10-01,37,2877.37,0,0.005,ORD-11770
+Singapore Hub,Automotive Parts,SinoLogistics Co.,2024-01-23,189,180.03,0,0.002,ORD-10145
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-12-14,560,1187.3,0,0.003,ORD-12141
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-08-14,91,157.98,0,0.002,ORD-11428
+Dubai Hub,Chemicals,Atlas Logistics,2024-10-14,651,95.96,0,0.006,ORD-11807
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-05-17,802,51.38,0,0.002,ORD-10801
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-09-18,1827,12.07,0,0.012,ORD-11689
+Singapore Hub,Electronics,Sakura Industries,2024-02-29,272,447.7,0,0.008,ORD-10327
+Shanghai Hub,Agricultural,Oceania Freight,2024-05-27,3741,19.58,1,0.012,ORD-10802
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-03-14,300,162.03,0,0.002,ORD-10497
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-09-21,61,2763.1,0,0.005,ORD-11700
+Singapore Hub,Machinery,Nordic Materials AB,2024-07-18,32,5742.42,0,0.002,ORD-11296
+Dubai Hub,Machinery,TechSource GmbH,2024-02-12,26,5125.81,0,0.002,ORD-10295
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-08-29,516,49.49,0,0.002,ORD-11421
+São Paulo Hub,Machinery,Nordic Materials AB,2024-05-07,30,5623.6,0,0.002,ORD-10841
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-12-09,782,1346.76,0,0.003,ORD-12164
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-01-14,366,46.63,0,0.002,ORD-10137
+Los Angeles Hub,Chemicals,Gulf Dynamics LLC,2024-10-02,297,100.83,1,0.008,ORD-11761
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-12-23,138,187.31,0,0.002,ORD-12217
+Frankfurt Hub,Pharmaceuticals,TechSource GmbH,2024-07-03,1072,1141.44,0,0.003,ORD-11139
+Mumbai Hub,Agricultural,Andean Exports SA,2024-03-28,3759,18.19,0,0.01,ORD-10515
+Singapore Hub,Raw Materials,Oceania Freight,2024-01-15,255,181.25,0,0.002,ORD-10154
+Frankfurt Hub,Electronics,Sakura Industries,2024-01-01,264,412.63,0,0.008,ORD-10001
+São Paulo Hub,Raw Materials,Oceania Freight,2024-10-29,1035,179.79,0,0.002,ORD-11792
+Dubai Hub,Electronics,Dragon Electronics,2024-02-16,392,443.06,0,0.008,ORD-10279
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-10-10,420,104.84,0,0.006,ORD-11718
+Frankfurt Hub,Chemicals,Rhine Chemical AG,2024-06-11,215,99.89,0,0.006,ORD-10959
+Frankfurt Hub,Luxury Goods,EuroFreight BV,2024-10-29,32,2443.1,0,0.005,ORD-11725
+Singapore Hub,Electronics,SinoLogistics Co.,2024-12-14,1015,495.1,0,0.008,ORD-12237
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-06-22,96,164.75,0,0.002,ORD-11069
+Dubai Hub,Consumer Goods,EuroFreight BV,2024-08-12,1504,27.88,0,0.002,ORD-11436
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-04-25,33,2886.01,5,0.015,ORD-10608
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-05-08,490,205.9,0,0.002,ORD-10821
+Singapore Hub,Luxury Goods,Sakura Industries,2024-08-04,73,2683.64,0,0.005,ORD-11487
+Frankfurt Hub,Textiles,Mediterranean Trading,2024-04-26,2386,33.09,0,0.002,ORD-10571
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-10-04,845,41.62,0,0.002,ORD-11727
+Singapore Hub,Food & Beverage,Andean Exports SA,2024-09-05,2247,11.62,0,0.012,ORD-11664
+Singapore Hub,Luxury Goods,Mediterranean Trading,2024-06-18,11,3078.62,0,0.005,ORD-11108
+Los Angeles Hub,Pharmaceuticals,EuroFreight BV,2024-09-15,809,1160.79,0,0.003,ORD-11564
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-07-05,505,46.35,3,0.008,ORD-11329
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-02-07,1482,24.42,0,0.002,ORD-10340
+Shanghai Hub,Building Materials,Atlas Logistics,2024-08-28,772,45.46,0,0.002,ORD-11374
+Singapore Hub,Electronics,Dragon Electronics,2024-02-21,354,465.94,0,0.008,ORD-10326
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-11-03,242,204.98,0,0.002,ORD-12018
+Singapore Hub,Raw Materials,Atlas Logistics,2024-02-11,973,178.66,0,0.002,ORD-10342
+Mumbai Hub,Machinery,Sakura Industries,2024-09-09,28,5420.66,0,0.002,ORD-11645
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-08-10,11,2814.85,0,0.005,ORD-11507
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-08-18,376,1128.33,0,0.003,ORD-11380
+Rotterdam Hub,Luxury Goods,Mediterranean Trading,2024-12-24,58,2810.61,0,0.005,ORD-12273
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-19,797,1311.2,0,0.003,ORD-11092
+Dubai Hub,Electronics,TechSource GmbH,2024-01-23,375,446.89,0,0.008,ORD-10097
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-11-09,663,83.15,0,0.006,ORD-11951
+Dubai Hub,Electronics,SinoLogistics Co.,2024-10-08,253,448.9,2,0.012,ORD-11796
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-07-21,46,2556.06,0,0.005,ORD-11153
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-12-08,547,83.32,0,0.006,ORD-12245
+Dubai Hub,Electronics,Dragon Electronics,2024-07-07,595,412.35,0,0.008,ORD-11231
+Mumbai Hub,Machinery,Nordic Materials AB,2024-06-06,13,4985.57,0,0.002,ORD-11077
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-10-05,7832,11.76,0,0.012,ORD-11737
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-08-05,1233,31.2,0,0.002,ORD-11483
+Shanghai Hub,Textiles,Andean Exports SA,2024-01-08,2985,32.0,0,0.002,ORD-10035
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-03-03,6094,10.54,0,0.012,ORD-10455
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-02-21,238,82.55,0,0.006,ORD-10291
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-03-29,692,1094.19,0,0.003,ORD-10400
+Dubai Hub,Textiles,Mediterranean Trading,2024-06-25,784,32.61,0,0.002,ORD-11047
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-05-22,14,5674.09,0,0.002,ORD-10815
+Dubai Hub,Raw Materials,Oceania Freight,2024-10-30,448,182.64,0,0.002,ORD-11812
+São Paulo Hub,Consumer Goods,EuroFreight BV,2024-06-30,571,31.94,0,0.002,ORD-11034
+Rotterdam Hub,Textiles,Andean Exports SA,2024-01-16,2263,36.29,0,0.002,ORD-10170
+Los Angeles Hub,Luxury Goods,MarinaPort Pte,2024-11-19,40,2435.31,0,0.005,ORD-11956
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-05-13,1203,26.01,0,0.002,ORD-10894
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-05-21,581,453.49,0,0.008,ORD-10927
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-04-25,930,39.07,0,0.002,ORD-10629
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-04-23,5454,12.58,0,0.012,ORD-10712
+Mumbai Hub,Textiles,Tata Supply Chain,2024-07-10,569,36.69,0,0.002,ORD-11262
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-04-13,951,211.31,0,0.002,ORD-10606
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-11-11,5402,13.02,1,0.014,ORD-12070
+Shanghai Hub,Raw Materials,Oceania Freight,2024-11-15,1069,208.47,3,0.008,ORD-11931
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-09-28,1904,26.31,0,0.002,ORD-11671
+Rotterdam Hub,Machinery,Nordic Materials AB,2024-05-06,27,6164.1,0,0.002,ORD-10937
+São Paulo Hub,Building Materials,Baltic Shipping OÜ,2024-03-09,523,39.79,0,0.002,ORD-10466
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-10-31,2822,38.29,0,0.002,ORD-11871
+São Paulo Hub,Automotive Parts,TechSource GmbH,2024-02-20,220,157.4,0,0.002,ORD-10259
+Rotterdam Hub,Electronics,TechSource GmbH,2024-06-15,598,507.06,0,0.008,ORD-11113
+Dubai Hub,Food & Beverage,Oceania Freight,2024-09-25,3709,12.98,0,0.012,ORD-11619
+Dubai Hub,Building Materials,CapeTown Distributors,2024-05-13,936,46.78,0,0.002,ORD-10874
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-08-09,797,229.88,0,0.002,ORD-11349
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-01-01,380,82.05,0,0.006,ORD-10130
+Singapore Hub,Automotive Parts,SinoLogistics Co.,2024-07-16,157,171.76,0,0.002,ORD-11285
+Dubai Hub,Agricultural,Panama Canal Trade,2024-06-23,5196,20.59,0,0.01,ORD-11064
+Frankfurt Hub,Agricultural,Panama Canal Trade,2024-10-01,2085,20.28,6,0.022,ORD-11729
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-12-27,1913,28.29,0,0.002,ORD-12250
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-10-29,500,51.26,0,0.002,ORD-11861
+Rotterdam Hub,Machinery,Nordic Materials AB,2024-06-25,12,5610.95,3,0.008,ORD-11125
+Mumbai Hub,Machinery,Pacific Trade Corp,2024-10-08,10,6286.49,0,0.002,ORD-11829
+São Paulo Hub,Textiles,Tata Supply Chain,2024-11-21,1657,40.03,0,0.002,ORD-11971
+Mumbai Hub,Machinery,Nordic Materials AB,2024-08-18,9,5473.88,0,0.002,ORD-11458
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-03-20,1536,39.8,0,0.002,ORD-10382
+Singapore Hub,Electronics,Dragon Electronics,2024-07-04,424,449.56,0,0.008,ORD-11279
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-04-18,585,100.75,0,0.006,ORD-10691
+Singapore Hub,Textiles,Tata Supply Chain,2024-10-29,1026,37.53,0,0.002,ORD-11848
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-04-15,421,92.34,0,0.006,ORD-10573
+Los Angeles Hub,Food & Beverage,Mapleleaf Supply,2024-02-14,2993,11.77,0,0.012,ORD-10242
+Rotterdam Hub,Electronics,TechSource GmbH,2024-08-11,421,452.66,0,0.008,ORD-11494
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-06-18,161,186.15,0,0.002,ORD-11118
+Los Angeles Hub,Machinery,Sakura Industries,2024-10-18,7,4885.92,0,0.002,ORD-11763
+Mumbai Hub,Raw Materials,Atlas Logistics,2024-07-29,589,175.84,0,0.002,ORD-11273
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-05-30,1206,1354.23,0,0.003,ORD-10929
+Dubai Hub,Luxury Goods,Mediterranean Trading,2024-09-30,23,2914.39,0,0.005,ORD-11628
+Rotterdam Hub,Electronics,TechSource GmbH,2024-05-07,577,408.37,0,0.008,ORD-10926
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-26,497,1189.8,0,0.003,ORD-10831
+Rotterdam Hub,Machinery,Sakura Industries,2024-07-23,31,5982.86,0,0.002,ORD-11320
+Singapore Hub,Textiles,SinoLogistics Co.,2024-07-22,403,36.34,0,0.002,ORD-11288
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-03-03,640,100.81,0,0.006,ORD-10385
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-11-21,278,89.9,0,0.006,ORD-12026
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-12-12,1211,29.91,0,0.002,ORD-12128
+Shanghai Hub,Machinery,Pacific Trade Corp,2024-06-14,33,5905.26,0,0.002,ORD-10985
+Shanghai Hub,Raw Materials,Oceania Freight,2024-07-23,1078,204.22,0,0.002,ORD-11172
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-01-01,74,3020.05,0,0.005,ORD-10024
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-09-24,54,194.58,0,0.002,ORD-11541
+Los Angeles Hub,Chemicals,Atlas Logistics,2024-05-11,710,97.58,0,0.006,ORD-10813
+Singapore Hub,Textiles,Tata Supply Chain,2024-02-05,707,32.8,0,0.002,ORD-10332
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-03-12,35,2764.34,0,0.005,ORD-10488
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-01-27,54,2636.36,0,0.005,ORD-10070
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-09-12,337,1338.77,0,0.003,ORD-11589
+Frankfurt Hub,Automotive Parts,TechSource GmbH,2024-08-02,183,162.17,0,0.002,ORD-11338
+Dubai Hub,Machinery,TechSource GmbH,2024-11-29,38,4834.83,0,0.002,ORD-12004
+Mumbai Hub,Machinery,Nordic Materials AB,2024-10-19,7,4754.28,0,0.002,ORD-11830
+Shanghai Hub,Textiles,Mediterranean Trading,2024-03-08,1903,32.64,0,0.002,ORD-10406
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-09-07,849,229.52,3,0.008,ORD-11605
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-07-05,128,87.75,0,0.006,ORD-11295
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-05-24,1497,13.26,0,0.012,ORD-10789
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-08-28,1981,38.66,0,0.002,ORD-11384
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-07-01,526,108.38,0,0.006,ORD-11187
+Dubai Hub,Raw Materials,Oceania Freight,2024-02-24,280,195.84,2,0.006,ORD-10298
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-05-01,12,5557.48,0,0.002,ORD-10768
+Dubai Hub,Machinery,Nordic Materials AB,2024-05-18,29,4998.5,0,0.002,ORD-10865
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-09-27,31,3132.98,4,0.013,ORD-11652
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-02-29,1806,29.5,0,0.002,ORD-10270
+Rotterdam Hub,Textiles,SinoLogistics Co.,2024-03-01,600,31.47,5,0.012,ORD-10547
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-07-10,367,172.88,0,0.002,ORD-11183
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-11-12,548,50.4,7,0.016,ORD-12033
+Rotterdam Hub,Consumer Goods,SinoLogistics Co.,2024-11-26,809,26.38,0,0.002,ORD-12077
+Rotterdam Hub,Machinery,TechSource GmbH,2024-11-09,20,5947.71,0,0.002,ORD-12075
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-05-03,966,40.58,6,0.014,ORD-10947
+Singapore Hub,Chemicals,Atlas Logistics,2024-10-15,757,96.0,0,0.006,ORD-11851
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-04-13,88,182.54,0,0.002,ORD-10617
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-03-19,183,188.3,0,0.002,ORD-10379
+Mumbai Hub,Building Materials,Atlas Logistics,2024-03-25,898,51.37,0,0.002,ORD-10514
+São Paulo Hub,Luxury Goods,Sakura Industries,2024-03-07,50,2529.22,0,0.005,ORD-10464
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-09-09,353,162.78,0,0.002,ORD-11686
+Shanghai Hub,Automotive Parts,Sakura Industries,2024-02-26,385,188.15,0,0.002,ORD-10216
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-07-05,100,192.84,0,0.002,ORD-11260
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-09-21,397,202.93,0,0.002,ORD-11592
+Shanghai Hub,Chemicals,Baltic Shipping OÜ,2024-10-16,221,92.75,0,0.006,ORD-11740
+Frankfurt Hub,Textiles,Andean Exports SA,2024-02-20,2998,32.07,0,0.002,ORD-10195
+Rotterdam Hub,Textiles,SinoLogistics Co.,2024-01-24,2614,38.89,1,0.004,ORD-10169
+Shanghai Hub,Textiles,Mediterranean Trading,2024-09-13,3737,37.71,0,0.002,ORD-11542
+Dubai Hub,Machinery,Pacific Trade Corp,2024-02-11,37,5332.07,0,0.002,ORD-10293
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-12-03,76,44.11,0,0.002,ORD-12135
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-06-26,698,27.63,0,0.002,ORD-11055
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-03-06,375,1297.98,0,0.003,ORD-10450
+São Paulo Hub,Pharmaceuticals,Tata Supply Chain,2024-02-04,781,1110.72,0,0.003,ORD-10258
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-03-13,169,182.15,0,0.002,ORD-10402
+São Paulo Hub,Machinery,TechSource GmbH,2024-10-01,13,5084.77,0,0.002,ORD-11789
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-06-26,2321,25.8,0,0.002,ORD-11010
+Mumbai Hub,Consumer Goods,SinoLogistics Co.,2024-08-29,1402,28.45,0,0.002,ORD-11459
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-02-18,4183,11.83,0,0.012,ORD-10198
+Singapore Hub,Agricultural,Andean Exports SA,2024-11-04,1727,20.16,0,0.01,ORD-12060
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-04-22,391,227.75,0,0.002,ORD-10749
+Singapore Hub,Raw Materials,Oceania Freight,2024-06-19,672,216.39,0,0.002,ORD-11106
+Frankfurt Hub,Chemicals,Rhine Chemical AG,2024-08-06,581,88.17,0,0.006,ORD-11345
+Los Angeles Hub,Textiles,Andean Exports SA,2024-12-18,2513,36.84,0,0.002,ORD-12145
+Dubai Hub,Electronics,TechSource GmbH,2024-08-10,544,428.26,0,0.008,ORD-11424
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-11-24,1021,170.89,0,0.002,ORD-12053
+Dubai Hub,Building Materials,Atlas Logistics,2024-12-16,94,43.24,0,0.002,ORD-12209
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-06-21,992,1340.54,0,0.003,ORD-10976
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-04-25,104,183.38,0,0.002,ORD-10638
+Singapore Hub,Building Materials,CapeTown Distributors,2024-10-07,338,49.46,0,0.002,ORD-11860
+Singapore Hub,Agricultural,Panama Canal Trade,2024-07-09,2606,16.67,0,0.01,ORD-11305
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-07-08,122,190.15,0,0.002,ORD-11236
+Singapore Hub,Machinery,TechSource GmbH,2024-09-13,26,4926.96,0,0.002,ORD-11669
+Rotterdam Hub,Agricultural,Oceania Freight,2024-09-03,1313,18.17,0,0.01,ORD-11705
+Mumbai Hub,Machinery,Pacific Trade Corp,2024-12-07,17,4967.23,0,0.002,ORD-12225
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-09-28,2381,31.93,0,0.002,ORD-11526
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-17,853,1214.37,0,0.003,ORD-10952
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-10-18,347,46.57,0,0.002,ORD-11888
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-09-17,5976,11.9,0,0.012,ORD-11640
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-01-08,67,3143.14,0,0.005,ORD-10136
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-05-11,7824,13.3,0,0.012,ORD-10860
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-09-26,4504,16.2,0,0.01,ORD-11584
+Shanghai Hub,Pharmaceuticals,Rhine Chemical AG,2024-09-17,766,1353.58,0,0.003,ORD-11537
+Singapore Hub,Machinery,Nordic Materials AB,2024-04-28,15,4798.53,0,0.002,ORD-10715
+Shanghai Hub,Pharmaceuticals,TechSource GmbH,2024-01-23,838,1163.64,0,0.003,ORD-10031
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-02-26,45,3101.06,0,0.005,ORD-10206
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-10-02,928,1098.94,2,0.007,ORD-11778
+Singapore Hub,Building Materials,Atlas Logistics,2024-02-22,345,46.13,0,0.002,ORD-10348
+Dubai Hub,Luxury Goods,Sakura Industries,2024-11-04,57,2940.87,0,0.005,ORD-12010
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-10-30,622,224.48,0,0.002,ORD-11882
+Frankfurt Hub,Raw Materials,Atlas Logistics,2024-05-28,1183,208.04,0,0.002,ORD-10773
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-06-20,1672,26.07,0,0.002,ORD-11105
+Mumbai Hub,Electronics,Sakura Industries,2024-12-28,500,470.94,0,0.008,ORD-12212
+São Paulo Hub,Textiles,Andean Exports SA,2024-05-22,1297,30.1,0,0.002,ORD-10835
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-02-13,1883,26.65,0,0.002,ORD-10296
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-01-01,279,42.68,5,0.012,ORD-10071
+Mumbai Hub,Textiles,Andean Exports SA,2024-10-16,3022,38.44,0,0.002,ORD-11825
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-11-13,1053,30.69,0,0.002,ORD-12006
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-04-13,829,43.42,0,0.002,ORD-10680
+Singapore Hub,Agricultural,Oceania Freight,2024-08-06,1773,15.64,0,0.01,ORD-11491
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-01-22,5140,11.96,1,0.014,ORD-10059
+Dubai Hub,Raw Materials,CapeTown Distributors,2024-09-30,1097,195.38,3,0.008,ORD-11626
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-07-12,41,2588.0,0,0.005,ORD-11274
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-12-13,1867,17.18,0,0.01,ORD-12137
+Frankfurt Hub,Food & Beverage,Mediterranean Trading,2024-11-05,3775,13.42,0,0.012,ORD-11899
+Singapore Hub,Electronics,Dragon Electronics,2024-07-14,588,468.28,1,0.01,ORD-11281
+Los Angeles Hub,Agricultural,Oceania Freight,2024-05-09,4299,17.16,0,0.01,ORD-10827
+Los Angeles Hub,Raw Materials,Atlas Logistics,2024-04-15,431,220.22,0,0.002,ORD-10627
+Shanghai Hub,Luxury Goods,Sakura Industries,2024-03-25,41,2964.33,0,0.005,ORD-10418
+São Paulo Hub,Electronics,Sakura Industries,2024-06-23,458,453.65,0,0.008,ORD-11019
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-01-14,214,82.89,0,0.006,ORD-10062
+Singapore Hub,Textiles,Mediterranean Trading,2024-02-20,1516,39.86,3,0.008,ORD-10333
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-02-04,1805,24.77,0,0.002,ORD-10225
+Rotterdam Hub,Consumer Goods,EuroFreight BV,2024-04-21,1104,30.32,2,0.006,ORD-10748
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-11-02,2030,25.43,0,0.002,ORD-11953
+Dubai Hub,Machinery,Sakura Industries,2024-11-20,12,4785.78,0,0.002,ORD-12003
+Singapore Hub,Textiles,Andean Exports SA,2024-09-01,978,35.95,0,0.002,ORD-11662
+São Paulo Hub,Agricultural,Oceania Freight,2024-08-21,1007,15.56,0,0.01,ORD-11423
+Rotterdam Hub,Textiles,Andean Exports SA,2024-02-25,1349,37.0,0,0.002,ORD-10358
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-02-28,120,181.01,0,0.002,ORD-10354
+Dubai Hub,Textiles,Andean Exports SA,2024-05-15,534,29.87,0,0.002,ORD-10859
+Mumbai Hub,Building Materials,Atlas Logistics,2024-02-10,398,46.9,0,0.002,ORD-10323
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-05-30,990,48.2,0,0.002,ORD-10850
+Frankfurt Hub,Electronics,Dragon Electronics,2024-10-05,468,383.83,0,0.008,ORD-11707
+Frankfurt Hub,Food & Beverage,Mapleleaf Supply,2024-05-25,7975,10.44,0,0.012,ORD-10762
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-11-08,294,205.32,0,0.002,ORD-12052
+Mumbai Hub,Consumer Goods,EuroFreight BV,2024-09-26,2119,25.76,0,0.002,ORD-11648
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-08-11,473,1252.72,0,0.003,ORD-11471
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-07-16,582,200.75,0,0.002,ORD-11222
+Mumbai Hub,Textiles,Andean Exports SA,2024-01-15,2106,32.39,0,0.002,ORD-10126
+São Paulo Hub,Textiles,Tata Supply Chain,2024-01-13,2092,32.76,0,0.002,ORD-10080
+Rotterdam Hub,Consumer Goods,SinoLogistics Co.,2024-09-14,1317,26.33,5,0.012,ORD-11694
+Dubai Hub,Electronics,TechSource GmbH,2024-09-28,464,462.85,0,0.008,ORD-11612
+Mumbai Hub,Raw Materials,CapeTown Distributors,2024-02-27,986,227.98,0,0.002,ORD-10319
+Dubai Hub,Agricultural,Panama Canal Trade,2024-06-06,2900,15.66,0,0.01,ORD-11063
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-02-10,1377,33.34,0,0.002,ORD-10263
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-01-08,2387,27.95,0,0.002,ORD-10019
+Shanghai Hub,Electronics,Sakura Industries,2024-07-24,315,487.66,0,0.008,ORD-11157
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-11-10,1599,30.13,0,0.002,ORD-11929
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-12-04,1106,195.45,0,0.002,ORD-12177
+Shanghai Hub,Electronics,Sakura Industries,2024-12-14,1022,477.02,0,0.008,ORD-12113
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-01-23,195,41.92,0,0.002,ORD-10093
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-04-11,183,188.43,0,0.002,ORD-10663
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-07-03,31,3175.68,0,0.005,ORD-11326
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-03-08,526,20.33,0,0.01,ORD-10563
+Shanghai Hub,Automotive Parts,TechSource GmbH,2024-01-01,351,164.89,0,0.002,ORD-10033
+Frankfurt Hub,Luxury Goods,EuroFreight BV,2024-06-20,12,2696.35,0,0.005,ORD-10966
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-09-03,9513,10.88,0,0.012,ORD-11545
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-11-04,174,93.33,0,0.006,ORD-12025
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-09-26,556,195.67,8,0.018,ORD-11649
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-01-08,544,108.63,0,0.006,ORD-10173
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-08-05,499,31.67,0,0.002,ORD-11437
+Dubai Hub,Electronics,Dragon Electronics,2024-03-09,461,489.03,0,0.008,ORD-10470
+Los Angeles Hub,Pharmaceuticals,EuroFreight BV,2024-04-01,734,1362.6,0,0.003,ORD-10616
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-08-20,52,166.7,0,0.002,ORD-11336
+Mumbai Hub,Chemicals,Gulf Dynamics LLC,2024-05-25,452,88.92,0,0.006,ORD-10890
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-01-21,355,178.95,0,0.002,ORD-10134
+São Paulo Hub,Pharmaceuticals,EuroFreight BV,2024-04-09,337,1051.33,0,0.003,ORD-10635
+Rotterdam Hub,Textiles,Mediterranean Trading,2024-04-19,3491,32.75,0,0.002,ORD-10739
+Los Angeles Hub,Electronics,TechSource GmbH,2024-10-28,609,437.49,0,0.008,ORD-11751
+Rotterdam Hub,Luxury Goods,Mediterranean Trading,2024-10-02,13,2508.84,0,0.005,ORD-11886
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-05-12,635,178.03,0,0.002,ORD-10820
+Rotterdam Hub,Agricultural,Andean Exports SA,2024-11-08,3083,20.66,1,0.012,ORD-12085
+Frankfurt Hub,Agricultural,Andean Exports SA,2024-05-26,5980,19.36,5,0.02,ORD-10779
+Frankfurt Hub,Machinery,TechSource GmbH,2024-01-08,25,5336.92,0,0.002,ORD-10015
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-12-21,290,203.89,0,0.002,ORD-12090
+São Paulo Hub,Chemicals,Atlas Logistics,2024-11-11,703,92.64,3,0.012,ORD-11976
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-02-11,316,42.46,0,0.002,ORD-10230
+Singapore Hub,Electronics,TechSource GmbH,2024-11-11,463,493.38,0,0.008,ORD-12036
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-10-18,61,2890.06,0,0.005,ORD-11769
+Shanghai Hub,Automotive Parts,TechSource GmbH,2024-06-28,263,165.98,0,0.002,ORD-10979
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-04-22,394,160.16,0,0.002,ORD-10737
+Mumbai Hub,Textiles,Tata Supply Chain,2024-12-19,4510,39.52,0,0.002,ORD-12219
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-01-24,1843,15.82,0,0.01,ORD-10186
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-10-21,338,31.84,0,0.002,ORD-11790
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-03-02,70,2406.66,0,0.005,ORD-10392
+Mumbai Hub,Machinery,Nordic Materials AB,2024-12-23,21,4827.48,0,0.002,ORD-12226
+Singapore Hub,Building Materials,Andean Mining Corp,2024-11-28,482,50.31,0,0.002,ORD-12059
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-04-10,473,1069.74,0,0.003,ORD-10734
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-07-19,6778,10.63,0,0.012,ORD-11239
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-06-23,282,157.87,0,0.002,ORD-11002
+Los Angeles Hub,Raw Materials,Oceania Freight,2024-02-25,897,225.45,0,0.002,ORD-10247
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-03-08,127,153.49,0,0.002,ORD-10430
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-02-24,2555,12.95,0,0.012,ORD-10334
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-02-12,49,2767.86,0,0.005,ORD-10250
+Mumbai Hub,Pharmaceuticals,TechSource GmbH,2024-11-06,920,1256.14,0,0.003,ORD-12016
+Los Angeles Hub,Textiles,SinoLogistics Co.,2024-07-29,1176,39.81,0,0.002,ORD-11185
+São Paulo Hub,Agricultural,Andean Exports SA,2024-06-06,2844,19.54,0,0.01,ORD-11038
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-02-18,3357,10.64,0,0.012,ORD-10359
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-02-04,354,1070.67,6,0.015,ORD-10191
+São Paulo Hub,Electronics,Dragon Electronics,2024-02-17,316,432.84,0,0.008,ORD-10256
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-07-28,239,173.85,0,0.002,ORD-11209
+Dubai Hub,Luxury Goods,Mediterranean Trading,2024-10-22,71,3083.45,0,0.005,ORD-11815
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-03-11,2018,16.99,0,0.01,ORD-10422
+Shanghai Hub,Food & Beverage,Andean Exports SA,2024-03-24,6740,12.64,0,0.012,ORD-10407
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-05-21,2438,27.33,0,0.002,ORD-10818
+Mumbai Hub,Luxury Goods,EuroFreight BV,2024-05-09,66,2990.77,0,0.005,ORD-10899
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-05-24,1326,31.35,0,0.002,ORD-10916
+Dubai Hub,Textiles,Mediterranean Trading,2024-01-30,3508,35.68,0,0.002,ORD-10101
+Shanghai Hub,Electronics,TechSource GmbH,2024-05-18,377,473.18,0,0.008,ORD-10780
+São Paulo Hub,Electronics,TechSource GmbH,2024-09-06,589,470.79,0,0.008,ORD-11587
+Singapore Hub,Food & Beverage,Oceania Freight,2024-05-04,9703,11.08,5,0.022,ORD-10910
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-01-03,1236,1115.47,0,0.003,ORD-10053
+Rotterdam Hub,Electronics,Dragon Electronics,2024-09-10,556,487.24,1,0.01,ORD-11682
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-02-15,1271,18.57,0,0.01,ORD-10253
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-05-12,5031,19.57,0,0.01,ORD-10901
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-02-08,1475,1184.56,0,0.003,ORD-10282
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-01-17,391,197.12,0,0.002,ORD-10056
+São Paulo Hub,Machinery,TechSource GmbH,2024-12-24,11,5377.41,0,0.002,ORD-12175
+Los Angeles Hub,Agricultural,Panama Canal Trade,2024-03-28,3273,20.14,0,0.01,ORD-10445
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-03-30,2145,13.19,0,0.012,ORD-10478
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-11-08,60,2710.02,0,0.005,ORD-11957
+Dubai Hub,Raw Materials,Oceania Freight,2024-05-09,1059,207.79,0,0.002,ORD-10869
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-10-03,456,1287.53,0,0.003,ORD-11823
+Frankfurt Hub,Agricultural,Panama Canal Trade,2024-11-14,2011,18.52,0,0.01,ORD-11912
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-03-02,1844,29.46,0,0.002,ORD-10414
+Frankfurt Hub,Building Materials,Atlas Logistics,2024-10-31,582,44.94,0,0.002,ORD-11726
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-08-03,1463,25.32,0,0.002,ORD-11348
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-03-26,1299,1233.78,0,0.003,ORD-10472
+Los Angeles Hub,Electronics,Dragon Electronics,2024-10-07,670,384.88,0,0.008,ORD-11750
+Dubai Hub,Machinery,Pacific Trade Corp,2024-04-08,31,5975.35,0,0.002,ORD-10671
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-01-30,1070,1061.32,0,0.003,ORD-10142
+Singapore Hub,Chemicals,Rhine Chemical AG,2024-04-20,111,99.09,0,0.006,ORD-10714
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-06-24,732,190.24,0,0.002,ORD-11107
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-02-20,208,183.18,0,0.002,ORD-10261
+São Paulo Hub,Textiles,Andean Exports SA,2024-01-19,2884,34.39,0,0.002,ORD-10081
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-07-27,235,1192.63,0,0.003,ORD-11233
+Singapore Hub,Automotive Parts,TechSource GmbH,2024-06-03,308,157.15,0,0.002,ORD-11093
+Los Angeles Hub,Automotive Parts,TechSource GmbH,2024-01-29,239,168.39,0,0.002,ORD-10054
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-02-05,32,2472.34,0,0.005,ORD-10207
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-02-11,369,51.6,0,0.002,ORD-10372
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-04-02,1289,20.43,0,0.01,ORD-10632
+Dubai Hub,Textiles,Mediterranean Trading,2024-11-26,1083,30.64,0,0.002,ORD-11997
+Singapore Hub,Automotive Parts,Sakura Industries,2024-11-29,121,164.03,0,0.002,ORD-12042
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-03-07,268,90.1,0,0.006,ORD-10387
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-02-29,261,101.04,6,0.018,ORD-10313
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-11-09,1214,1026.79,0,0.003,ORD-12066
+Mumbai Hub,Building Materials,Baltic Shipping OÜ,2024-08-09,661,49.62,0,0.002,ORD-11465
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-04-04,481,44.42,0,0.002,ORD-10727
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-07-17,282,39.75,0,0.002,ORD-11177
+Shanghai Hub,Machinery,Nordic Materials AB,2024-03-26,8,5602.94,2,0.006,ORD-10411
+Shanghai Hub,Food & Beverage,Andean Exports SA,2024-08-20,5922,12.47,0,0.012,ORD-11363
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-10-17,665,47.8,0,0.002,ORD-11771
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-05-11,31,5935.9,0,0.002,ORD-10938
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-06-10,325,1246.55,0,0.003,ORD-11091
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-04-22,400,83.53,0,0.006,ORD-10669
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-08-15,291,154.06,0,0.002,ORD-11382
+Singapore Hub,Automotive Parts,Sakura Industries,2024-11-01,223,175.76,0,0.002,ORD-12041
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-03-24,685,95.6,0,0.006,ORD-10457
+Dubai Hub,Electronics,Sakura Industries,2024-11-03,828,456.19,0,0.008,ORD-11990
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-09-04,115,199.08,0,0.002,ORD-11661
+Dubai Hub,Building Materials,CapeTown Distributors,2024-05-06,871,46.77,0,0.002,ORD-10875
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-04-22,1349,1253.04,0,0.003,ORD-10661
+São Paulo Hub,Luxury Goods,Sakura Industries,2024-03-11,52,2741.72,0,0.005,ORD-10462
+Frankfurt Hub,Consumer Goods,EuroFreight BV,2024-01-18,2054,31.34,0,0.002,ORD-10018
+Shanghai Hub,Chemicals,Atlas Logistics,2024-01-02,447,103.57,0,0.006,ORD-10039
+Rotterdam Hub,Food & Beverage,Mapleleaf Supply,2024-09-23,8606,12.91,1,0.014,ORD-11690
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-07-11,3403,17.41,0,0.01,ORD-11278
+Mumbai Hub,Chemicals,Rhine Chemical AG,2024-10-07,416,86.1,0,0.006,ORD-11828
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-04-25,2455,31.03,3,0.008,ORD-10602
+São Paulo Hub,Automotive Parts,TechSource GmbH,2024-09-19,178,204.79,0,0.002,ORD-11591
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-05-21,50,2723.43,0,0.005,ORD-10823
+Shanghai Hub,Raw Materials,Oceania Freight,2024-01-01,471,225.59,0,0.002,ORD-10044
+Mumbai Hub,Food & Beverage,Andean Exports SA,2024-05-05,7592,12.35,0,0.012,ORD-10886
+Dubai Hub,Chemicals,Baltic Shipping OÜ,2024-11-05,743,89.61,1,0.008,ORD-12002
+Singapore Hub,Automotive Parts,TechSource GmbH,2024-12-19,116,188.82,0,0.002,ORD-12242
+Mumbai Hub,Raw Materials,Oceania Freight,2024-06-15,838,180.79,0,0.002,ORD-11081
+Rotterdam Hub,Automotive Parts,Sakura Industries,2024-05-21,234,183.13,4,0.01,ORD-10930
+Mumbai Hub,Raw Materials,CapeTown Distributors,2024-04-10,240,202.89,6,0.014,ORD-10696
+Singapore Hub,Luxury Goods,Sakura Industries,2024-12-25,19,2922.28,0,0.005,ORD-12253
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-07-23,68,3074.9,0,0.005,ORD-11327
+Los Angeles Hub,Machinery,TechSource GmbH,2024-12-25,8,5530.77,0,0.002,ORD-12151
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-10-01,581,1164.74,0,0.003,ORD-11732
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-04-21,50,2912.98,0,0.005,ORD-10677
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-11-09,597,46.52,3,0.008,ORD-11936
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-02-22,6470,11.45,0,0.012,ORD-10312
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-10-29,233,98.69,0,0.006,ORD-11760
+Singapore Hub,Agricultural,Andean Exports SA,2024-05-22,1018,19.81,0,0.01,ORD-10925
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-06-25,163,176.32,0,0.002,ORD-10954
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-12-05,2108,18.48,0,0.01,ORD-12160
+Mumbai Hub,Automotive Parts,SinoLogistics Co.,2024-05-29,208,165.39,0,0.002,ORD-10883
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-08-15,933,19.52,0,0.01,ORD-11401
+Shanghai Hub,Food & Beverage,Oceania Freight,2024-12-09,6892,11.01,0,0.012,ORD-12120
+Shanghai Hub,Automotive Parts,TechSource GmbH,2024-09-09,359,206.89,3,0.008,ORD-11540
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-03-07,246,195.42,0,0.002,ORD-10391
+São Paulo Hub,Agricultural,Panama Canal Trade,2024-11-19,2952,20.03,0,0.01,ORD-11988
+Singapore Hub,Electronics,TechSource GmbH,2024-10-12,197,406.69,0,0.008,ORD-11843
+Dubai Hub,Raw Materials,Oceania Freight,2024-09-13,923,205.17,5,0.012,ORD-11625
+Singapore Hub,Electronics,TechSource GmbH,2024-09-19,517,433.4,0,0.008,ORD-11658
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-01-19,64,2959.86,0,0.005,ORD-10180
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-06-02,492,82.28,0,0.006,ORD-11052
+Mumbai Hub,Agricultural,Andean Exports SA,2024-02-28,582,15.55,0,0.01,ORD-10325
+Singapore Hub,Electronics,Sakura Industries,2024-10-30,318,391.7,0,0.008,ORD-11842
+Shanghai Hub,Building Materials,Atlas Logistics,2024-02-19,121,40.35,0,0.002,ORD-10231
+Frankfurt Hub,Textiles,Mediterranean Trading,2024-07-04,802,29.91,0,0.002,ORD-11144
+Frankfurt Hub,Electronics,Sakura Industries,2024-02-05,415,505.82,0,0.008,ORD-10189
+Shanghai Hub,Electronics,Dragon Electronics,2024-07-04,502,499.93,0,0.008,ORD-11158
+Singapore Hub,Raw Materials,Oceania Freight,2024-01-25,840,196.52,0,0.002,ORD-10155
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-08-05,798,196.15,3,0.008,ORD-11505
+Los Angeles Hub,Luxury Goods,MarinaPort Pte,2024-11-27,73,2552.79,0,0.005,ORD-11958
+Singapore Hub,Raw Materials,Oceania Freight,2024-07-31,1118,191.81,0,0.002,ORD-11300
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-10-02,76,188.66,0,0.002,ORD-11755
+Shanghai Hub,Agricultural,Oceania Freight,2024-07-12,1460,18.8,0,0.01,ORD-11178
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-04-26,797,23.9,0,0.002,ORD-10579
+Los Angeles Hub,Machinery,Pacific Trade Corp,2024-06-15,16,4868.96,0,0.002,ORD-11008
+Dubai Hub,Machinery,TechSource GmbH,2024-10-28,28,5596.32,1,0.004,ORD-11810
+Dubai Hub,Machinery,Sakura Industries,2024-04-26,26,5754.82,0,0.002,ORD-10670
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-06-11,1153,28.65,0,0.002,ORD-11033
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-01-25,933,31.58,0,0.002,ORD-10066
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-05-07,386,178.2,0,0.002,ORD-10896
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-07-16,311,1340.58,0,0.003,ORD-11159
+Shanghai Hub,Textiles,Tata Supply Chain,2024-01-08,753,38.78,0,0.002,ORD-10034
+Frankfurt Hub,Consumer Goods,Pacific Trade Corp,2024-10-30,343,31.88,0,0.002,ORD-11720
+Dubai Hub,Food & Beverage,Andean Exports SA,2024-06-19,3364,10.46,0,0.012,ORD-11050
+Mumbai Hub,Automotive Parts,TechSource GmbH,2024-01-23,206,188.85,0,0.002,ORD-10124
+Mumbai Hub,Luxury Goods,Sakura Industries,2024-06-01,40,2978.19,0,0.005,ORD-11083
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-01-20,1199,1098.99,0,0.003,ORD-10099
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-06-18,143,408.13,0,0.008,ORD-10997
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-10-19,129,177.09,0,0.002,ORD-11782
+Frankfurt Hub,Chemicals,Gulf Dynamics LLC,2024-10-30,412,98.87,0,0.006,ORD-11717
+São Paulo Hub,Machinery,TechSource GmbH,2024-05-14,40,4794.44,0,0.002,ORD-10842
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-07-14,809,37.08,0,0.002,ORD-11316
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-11-05,1371,16.03,0,0.01,ORD-11989
+Mumbai Hub,Food & Beverage,Mediterranean Trading,2024-09-14,4844,12.65,0,0.012,ORD-11641
+Shanghai Hub,Building Materials,Atlas Logistics,2024-01-06,379,39.17,4,0.01,ORD-10048
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-09-06,492,45.68,0,0.002,ORD-11532
+Dubai Hub,Textiles,Mediterranean Trading,2024-07-03,669,30.57,0,0.002,ORD-11237
+Singapore Hub,Textiles,Mediterranean Trading,2024-03-08,960,37.14,0,0.002,ORD-10523
+Singapore Hub,Consumer Goods,SinoLogistics Co.,2024-03-29,873,30.12,0,0.002,ORD-10531
+Dubai Hub,Textiles,Andean Exports SA,2024-12-20,3902,31.95,0,0.002,ORD-12193
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-08-16,606,98.5,0,0.006,ORD-11388
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-03-02,6897,12.62,0,0.012,ORD-10408
+Mumbai Hub,Pharmaceuticals,EuroFreight BV,2024-12-24,371,1082.13,0,0.003,ORD-12216
+Rotterdam Hub,Chemicals,Gulf Dynamics LLC,2024-04-09,163,100.43,0,0.006,ORD-10742
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-05-19,22,2411.7,0,0.005,ORD-10944
+Frankfurt Hub,Luxury Goods,Sakura Industries,2024-11-15,65,2810.63,0,0.005,ORD-11909
+Frankfurt Hub,Machinery,Pacific Trade Corp,2024-06-11,6,5944.97,0,0.002,ORD-10960
+Dubai Hub,Electronics,Sakura Industries,2024-04-20,361,439.71,0,0.008,ORD-10658
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-03-09,682,1180.82,0,0.003,ORD-10378
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-03-28,1656,28.55,0,0.002,ORD-10440
+Frankfurt Hub,Building Materials,Andean Mining Corp,2024-09-13,555,43.99,0,0.002,ORD-11531
+Singapore Hub,Machinery,TechSource GmbH,2024-05-18,13,5479.94,0,0.002,ORD-10914
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-09-27,1015,47.28,0,0.002,ORD-11583
+Rotterdam Hub,Textiles,Tata Supply Chain,2024-04-26,3433,30.87,0,0.002,ORD-10740
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-12-01,2429,30.08,0,0.002,ORD-12176
+Frankfurt Hub,Automotive Parts,SinoLogistics Co.,2024-10-11,142,171.64,0,0.002,ORD-11711
+Mumbai Hub,Machinery,Nordic Materials AB,2024-08-16,12,5119.32,0,0.002,ORD-11457
+Dubai Hub,Machinery,Sakura Industries,2024-08-04,34,5456.04,0,0.002,ORD-11433
+São Paulo Hub,Automotive Parts,TechSource GmbH,2024-10-21,276,164.91,0,0.002,ORD-11781
+Singapore Hub,Electronics,SinoLogistics Co.,2024-01-20,302,386.91,0,0.008,ORD-10140
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-09-24,989,24.45,0,0.002,ORD-11577
+Los Angeles Hub,Luxury Goods,EuroFreight BV,2024-09-08,21,2393.47,0,0.005,ORD-11582
+Dubai Hub,Textiles,Andean Exports SA,2024-02-03,1487,37.45,0,0.002,ORD-10288
+Shanghai Hub,Luxury Goods,Sakura Industries,2024-01-23,29,2539.51,0,0.005,ORD-10045
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-11-04,38,2420.18,0,0.005,ORD-11932
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-04-19,676,107.78,0,0.006,ORD-10597
+Mumbai Hub,Agricultural,Oceania Freight,2024-06-22,4215,15.58,0,0.01,ORD-11088
+Frankfurt Hub,Automotive Parts,TechSource GmbH,2024-07-11,73,185.03,0,0.002,ORD-11141
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-03-10,1068,220.82,4,0.01,ORD-10534
+Frankfurt Hub,Agricultural,Andean Exports SA,2024-08-11,3187,18.66,0,0.01,ORD-11354
+Dubai Hub,Textiles,Andean Exports SA,2024-10-14,1528,30.7,2,0.006,ORD-11804
+Rotterdam Hub,Textiles,Mediterranean Trading,2024-06-09,460,39.16,0,0.002,ORD-11120
+São Paulo Hub,Raw Materials,Oceania Freight,2024-12-26,343,214.94,0,0.002,ORD-12178
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-04-10,782,27.75,0,0.002,ORD-10672
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-03-10,5152,11.15,0,0.012,ORD-10503
+Singapore Hub,Raw Materials,Oceania Freight,2024-09-12,600,174.31,0,0.002,ORD-11673
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-01-10,59,3096.8,0,0.005,ORD-10181
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-07-25,483,173.18,0,0.002,ORD-11151
+Shanghai Hub,Chemicals,Atlas Logistics,2024-03-18,346,104.96,0,0.006,ORD-10410
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-07-31,1191,39.34,1,0.004,ORD-11176
+Shanghai Hub,Agricultural,Panama Canal Trade,2024-04-13,4550,17.57,0,0.01,ORD-10613
+Rotterdam Hub,Raw Materials,Atlas Logistics,2024-10-17,474,222.78,0,0.002,ORD-11884
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-02-18,184,194.85,0,0.002,ORD-10309
+Mumbai Hub,Textiles,Mediterranean Trading,2024-02-03,1207,39.19,0,0.002,ORD-10311
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-12-28,35,2602.84,0,0.005,ORD-12133
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-08-29,447,99.3,0,0.006,ORD-11501
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-09-07,366,391.41,0,0.008,ORD-11588
+Dubai Hub,Textiles,Andean Exports SA,2024-04-13,1394,37.32,0,0.002,ORD-10665
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-01-02,660,26.44,0,0.002,ORD-10152
+Shanghai Hub,Electronics,Sakura Industries,2024-09-08,188,430.98,0,0.008,ORD-11536
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-02-29,106,43.85,0,0.002,ORD-10276
+Los Angeles Hub,Machinery,Pacific Trade Corp,2024-10-20,24,5871.83,1,0.004,ORD-11762
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-02-01,28,2855.71,0,0.005,ORD-10228
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-04-29,25,2415.86,0,0.005,ORD-10583
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-05-05,78,2398.59,3,0.011,ORD-10898
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-05-31,89,397.99,0,0.008,ORD-10757
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-11-17,37,5225.67,0,0.002,ORD-11952
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-04-16,491,1276.19,0,0.003,ORD-10566
+Dubai Hub,Raw Materials,CapeTown Distributors,2024-10-24,320,227.72,0,0.002,ORD-11813
+Singapore Hub,Textiles,Andean Exports SA,2024-12-03,1726,38.17,0,0.002,ORD-12243
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-11-22,6873,12.53,0,0.012,ORD-11948
+Frankfurt Hub,Building Materials,Andean Mining Corp,2024-02-12,451,42.62,0,0.002,ORD-10208
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-12-30,1937,30.3,0,0.002,ORD-12249
+Frankfurt Hub,Machinery,TechSource GmbH,2024-05-20,7,5831.46,0,0.002,ORD-10769
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-12-20,438,40.65,0,0.002,ORD-12136
+Dubai Hub,Machinery,Sakura Industries,2024-07-06,37,5615.89,0,0.002,ORD-11243
+Rotterdam Hub,Automotive Parts,Pacific Trade Corp,2024-11-02,66,182.24,0,0.002,ORD-12068
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-03-03,61,2813.12,0,0.005,ORD-10512
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-12-26,34,3086.8,0,0.005,ORD-12131
+Mumbai Hub,Pharmaceuticals,Rhine Chemical AG,2024-08-17,446,1256.97,0,0.003,ORD-11447
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-08-26,958,38.17,0,0.002,ORD-11409
+Shanghai Hub,Building Materials,CapeTown Distributors,2024-05-27,1113,45.6,0,0.002,ORD-10799
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-08-04,13,2618.8,1,0.007,ORD-11351
+São Paulo Hub,Machinery,Sakura Industries,2024-09-11,22,5198.94,0,0.002,ORD-11600
+São Paulo Hub,Agricultural,Andean Exports SA,2024-01-07,1319,17.5,0,0.01,ORD-10095
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-06-30,1089,219.95,0,0.002,ORD-10963
+São Paulo Hub,Chemicals,Atlas Logistics,2024-07-06,681,102.27,0,0.006,ORD-11215
+Singapore Hub,Chemicals,Baltic Shipping OÜ,2024-08-23,296,83.31,0,0.006,ORD-11478
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-06-11,7790,12.12,0,0.012,ORD-10983
+Singapore Hub,Machinery,TechSource GmbH,2024-08-13,22,5614.02,0,0.002,ORD-11481
+Los Angeles Hub,Agricultural,Oceania Freight,2024-10-31,1566,16.76,0,0.01,ORD-11774
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-02-14,1151,1093.45,0,0.003,ORD-10329
+Mumbai Hub,Automotive Parts,TechSource GmbH,2024-03-26,199,154.77,0,0.002,ORD-10498
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-01-25,2407,30.73,0,0.002,ORD-10153
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-02-22,4066,13.63,0,0.012,ORD-10219
+Shanghai Hub,Electronics,Sakura Industries,2024-10-02,111,465.6,0,0.008,ORD-11731
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-10-14,714,218.45,0,0.002,ORD-11833
+Mumbai Hub,Building Materials,Andean Mining Corp,2024-10-22,885,40.42,6,0.014,ORD-11836
+Mumbai Hub,Chemicals,Atlas Logistics,2024-07-02,221,91.68,0,0.006,ORD-11265
+Rotterdam Hub,Raw Materials,Oceania Freight,2024-10-26,207,226.38,0,0.002,ORD-11883
+Mumbai Hub,Pharmaceuticals,TechSource GmbH,2024-09-24,592,1113.37,0,0.003,ORD-11634
+Shanghai Hub,Chemicals,Atlas Logistics,2024-03-14,252,89.3,0,0.006,ORD-10409
+Frankfurt Hub,Pharmaceuticals,EuroFreight BV,2024-09-25,969,1093.91,0,0.003,ORD-11514
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-07-17,521,87.57,0,0.006,ORD-11147
+Dubai Hub,Automotive Parts,TechSource GmbH,2024-12-18,89,185.0,0,0.002,ORD-12190
+Dubai Hub,Food & Beverage,Oceania Freight,2024-04-18,7803,11.49,0,0.012,ORD-10668
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-05-31,136,153.26,0,0.002,ORD-10784
+Dubai Hub,Chemicals,Atlas Logistics,2024-09-23,750,100.37,0,0.006,ORD-11620
+Dubai Hub,Building Materials,Atlas Logistics,2024-05-28,346,40.44,0,0.002,ORD-10876
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-04-20,1397,1056.83,0,0.003,ORD-10660
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-01-29,1722,18.51,0,0.01,ORD-10049
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-05-01,439,81.83,0,0.006,ORD-10765
+Frankfurt Hub,Electronics,TechSource GmbH,2024-10-11,586,505.25,0,0.008,ORD-11706
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-04-06,2295,29.25,0,0.002,ORD-10604
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-11-24,359,1047.05,0,0.003,ORD-11942
+Singapore Hub,Electronics,SinoLogistics Co.,2024-08-09,295,464.91,3,0.014,ORD-11468
+Shanghai Hub,Electronics,TechSource GmbH,2024-08-26,152,456.37,0,0.008,ORD-11356
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-03-21,1273,1032.18,0,0.003,ORD-10428
+São Paulo Hub,Automotive Parts,SinoLogistics Co.,2024-11-22,179,172.67,0,0.002,ORD-11968
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-08-14,504,50.4,0,0.002,ORD-11443
+Singapore Hub,Agricultural,Andean Exports SA,2024-09-07,2577,19.22,0,0.01,ORD-11677
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-01-07,649,93.54,0,0.006,ORD-10040
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-03-25,3500,20.16,0,0.01,ORD-10562
+São Paulo Hub,Textiles,Andean Exports SA,2024-12-15,3923,35.66,0,0.002,ORD-12167
+Rotterdam Hub,Machinery,Sakura Industries,2024-05-06,40,5337.57,0,0.002,ORD-10936
+Shanghai Hub,Food & Beverage,Mapleleaf Supply,2024-12-11,5767,11.23,0,0.012,ORD-12119
+Mumbai Hub,Raw Materials,Andean Mining Corp,2024-09-22,951,193.09,0,0.002,ORD-11650
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-07-29,1219,23.97,0,0.002,ORD-11323
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-10-14,823,1059.62,0,0.003,ORD-11753
+São Paulo Hub,Food & Beverage,Oceania Freight,2024-05-13,7541,10.92,0,0.012,ORD-10838
+Dubai Hub,Luxury Goods,Sakura Industries,2024-01-28,72,2468.65,4,0.013,ORD-10114
+São Paulo Hub,Electronics,TechSource GmbH,2024-05-28,315,442.79,0,0.008,ORD-10828
+Shanghai Hub,Raw Materials,Atlas Logistics,2024-10-27,639,228.59,0,0.002,ORD-11744
+Frankfurt Hub,Chemicals,Baltic Shipping OÜ,2024-01-07,799,99.22,0,0.006,ORD-10012
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-05-19,301,162.88,0,0.002,ORD-10855
+Los Angeles Hub,Electronics,Dragon Electronics,2024-09-13,499,505.39,0,0.008,ORD-11562
+Los Angeles Hub,Pharmaceuticals,Tata Supply Chain,2024-05-22,1181,1095.85,0,0.003,ORD-10806
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-07-29,271,39.66,0,0.002,ORD-11154
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-05-31,78,2526.61,0,0.005,ORD-10872
+Los Angeles Hub,Agricultural,Oceania Freight,2024-04-16,1069,17.43,0,0.01,ORD-10631
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-05-20,51,2985.64,0,0.005,ORD-10922
+São Paulo Hub,Machinery,Sakura Industries,2024-04-15,31,5897.56,0,0.002,ORD-10646
+Mumbai Hub,Agricultural,Oceania Freight,2024-11-26,821,15.94,0,0.01,ORD-12035
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-09-05,19,2841.87,0,0.005,ORD-11699
+Shanghai Hub,Consumer Goods,MarinaPort Pte,2024-12-03,1440,29.95,0,0.002,ORD-12127
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-12-14,813,31.58,0,0.002,ORD-12102
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-04-15,272,200.95,2,0.006,ORD-10684
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-04-23,20,2941.24,0,0.005,ORD-10628
+Dubai Hub,Consumer Goods,Pacific Trade Corp,2024-02-23,1804,31.56,0,0.002,ORD-10297
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-05-17,313,196.35,0,0.002,ORD-10760
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-12-09,1414,1030.28,0,0.003,ORD-12240
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-12-31,896,467.66,0,0.008,ORD-12112
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-10-23,176,170.27,0,0.002,ORD-11754
+São Paulo Hub,Agricultural,Andean Exports SA,2024-10-08,2142,17.61,0,0.01,ORD-11795
+Singapore Hub,Agricultural,Andean Exports SA,2024-03-25,568,18.47,0,0.01,ORD-10539
+Dubai Hub,Electronics,SinoLogistics Co.,2024-03-03,531,401.29,0,0.008,ORD-10469
+Rotterdam Hub,Machinery,Sakura Industries,2024-03-16,28,4934.56,0,0.002,ORD-10552
+Dubai Hub,Pharmaceuticals,TechSource GmbH,2024-12-01,762,1122.31,0,0.003,ORD-12188
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-09-04,3523,12.86,0,0.012,ORD-11597
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-05-16,1471,1133.55,0,0.003,ORD-10854
+Dubai Hub,Textiles,Mediterranean Trading,2024-09-16,2863,39.62,3,0.008,ORD-11616
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-07-08,788,30.22,0,0.002,ORD-11220
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-08-15,780,33.08,0,0.002,ORD-11339
+Frankfurt Hub,Agricultural,Andean Exports SA,2024-06-23,2508,17.92,0,0.01,ORD-10971
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-06-11,68,2789.51,0,0.005,ORD-11058
+Dubai Hub,Food & Beverage,Andean Exports SA,2024-04-23,4573,12.82,0,0.012,ORD-10667
+Mumbai Hub,Raw Materials,Atlas Logistics,2024-12-27,292,200.8,0,0.002,ORD-12230
+Shanghai Hub,Machinery,Sakura Industries,2024-12-18,5,5480.8,0,0.002,ORD-12123
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-07-04,616,44.42,0,0.002,ORD-11250
+Mumbai Hub,Agricultural,Oceania Freight,2024-02-06,2765,20.29,0,0.01,ORD-10324
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-10-20,75,2536.96,0,0.005,ORD-11746
+Rotterdam Hub,Electronics,TechSource GmbH,2024-02-19,192,385.06,0,0.008,ORD-10352
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-09-13,3156,17.68,0,0.01,ORD-11610
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-05-19,7936,12.57,0,0.012,ORD-10812
+Frankfurt Hub,Building Materials,Atlas Logistics,2024-12-14,428,40.5,0,0.002,ORD-12108
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-03-30,534,39.33,5,0.012,ORD-10394
+Mumbai Hub,Luxury Goods,EuroFreight BV,2024-02-11,54,3175.89,0,0.005,ORD-10321
+Dubai Hub,Textiles,SinoLogistics Co.,2024-04-07,3403,37.79,5,0.012,ORD-10664
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-02-16,1977,30.72,0,0.002,ORD-10317
+Shanghai Hub,Agricultural,Panama Canal Trade,2024-08-23,3795,16.93,0,0.01,ORD-11377
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-07-25,1965,31.78,0,0.002,ORD-11170
+Los Angeles Hub,Automotive Parts,Sakura Industries,2024-03-12,366,187.44,4,0.01,ORD-10431
+Dubai Hub,Electronics,Sakura Industries,2024-12-01,489,409.4,0,0.008,ORD-12185
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-10-28,1167,25.67,0,0.002,ORD-11880
+Rotterdam Hub,Machinery,Nordic Materials AB,2024-11-19,7,5690.65,0,0.002,ORD-12076
+Shanghai Hub,Electronics,Sakura Industries,2024-02-02,384,469.35,0,0.008,ORD-10211
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-06-17,42,2523.07,0,0.005,ORD-10967
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-06-08,4316,19.31,1,0.012,ORD-11087
+Los Angeles Hub,Textiles,Tata Supply Chain,2024-09-12,1209,35.05,0,0.002,ORD-11570
+São Paulo Hub,Agricultural,Andean Exports SA,2024-04-14,4804,20.52,0,0.01,ORD-10656
+Los Angeles Hub,Raw Materials,Atlas Logistics,2024-04-13,391,196.75,0,0.002,ORD-10626
+São Paulo Hub,Chemicals,Baltic Shipping OÜ,2024-06-04,449,92.04,0,0.006,ORD-11028
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-04-17,907,47.53,5,0.012,ORD-10630
+Los Angeles Hub,Chemicals,Atlas Logistics,2024-03-31,570,96.85,2,0.01,ORD-10437
+Dubai Hub,Automotive Parts,Sakura Industries,2024-03-01,182,164.99,0,0.002,ORD-10475
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-09-19,386,1123.65,0,0.003,ORD-11563
+Shanghai Hub,Machinery,Nordic Materials AB,2024-02-25,8,6272.86,0,0.002,ORD-10223
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-12-14,8533,13.35,0,0.012,ORD-12148
+Frankfurt Hub,Agricultural,Panama Canal Trade,2024-03-10,3258,19.18,0,0.01,ORD-10397
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-11-17,2580,17.88,0,0.01,ORD-11939
+Rotterdam Hub,Automotive Parts,TechSource GmbH,2024-09-17,61,184.69,2,0.006,ORD-11685
+Singapore Hub,Consumer Goods,SinoLogistics Co.,2024-06-02,2476,29.15,4,0.01,ORD-11104
+São Paulo Hub,Automotive Parts,TechSource GmbH,2024-08-10,93,167.36,0,0.002,ORD-11407
+Rotterdam Hub,Electronics,Dragon Electronics,2024-07-22,364,501.22,3,0.014,ORD-11307
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-11-17,8096,10.94,0,0.012,ORD-12000
+Singapore Hub,Textiles,Andean Exports SA,2024-05-07,713,38.82,0,0.002,ORD-10908
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-10-30,983,28.83,0,0.002,ORD-11766
+Frankfurt Hub,Textiles,Andean Exports SA,2024-02-13,943,36.84,0,0.002,ORD-10194
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-04-03,773,26.39,0,0.002,ORD-10624
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-08-21,1092,1323.15,0,0.003,ORD-11379
+Mumbai Hub,Textiles,Andean Exports SA,2024-05-12,2450,34.66,3,0.008,ORD-10885
+Shanghai Hub,Building Materials,Atlas Logistics,2024-09-16,657,51.14,2,0.006,ORD-11558
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-01-08,63,2889.31,0,0.005,ORD-10135
+Rotterdam Hub,Raw Materials,CapeTown Distributors,2024-02-21,974,227.83,0,0.002,ORD-10367
+Singapore Hub,Food & Beverage,Oceania Freight,2024-02-17,5085,13.36,0,0.012,ORD-10335
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-06-19,3311,19.35,0,0.01,ORD-11016
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-06-11,512,197.0,0,0.002,ORD-10964
+Dubai Hub,Pharmaceuticals,Rhine Chemical AG,2024-06-28,882,1188.08,0,0.003,ORD-11044
+Mumbai Hub,Electronics,Dragon Electronics,2024-11-17,655,504.34,0,0.008,ORD-12015
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-12-14,374,100.43,0,0.006,ORD-12172
+Los Angeles Hub,Pharmaceuticals,TechSource GmbH,2024-06-02,1149,1318.76,0,0.003,ORD-10999
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-02-06,2208,16.69,0,0.01,ORD-10374
+Shanghai Hub,Machinery,TechSource GmbH,2024-09-19,13,4928.59,2,0.006,ORD-11550
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-10-14,4273,13.18,0,0.012,ORD-11873
+Mumbai Hub,Agricultural,Mapleleaf Supply,2024-05-27,1093,16.74,0,0.01,ORD-10902
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-07-18,788,1115.46,0,0.003,ORD-11282
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-11-27,278,173.4,0,0.002,ORD-12054
+São Paulo Hub,Machinery,Nordic Materials AB,2024-06-21,39,6153.28,0,0.002,ORD-11031
+Frankfurt Hub,Consumer Goods,SinoLogistics Co.,2024-07-17,1782,31.05,5,0.012,ORD-11150
+Los Angeles Hub,Machinery,TechSource GmbH,2024-08-14,15,5150.22,0,0.002,ORD-11389
+Rotterdam Hub,Agricultural,Oceania Freight,2024-03-18,3104,19.83,3,0.016,ORD-10564
+Mumbai Hub,Building Materials,Atlas Logistics,2024-04-24,535,46.95,0,0.002,ORD-10699
+Mumbai Hub,Raw Materials,Atlas Logistics,2024-03-23,1048,184.85,4,0.01,ORD-10510
+Singapore Hub,Electronics,Sakura Industries,2024-06-12,413,405.11,0,0.008,ORD-11090
+São Paulo Hub,Electronics,Sakura Industries,2024-10-18,280,437.63,0,0.008,ORD-11777
+Rotterdam Hub,Electronics,Dragon Electronics,2024-03-18,327,393.79,0,0.008,ORD-10542
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-04-29,439,456.21,0,0.008,ORD-10614
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-12-31,1037,19.84,0,0.01,ORD-12138
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-12-12,346,1251.08,2,0.007,ORD-12088
+Shanghai Hub,Machinery,Nordic Materials AB,2024-12-24,38,4883.19,0,0.002,ORD-12125
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-06-07,14,2723.21,2,0.009,ORD-10990
+São Paulo Hub,Agricultural,Andean Exports SA,2024-06-30,3243,18.03,0,0.01,ORD-11039
+Dubai Hub,Raw Materials,Atlas Logistics,2024-04-13,623,173.24,2,0.006,ORD-10674
+Rotterdam Hub,Machinery,Sakura Industries,2024-02-16,17,6041.12,0,0.002,ORD-10362
+Singapore Hub,Chemicals,Gulf Dynamics LLC,2024-07-03,522,88.36,0,0.006,ORD-11293
+Los Angeles Hub,Machinery,TechSource GmbH,2024-06-07,21,4695.14,0,0.002,ORD-11009
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-03-05,444,28.44,0,0.002,ORD-10555
+Dubai Hub,Pharmaceuticals,Rhine Chemical AG,2024-07-20,1054,1185.78,0,0.003,ORD-11232
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-05-02,2524,34.36,0,0.002,ORD-10834
+Shanghai Hub,Chemicals,Atlas Logistics,2024-09-07,560,105.06,0,0.006,ORD-11546
+Mumbai Hub,Agricultural,Mapleleaf Supply,2024-03-14,2526,16.75,0,0.01,ORD-10516
+Frankfurt Hub,Electronics,TechSource GmbH,2024-01-22,409,386.79,0,0.008,ORD-10002
+Shanghai Hub,Raw Materials,Oceania Freight,2024-11-11,827,172.82,0,0.002,ORD-11930
+Shanghai Hub,Machinery,Pacific Trade Corp,2024-09-27,26,5047.06,0,0.002,ORD-11548
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-07-04,300,179.85,0,0.002,ORD-11259
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-07-31,40,2474.02,0,0.005,ORD-11301
+Mumbai Hub,Luxury Goods,EuroFreight BV,2024-12-16,69,2872.93,0,0.005,ORD-12232
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-07-22,312,174.3,0,0.002,ORD-11207
+Shanghai Hub,Electronics,TechSource GmbH,2024-03-30,100,491.78,0,0.008,ORD-10399
+Rotterdam Hub,Food & Beverage,Mediterranean Trading,2024-07-20,6598,12.7,0,0.012,ORD-11317
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-09-05,139,187.31,0,0.002,ORD-11593
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-12-17,981,384.06,0,0.008,ORD-12259
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-10-01,56,2498.67,0,0.005,ORD-11816
+Singapore Hub,Textiles,Mediterranean Trading,2024-08-27,2665,33.51,0,0.002,ORD-11475
+Shanghai Hub,Luxury Goods,Mediterranean Trading,2024-02-05,21,3006.73,0,0.005,ORD-10229
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-10-04,2161,24.12,0,0.002,ORD-11854
+Los Angeles Hub,Machinery,Pacific Trade Corp,2024-10-23,40,6283.96,0,0.002,ORD-11764
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-05-03,1323,1039.38,0,0.003,ORD-10881
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-07-27,34,5176.74,0,0.002,ORD-11192
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-01-05,1011,210.83,0,0.002,ORD-10020
+Shanghai Hub,Chemicals,Atlas Logistics,2024-07-24,352,87.81,0,0.006,ORD-11166
+Los Angeles Hub,Electronics,Dragon Electronics,2024-04-16,246,443.42,0,0.008,ORD-10615
+Los Angeles Hub,Electronics,Sakura Industries,2024-06-29,409,444.78,0,0.008,ORD-10998
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-07-17,1110,40.72,0,0.002,ORD-11226
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-03-17,435,182.69,8,0.018,ORD-10441
+Rotterdam Hub,Agricultural,Andean Exports SA,2024-12-31,2250,16.33,0,0.01,ORD-12276
+Rotterdam Hub,Electronics,TechSource GmbH,2024-06-20,222,394.16,0,0.008,ORD-11111
+Frankfurt Hub,Raw Materials,CapeTown Distributors,2024-02-03,800,182.96,3,0.008,ORD-10205
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-03-11,1909,38.95,5,0.012,ORD-10405
+Shanghai Hub,Electronics,Sakura Industries,2024-06-12,353,516.96,3,0.014,ORD-10975
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-01-11,3594,12.46,4,0.02,ORD-10171
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-11-21,294,385.37,0,0.008,ORD-12064
+Los Angeles Hub,Textiles,Tata Supply Chain,2024-02-15,1782,35.8,0,0.002,ORD-10239
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-06-10,279,182.28,0,0.002,ORD-10980
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-12-11,1347,30.75,0,0.002,ORD-12168
+Singapore Hub,Chemicals,Atlas Logistics,2024-01-12,441,89.9,0,0.006,ORD-10150
+Singapore Hub,Consumer Goods,SinoLogistics Co.,2024-07-01,643,26.44,0,0.002,ORD-11299
+Dubai Hub,Food & Beverage,Mapleleaf Supply,2024-09-02,4982,13.56,0,0.012,ORD-11618
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-04-29,21,2619.46,0,0.005,ORD-10654
+Dubai Hub,Chemicals,Rhine Chemical AG,2024-01-16,652,82.23,2,0.01,ORD-10105
+São Paulo Hub,Machinery,Nordic Materials AB,2024-09-02,23,5913.41,0,0.002,ORD-11601
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-10-14,2345,13.09,0,0.012,ORD-11806
+Singapore Hub,Chemicals,Baltic Shipping OÜ,2024-06-02,218,82.25,0,0.006,ORD-11100
+Frankfurt Hub,Consumer Goods,EuroFreight BV,2024-02-22,1769,24.31,0,0.002,ORD-10202
+Frankfurt Hub,Electronics,Dragon Electronics,2024-06-25,100,468.07,0,0.008,ORD-10951
+Shanghai Hub,Pharmaceuticals,TechSource GmbH,2024-06-22,379,1282.76,0,0.003,ORD-10978
+Los Angeles Hub,Machinery,Pacific Trade Corp,2024-07-26,36,5654.04,0,0.002,ORD-11191
+Shanghai Hub,Agricultural,Oceania Freight,2024-09-20,3777,16.4,0,0.01,ORD-11560
+Frankfurt Hub,Raw Materials,Oceania Freight,2024-12-05,847,222.89,0,0.002,ORD-12105
+Mumbai Hub,Textiles,Tata Supply Chain,2024-03-18,3129,30.95,0,0.002,ORD-10500
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-03-18,3292,19.45,0,0.01,ORD-10467
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-03-09,523,444.71,0,0.008,ORD-10426
+Mumbai Hub,Automotive Parts,Pacific Trade Corp,2024-01-18,267,206.82,0,0.002,ORD-10125
+Singapore Hub,Textiles,Tata Supply Chain,2024-11-25,2197,34.93,0,0.002,ORD-12043
+Los Angeles Hub,Automotive Parts,Pacific Trade Corp,2024-11-11,282,188.39,0,0.002,ORD-11945
+São Paulo Hub,Raw Materials,CapeTown Distributors,2024-02-06,1020,206.28,1,0.004,ORD-10272
+Mumbai Hub,Textiles,Tata Supply Chain,2024-12-30,1995,37.41,0,0.002,ORD-12220
+Singapore Hub,Raw Materials,Andean Mining Corp,2024-10-13,1158,218.51,0,0.002,ORD-11856
+Mumbai Hub,Machinery,Sakura Industries,2024-01-31,36,4844.27,0,0.002,ORD-10131
+Rotterdam Hub,Machinery,TechSource GmbH,2024-10-20,33,5505.55,0,0.002,ORD-11879
+Mumbai Hub,Electronics,Sakura Industries,2024-12-11,455,504.77,0,0.008,ORD-12213
+Frankfurt Hub,Automotive Parts,TechSource GmbH,2024-12-01,238,155.41,0,0.002,ORD-12091
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-03-10,605,185.27,0,0.002,ORD-10390
+Frankfurt Hub,Chemicals,Atlas Logistics,2024-09-06,166,84.13,2,0.01,ORD-11522
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-12-24,444,47.06,7,0.016,ORD-12275
+Frankfurt Hub,Automotive Parts,SinoLogistics Co.,2024-04-27,88,184.96,0,0.002,ORD-10569
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-06-24,72,2706.56,0,0.005,ORD-11131
+Rotterdam Hub,Pharmaceuticals,TechSource GmbH,2024-03-28,318,1108.01,0,0.003,ORD-10545
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-07-25,25,2771.36,0,0.005,ORD-11248
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-01-21,1765,13.15,0,0.012,ORD-10083
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-02-02,1253,24.24,0,0.002,ORD-10364
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-05-04,790,93.82,0,0.006,ORD-10935
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-08-22,899,1095.82,0,0.003,ORD-11470
+Shanghai Hub,Agricultural,Panama Canal Trade,2024-11-05,2797,17.71,0,0.01,ORD-11938
+Frankfurt Hub,Building Materials,Baltic Shipping OÜ,2024-12-30,126,39.96,0,0.002,ORD-12107
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-11-07,642,1188.53,0,0.003,ORD-11943
+Los Angeles Hub,Textiles,Mediterranean Trading,2024-10-31,2784,33.26,0,0.002,ORD-11757
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-08-11,297,478.8,0,0.008,ORD-11333
+Shanghai Hub,Automotive Parts,TechSource GmbH,2024-11-12,210,159.6,0,0.002,ORD-11918
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-08-21,688,82.4,0,0.006,ORD-11413
+Frankfurt Hub,Electronics,Sakura Industries,2024-03-26,249,406.19,0,0.008,ORD-10375
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-09-12,87,172.33,0,0.002,ORD-11515
+Rotterdam Hub,Building Materials,CapeTown Distributors,2024-12-21,291,43.66,0,0.002,ORD-12274
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-03-01,8462,10.63,0,0.012,ORD-10525
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-03-14,7731,13.19,0,0.012,ORD-10502
+Mumbai Hub,Consumer Goods,SinoLogistics Co.,2024-03-28,855,31.89,0,0.002,ORD-10508
+Mumbai Hub,Textiles,Mediterranean Trading,2024-06-20,1040,31.91,0,0.002,ORD-11071
+Shanghai Hub,Automotive Parts,Pacific Trade Corp,2024-07-21,188,163.92,0,0.002,ORD-11161
+Singapore Hub,Machinery,Pacific Trade Corp,2024-05-18,33,5884.76,0,0.002,ORD-10915
+Dubai Hub,Building Materials,Andean Mining Corp,2024-01-14,342,51.28,0,0.002,ORD-10115
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-09-14,1483,1348.67,0,0.003,ORD-11635
+Rotterdam Hub,Electronics,SinoLogistics Co.,2024-01-19,185,442.78,0,0.008,ORD-10163
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-10-25,717,83.59,0,0.006,ORD-11788
+Singapore Hub,Machinery,Sakura Industries,2024-06-09,38,6110.96,0,0.002,ORD-11102
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-11-12,220,201.13,0,0.002,ORD-11969
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-10-04,53,161.4,0,0.002,ORD-11734
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-06-06,10374,12.72,0,0.012,ORD-11096
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-12-10,2005,19.61,0,0.01,ORD-12277
+Rotterdam Hub,Consumer Goods,Pacific Trade Corp,2024-03-24,1219,26.5,0,0.002,ORD-10556
+Mumbai Hub,Building Materials,Atlas Logistics,2024-01-24,181,46.69,0,0.002,ORD-10138
+Dubai Hub,Electronics,Dragon Electronics,2024-06-05,470,507.19,0,0.008,ORD-11040
+Dubai Hub,Raw Materials,Atlas Logistics,2024-04-07,619,229.23,4,0.01,ORD-10675
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-11-09,587,99.61,0,0.006,ORD-11950
+Frankfurt Hub,Consumer Goods,Pacific Trade Corp,2024-02-04,675,29.37,0,0.002,ORD-10203
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-07-19,662,1244.85,6,0.015,ORD-11283
+Los Angeles Hub,Machinery,Sakura Industries,2024-05-16,39,6040.41,0,0.002,ORD-10817
+Los Angeles Hub,Luxury Goods,Sakura Industries,2024-01-26,41,2604.12,0,0.005,ORD-10068
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-08-12,2254,34.43,0,0.002,ORD-11361
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-04-26,8,6203.7,0,0.002,ORD-10745
+Shanghai Hub,Consumer Goods,SinoLogistics Co.,2024-03-28,1070,30.56,0,0.002,ORD-10415
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-09-06,764,31.6,0,0.002,ORD-11519
+São Paulo Hub,Agricultural,Panama Canal Trade,2024-03-24,3401,16.43,0,0.01,ORD-10468
+Mumbai Hub,Agricultural,Andean Exports SA,2024-10-26,1626,19.44,0,0.01,ORD-11840
+Mumbai Hub,Food & Beverage,Mapleleaf Supply,2024-06-12,1408,12.73,0,0.012,ORD-11074
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-09-18,347,1139.96,0,0.003,ORD-11614
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-09-15,266,222.19,0,0.002,ORD-11604
+Singapore Hub,Agricultural,Mapleleaf Supply,2024-09-22,2654,20.43,0,0.01,ORD-11678
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-10-14,604,1050.51,0,0.003,ORD-11733
+Frankfurt Hub,Luxury Goods,Sakura Industries,2024-09-17,73,2777.96,0,0.005,ORD-11529
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-10-17,2264,27.98,0,0.002,ORD-11721
+Singapore Hub,Pharmaceuticals,Rhine Chemical AG,2024-11-29,1393,1189.55,0,0.003,ORD-12040
+Singapore Hub,Luxury Goods,Mediterranean Trading,2024-10-07,37,3109.14,4,0.013,ORD-11857
+Rotterdam Hub,Electronics,Sakura Industries,2024-07-16,395,385.35,1,0.01,ORD-11308
+Rotterdam Hub,Textiles,Andean Exports SA,2024-10-07,1902,39.75,5,0.012,ORD-11870
+Shanghai Hub,Chemicals,Gulf Dynamics LLC,2024-07-08,687,106.35,0,0.006,ORD-11167
+Rotterdam Hub,Raw Materials,Andean Mining Corp,2024-05-24,491,205.75,0,0.002,ORD-10941
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-06-20,116,186.17,0,0.002,ORD-11022
+Rotterdam Hub,Electronics,Dragon Electronics,2024-04-17,257,481.12,0,0.008,ORD-10731
+Shanghai Hub,Textiles,Andean Exports SA,2024-03-24,3151,36.03,0,0.002,ORD-10404
+Los Angeles Hub,Consumer Goods,SinoLogistics Co.,2024-12-17,2354,27.14,0,0.002,ORD-12155
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-12-15,31,2481.46,0,0.005,ORD-12106
+Dubai Hub,Textiles,Mediterranean Trading,2024-09-13,2288,36.48,0,0.002,ORD-11617
+Rotterdam Hub,Electronics,Sakura Industries,2024-08-11,333,397.06,0,0.008,ORD-11493
+Singapore Hub,Consumer Goods,MarinaPort Pte,2024-12-23,692,27.06,0,0.002,ORD-12248
+Dubai Hub,Raw Materials,Atlas Logistics,2024-07-27,588,195.45,0,0.002,ORD-11247
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-04-05,2202,32.49,0,0.002,ORD-10570
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-02-04,145,179.95,0,0.002,ORD-10308
+São Paulo Hub,Consumer Goods,MarinaPort Pte,2024-03-31,2330,28.79,0,0.002,ORD-10460
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-03-28,3536,16.09,0,0.01,ORD-10423
+São Paulo Hub,Electronics,SinoLogistics Co.,2024-04-22,286,517.13,0,0.008,ORD-10634
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-03-10,1171,193.74,7,0.016,ORD-10461
+Mumbai Hub,Agricultural,Andean Exports SA,2024-04-24,1155,19.9,1,0.012,ORD-10702
+Shanghai Hub,Automotive Parts,SinoLogistics Co.,2024-12-19,196,170.43,0,0.002,ORD-12117
+Los Angeles Hub,Electronics,SinoLogistics Co.,2024-11-25,466,394.89,0,0.008,ORD-11940
+Shanghai Hub,Raw Materials,Oceania Freight,2024-08-04,383,217.17,0,0.002,ORD-11370
+Shanghai Hub,Pharmaceuticals,Tata Supply Chain,2024-01-28,633,1354.41,0,0.003,ORD-10030
+Frankfurt Hub,Building Materials,Andean Mining Corp,2024-05-06,1171,49.52,0,0.002,ORD-10778
+Mumbai Hub,Agricultural,Panama Canal Trade,2024-10-02,2218,16.43,0,0.01,ORD-11838
+Shanghai Hub,Building Materials,Baltic Shipping OÜ,2024-06-28,1281,42.64,0,0.002,ORD-10992
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-02-13,7704,11.44,0,0.012,ORD-10360
+Shanghai Hub,Raw Materials,Oceania Freight,2024-06-03,337,200.14,0,0.002,ORD-10988
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-12-22,3296,37.76,0,0.002,ORD-12094
+São Paulo Hub,Textiles,SinoLogistics Co.,2024-10-27,1782,35.73,2,0.006,ORD-11784
+Singapore Hub,Building Materials,CapeTown Distributors,2024-02-19,381,49.26,0,0.002,ORD-10347
+Rotterdam Hub,Building Materials,Andean Mining Corp,2024-07-07,590,42.14,0,0.002,ORD-11328
+Shanghai Hub,Agricultural,Oceania Freight,2024-06-24,2959,18.6,0,0.01,ORD-10994
+Frankfurt Hub,Textiles,Tata Supply Chain,2024-11-09,1632,36.34,0,0.002,ORD-11897
+Los Angeles Hub,Building Materials,Andean Mining Corp,2024-10-06,196,45.45,0,0.002,ORD-11773
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-05-04,10,2861.08,0,0.005,ORD-10775
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-05-14,33,5714.86,0,0.002,ORD-10767
+Mumbai Hub,Textiles,Andean Exports SA,2024-06-10,1824,37.29,1,0.004,ORD-11072
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-04-04,237,89.31,0,0.006,ORD-10644
+São Paulo Hub,Food & Beverage,Mapleleaf Supply,2024-06-09,4929,11.28,0,0.012,ORD-11027
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-10-09,832,49.33,0,0.002,ORD-11747
+Los Angeles Hub,Agricultural,Oceania Freight,2024-07-15,3986,15.91,0,0.01,ORD-11203
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-02-02,76,2508.53,0,0.005,ORD-10320
+Rotterdam Hub,Chemicals,Baltic Shipping OÜ,2024-07-07,421,97.16,0,0.006,ORD-11319
+Singapore Hub,Electronics,SinoLogistics Co.,2024-04-04,489,512.41,0,0.008,ORD-10705
+Dubai Hub,Pharmaceuticals,EuroFreight BV,2024-11-30,1159,1147.51,0,0.003,ORD-11992
+Singapore Hub,Agricultural,Andean Exports SA,2024-02-23,2060,17.86,7,0.024,ORD-10349
+Singapore Hub,Pharmaceuticals,EuroFreight BV,2024-10-16,1105,1254.11,0,0.003,ORD-11844
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-07-22,268,94.76,0,0.006,ORD-11267
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-06-01,661,1074.61,0,0.003,ORD-10977
+São Paulo Hub,Pharmaceuticals,Rhine Chemical AG,2024-05-03,738,1099.84,0,0.003,ORD-10832
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-06-04,71,2767.44,0,0.005,ORD-11059
+São Paulo Hub,Textiles,Mediterranean Trading,2024-10-05,1236,34.96,0,0.002,ORD-11783
+Frankfurt Hub,Consumer Goods,SinoLogistics Co.,2024-09-07,2227,30.44,0,0.002,ORD-11527
+Dubai Hub,Electronics,Dragon Electronics,2024-06-27,319,480.32,0,0.008,ORD-11042
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-08-15,3658,12.88,0,0.012,ORD-11477
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-04-26,40,4763.77,0,0.002,ORD-10746
+Rotterdam Hub,Food & Beverage,Oceania Freight,2024-12-16,6010,10.38,0,0.012,ORD-12265
+Frankfurt Hub,Building Materials,CapeTown Distributors,2024-01-21,402,45.1,0,0.002,ORD-10025
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-07-11,651,185.62,0,0.002,ORD-11197
+Rotterdam Hub,Luxury Goods,Sakura Industries,2024-11-03,33,2596.73,0,0.005,ORD-12081
+Los Angeles Hub,Chemicals,Baltic Shipping OÜ,2024-04-10,343,83.48,0,0.006,ORD-10621
+Los Angeles Hub,Raw Materials,Atlas Logistics,2024-07-23,386,228.39,0,0.002,ORD-11195
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-03-22,8364,13.58,0,0.012,ORD-10434
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-10-05,2348,23.91,0,0.002,ORD-11743
+Los Angeles Hub,Textiles,SinoLogistics Co.,2024-01-18,1938,32.71,0,0.002,ORD-10058
+Rotterdam Hub,Chemicals,Gulf Dynamics LLC,2024-05-31,671,102.1,0,0.006,ORD-10934
+Dubai Hub,Consumer Goods,SinoLogistics Co.,2024-06-22,2207,28.57,0,0.002,ORD-11054
+Los Angeles Hub,Machinery,Nordic Materials AB,2024-09-24,36,5436.24,0,0.002,ORD-11574
+Los Angeles Hub,Luxury Goods,MarinaPort Pte,2024-07-02,54,2504.27,0,0.005,ORD-11198
+Shanghai Hub,Machinery,Pacific Trade Corp,2024-04-26,8,4711.16,0,0.002,ORD-10601
+Singapore Hub,Chemicals,Rhine Chemical AG,2024-03-04,420,91.23,0,0.006,ORD-10527
+Los Angeles Hub,Agricultural,Mapleleaf Supply,2024-04-06,4954,16.34,0,0.01,ORD-10633
+São Paulo Hub,Automotive Parts,Sakura Industries,2024-07-20,391,172.5,0,0.002,ORD-11208
+Dubai Hub,Automotive Parts,Sakura Industries,2024-10-26,51,199.53,2,0.006,ORD-11802
+Los Angeles Hub,Food & Beverage,Oceania Freight,2024-11-07,3046,10.45,0,0.012,ORD-11947
+Dubai Hub,Luxury Goods,MarinaPort Pte,2024-07-16,46,2847.99,0,0.005,ORD-11249
+São Paulo Hub,Consumer Goods,SinoLogistics Co.,2024-04-19,1011,25.42,0,0.002,ORD-10649
+Mumbai Hub,Pharmaceuticals,EuroFreight BV,2024-07-25,1019,1148.2,0,0.003,ORD-11257
+Los Angeles Hub,Consumer Goods,EuroFreight BV,2024-07-06,1228,27.87,1,0.004,ORD-11193
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-08-02,65,3089.25,0,0.005,ORD-11486
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-09-27,4924,12.56,3,0.018,ORD-11520
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-12-06,152,42.1,0,0.002,ORD-12255
+Dubai Hub,Chemicals,Gulf Dynamics LLC,2024-01-08,120,98.46,0,0.006,ORD-10107
+São Paulo Hub,Chemicals,Atlas Logistics,2024-12-26,658,94.99,2,0.01,ORD-12173
+Shanghai Hub,Raw Materials,Andean Mining Corp,2024-04-24,1171,212.12,0,0.002,ORD-10607
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-04-07,24,5439.52,0,0.002,ORD-10574
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-01-22,7264,12.62,0,0.012,ORD-10147
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-06-10,1023,28.46,3,0.008,ORD-11128
+Dubai Hub,Raw Materials,Atlas Logistics,2024-06-29,1134,191.81,0,0.002,ORD-11057
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-10-04,281,1150.85,0,0.003,ORD-11845
+Frankfurt Hub,Agricultural,Mapleleaf Supply,2024-08-31,1365,19.96,0,0.01,ORD-11355
+Mumbai Hub,Pharmaceuticals,EuroFreight BV,2024-10-19,665,1172.52,0,0.003,ORD-11822
+São Paulo Hub,Textiles,Mediterranean Trading,2024-07-10,1957,30.67,0,0.002,ORD-11210
+São Paulo Hub,Electronics,Dragon Electronics,2024-08-04,450,403.7,0,0.008,ORD-11403
+Mumbai Hub,Electronics,Dragon Electronics,2024-06-23,282,471.95,0,0.008,ORD-11065
+Shanghai Hub,Food & Beverage,Mediterranean Trading,2024-12-31,8947,12.91,3,0.018,ORD-12121
+Dubai Hub,Agricultural,Panama Canal Trade,2024-11-05,3114,17.78,0,0.01,ORD-12014
+Rotterdam Hub,Machinery,TechSource GmbH,2024-10-28,10,6004.8,0,0.002,ORD-11877
+Dubai Hub,Agricultural,Mapleleaf Supply,2024-02-01,2783,18.58,0,0.01,ORD-10304
+Frankfurt Hub,Luxury Goods,MarinaPort Pte,2024-08-13,23,3083.06,0,0.005,ORD-11352
+Dubai Hub,Raw Materials,CapeTown Distributors,2024-12-07,591,192.45,1,0.004,ORD-12203
+Mumbai Hub,Building Materials,CapeTown Distributors,2024-06-19,276,51.46,0,0.002,ORD-11084
+Dubai Hub,Food & Beverage,Andean Exports SA,2024-05-09,4167,11.9,0,0.012,ORD-10861
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-11-07,693,95.57,0,0.006,ORD-11977
+Shanghai Hub,Agricultural,Andean Exports SA,2024-06-29,2108,18.1,0,0.01,ORD-10996
+Frankfurt Hub,Raw Materials,Andean Mining Corp,2024-04-01,402,224.15,0,0.002,ORD-10582
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-08-13,1775,30.49,0,0.002,ORD-11392
+Rotterdam Hub,Machinery,Sakura Industries,2024-09-05,15,4819.9,0,0.002,ORD-11692
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-08-17,17,4853.21,0,0.002,ORD-11502
+Mumbai Hub,Machinery,Sakura Industries,2024-04-09,31,6045.58,0,0.002,ORD-10693
+São Paulo Hub,Machinery,Pacific Trade Corp,2024-03-09,22,5488.65,0,0.002,ORD-10458
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-06-13,491,92.32,0,0.006,ORD-11076
+Shanghai Hub,Chemicals,Atlas Logistics,2024-04-26,655,89.56,0,0.006,ORD-10598
+Los Angeles Hub,Electronics,Dragon Electronics,2024-03-13,531,456.84,3,0.014,ORD-10425
+Mumbai Hub,Raw Materials,CapeTown Distributors,2024-03-09,918,221.96,0,0.002,ORD-10509
+Los Angeles Hub,Automotive Parts,SinoLogistics Co.,2024-10-10,193,202.06,0,0.002,ORD-11756
+Dubai Hub,Textiles,Mediterranean Trading,2024-10-13,3442,38.3,0,0.002,ORD-11803
+Frankfurt Hub,Food & Beverage,Oceania Freight,2024-12-18,8122,12.84,0,0.012,ORD-12096
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-09-11,349,165.68,0,0.002,ORD-11637
+Singapore Hub,Building Materials,Baltic Shipping OÜ,2024-08-01,453,42.77,1,0.004,ORD-11489
+Rotterdam Hub,Pharmaceuticals,Tata Supply Chain,2024-01-25,1132,1355.83,6,0.015,ORD-10164
+Mumbai Hub,Electronics,Sakura Industries,2024-09-06,324,477.55,0,0.008,ORD-11632
+Los Angeles Hub,Building Materials,Baltic Shipping OÜ,2024-07-05,667,40.36,5,0.012,ORD-11200
+Los Angeles Hub,Consumer Goods,MarinaPort Pte,2024-02-24,1267,24.66,0,0.002,ORD-10245
+São Paulo Hub,Textiles,Mediterranean Trading,2024-11-29,1441,32.58,0,0.002,ORD-11970
+Dubai Hub,Electronics,Sakura Industries,2024-10-04,578,392.8,0,0.008,ORD-11797
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-01-13,1302,1289.11,0,0.003,ORD-10098
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-03-27,1350,1201.96,0,0.003,ORD-10496
+Mumbai Hub,Electronics,SinoLogistics Co.,2024-06-30,216,462.44,0,0.008,ORD-11066
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-10-10,395,1210.43,0,0.003,ORD-11709
+Dubai Hub,Food & Beverage,Mediterranean Trading,2024-02-24,2092,10.36,0,0.012,ORD-10289
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-09-29,652,211.8,7,0.016,ORD-11579
+Shanghai Hub,Machinery,TechSource GmbH,2024-11-28,34,5144.2,0,0.002,ORD-11926
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-09-15,2622,13.14,0,0.012,ORD-11665
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-12-09,24,2814.31,0,0.005,ORD-12231
+Shanghai Hub,Electronics,Dragon Electronics,2024-01-25,168,471.57,2,0.012,ORD-10029
+Dubai Hub,Textiles,Andean Exports SA,2024-02-13,1538,37.6,0,0.002,ORD-10287
+Frankfurt Hub,Pharmaceuticals,Rhine Chemical AG,2024-11-20,1371,1157.67,0,0.003,ORD-11894
+Los Angeles Hub,Textiles,SinoLogistics Co.,2024-06-23,804,30.71,0,0.002,ORD-11003
+São Paulo Hub,Luxury Goods,Sakura Industries,2024-04-06,80,2673.8,0,0.005,ORD-10653
+Shanghai Hub,Electronics,SinoLogistics Co.,2024-08-03,341,406.53,4,0.016,ORD-11357
+São Paulo Hub,Chemicals,Rhine Chemical AG,2024-03-13,398,92.54,0,0.006,ORD-10456
+Singapore Hub,Machinery,Nordic Materials AB,2024-11-28,6,5586.62,0,0.002,ORD-12049
+Rotterdam Hub,Agricultural,Oceania Freight,2024-10-13,3927,16.16,0,0.01,ORD-11890
+Singapore Hub,Building Materials,CapeTown Distributors,2024-04-10,1128,39.69,4,0.01,ORD-10725
+Shanghai Hub,Building Materials,Andean Mining Corp,2024-06-08,538,39.14,8,0.018,ORD-10991
+Dubai Hub,Agricultural,Oceania Freight,2024-10-17,3637,17.52,0,0.01,ORD-11818
+Los Angeles Hub,Textiles,Andean Exports SA,2024-06-21,679,35.25,0,0.002,ORD-11004
+Rotterdam Hub,Consumer Goods,SinoLogistics Co.,2024-10-13,1101,30.99,3,0.008,ORD-11881
+Rotterdam Hub,Building Materials,Baltic Shipping OÜ,2024-10-02,281,50.93,0,0.002,ORD-11889
+São Paulo Hub,Luxury Goods,MarinaPort Pte,2024-05-22,19,2845.82,0,0.005,ORD-10848
+Mumbai Hub,Textiles,Andean Exports SA,2024-01-07,1186,37.55,6,0.014,ORD-10127
+São Paulo Hub,Chemicals,Atlas Logistics,2024-02-05,257,85.37,0,0.006,ORD-10266
+Los Angeles Hub,Building Materials,CapeTown Distributors,2024-07-17,1136,47.77,0,0.002,ORD-11201
+Rotterdam Hub,Pharmaceuticals,Rhine Chemical AG,2024-03-25,835,1271.52,0,0.003,ORD-10544
+Rotterdam Hub,Consumer Goods,MarinaPort Pte,2024-07-10,645,27.28,0,0.002,ORD-11322
+Los Angeles Hub,Consumer Goods,Pacific Trade Corp,2024-05-23,1239,31.68,0,0.002,ORD-10819
+Shanghai Hub,Building Materials,Atlas Logistics,2024-11-09,184,38.9,0,0.002,ORD-11935
+Singapore Hub,Consumer Goods,Pacific Trade Corp,2024-04-19,660,31.0,0,0.002,ORD-10718
+Shanghai Hub,Textiles,SinoLogistics Co.,2024-06-18,852,32.99,0,0.002,ORD-10981
+Frankfurt Hub,Electronics,TechSource GmbH,2024-09-29,704,412.12,0,0.008,ORD-11512
+Rotterdam Hub,Chemicals,Atlas Logistics,2024-10-22,749,88.82,0,0.006,ORD-11876
+Dubai Hub,Automotive Parts,SinoLogistics Co.,2024-04-04,82,171.16,0,0.002,ORD-10662
+Shanghai Hub,Chemicals,Atlas Logistics,2024-05-29,769,102.84,0,0.006,ORD-10791
+Frankfurt Hub,Food & Beverage,Andean Exports SA,2024-12-31,8446,12.01,0,0.012,ORD-12095
+São Paulo Hub,Textiles,Mediterranean Trading,2024-09-19,2685,35.12,0,0.002,ORD-11595
+Los Angeles Hub,Raw Materials,Andean Mining Corp,2024-12-10,435,207.89,0,0.002,ORD-12156
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-09-25,72,205.67,0,0.002,ORD-11517
+Rotterdam Hub,Building Materials,Andean Mining Corp,2024-02-16,399,44.57,0,0.002,ORD-10373
+Shanghai Hub,Luxury Goods,MarinaPort Pte,2024-11-04,65,2570.13,0,0.005,ORD-11933
+Mumbai Hub,Electronics,Dragon Electronics,2024-04-01,311,476.13,0,0.008,ORD-10682
+São Paulo Hub,Textiles,Tata Supply Chain,2024-06-07,787,30.0,0,0.002,ORD-11024
+Frankfurt Hub,Electronics,SinoLogistics Co.,2024-08-21,167,383.89,0,0.008,ORD-11332
+São Paulo Hub,Building Materials,Atlas Logistics,2024-01-18,145,40.29,0,0.002,ORD-10094
+Singapore Hub,Luxury Goods,Mediterranean Trading,2024-09-25,48,2764.33,0,0.005,ORD-11675
+Singapore Hub,Automotive Parts,Pacific Trade Corp,2024-02-23,226,205.67,0,0.002,ORD-10330
+Rotterdam Hub,Electronics,Sakura Industries,2024-11-08,442,399.07,0,0.008,ORD-12062
+Frankfurt Hub,Automotive Parts,Sakura Industries,2024-04-24,347,158.16,0,0.002,ORD-10568
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-05-28,270,201.87,0,0.002,ORD-10919
+Mumbai Hub,Electronics,SinoLogistics Co.,2024-01-01,329,407.05,0,0.008,ORD-10119
+Frankfurt Hub,Raw Materials,Atlas Logistics,2024-05-29,1180,226.97,0,0.002,ORD-10774
+Rotterdam Hub,Electronics,Dragon Electronics,2024-09-13,136,398.54,0,0.008,ORD-11681
+Frankfurt Hub,Textiles,Tata Supply Chain,2024-10-09,2822,37.18,0,0.002,ORD-11714
+Dubai Hub,Automotive Parts,Pacific Trade Corp,2024-12-07,141,167.2,0,0.002,ORD-12191
+Los Angeles Hub,Food & Beverage,Mediterranean Trading,2024-09-06,3237,12.02,0,0.012,ORD-11571
+Shanghai Hub,Automotive Parts,Sakura Industries,2024-03-25,121,180.21,0,0.002,ORD-10403
+Singapore Hub,Pharmaceuticals,Tata Supply Chain,2024-04-28,1063,1253.58,0,0.003,ORD-10706
+São Paulo Hub,Luxury Goods,Mediterranean Trading,2024-12-10,65,3216.43,0,0.005,ORD-12179
+Shanghai Hub,Consumer Goods,EuroFreight BV,2024-08-22,1755,25.94,0,0.002,ORD-11369
+Frankfurt Hub,Machinery,Sakura Industries,2024-01-23,25,6065.71,0,0.002,ORD-10014
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-07-16,1162,1275.54,0,0.003,ORD-11182
+Mumbai Hub,Textiles,Tata Supply Chain,2024-09-19,1164,31.97,0,0.002,ORD-11639
+Singapore Hub,Agricultural,Panama Canal Trade,2024-04-04,897,20.3,5,0.02,ORD-10728
+São Paulo Hub,Food & Beverage,Mediterranean Trading,2024-04-27,4256,11.21,0,0.012,ORD-10643
+Singapore Hub,Electronics,TechSource GmbH,2024-10-26,767,395.21,0,0.008,ORD-11841
+Shanghai Hub,Luxury Goods,EuroFreight BV,2024-07-15,61,2535.35,0,0.005,ORD-11173
+Frankfurt Hub,Chemicals,Rhine Chemical AG,2024-11-14,598,108.09,0,0.006,ORD-11901
+Mumbai Hub,Machinery,Sakura Industries,2024-11-21,17,5091.62,0,0.002,ORD-12027
+Mumbai Hub,Agricultural,Oceania Freight,2024-09-25,1822,19.18,0,0.01,ORD-11655
+Singapore Hub,Building Materials,Andean Mining Corp,2024-05-13,1029,47.47,0,0.002,ORD-10923
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-09-06,480,43.97,0,0.002,ORD-11607
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-12-20,340,46.41,0,0.002,ORD-12182
+Singapore Hub,Building Materials,Andean Mining Corp,2024-11-30,422,47.88,5,0.012,ORD-12058
+Singapore Hub,Building Materials,CapeTown Distributors,2024-07-17,921,50.19,0,0.002,ORD-11302
+Los Angeles Hub,Textiles,Andean Exports SA,2024-03-17,2963,40.01,0,0.002,ORD-10433
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-08-29,16,2613.46,0,0.005,ORD-11488
+Rotterdam Hub,Pharmaceuticals,Rhine Chemical AG,2024-07-22,690,1111.07,0,0.003,ORD-11309
+Frankfurt Hub,Textiles,Mediterranean Trading,2024-07-06,1047,39.47,0,0.002,ORD-11143
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-10-22,1423,31.25,0,0.002,ORD-11713
+Mumbai Hub,Machinery,Sakura Industries,2024-05-10,5,5579.55,0,0.002,ORD-10892
+Dubai Hub,Building Materials,CapeTown Distributors,2024-08-05,313,49.05,0,0.002,ORD-11442
+Singapore Hub,Raw Materials,CapeTown Distributors,2024-09-10,917,221.38,0,0.002,ORD-11674
+Mumbai Hub,Chemicals,Baltic Shipping OÜ,2024-09-12,202,80.84,4,0.014,ORD-11643
+São Paulo Hub,Raw Materials,Andean Mining Corp,2024-04-21,897,171.83,0,0.002,ORD-10652
+Rotterdam Hub,Electronics,Sakura Industries,2024-04-13,596,501.49,0,0.008,ORD-10732
+Los Angeles Hub,Food & Beverage,Andean Exports SA,2024-07-04,7091,10.74,0,0.012,ORD-11186
+São Paulo Hub,Textiles,Mediterranean Trading,2024-03-06,2571,35.6,0,0.002,ORD-10454
+Dubai Hub,Machinery,Sakura Industries,2024-05-24,35,6004.35,0,0.002,ORD-10866
+Mumbai Hub,Consumer Goods,EuroFreight BV,2024-05-08,1466,29.25,0,0.002,ORD-10895
+Dubai Hub,Chemicals,Atlas Logistics,2024-09-21,534,101.72,0,0.006,ORD-11621
+Rotterdam Hub,Pharmaceuticals,Rhine Chemical AG,2024-12-14,820,1172.99,0,0.003,ORD-12260
+Mumbai Hub,Machinery,Sakura Industries,2024-03-27,8,5615.62,0,0.002,ORD-10506
+Shanghai Hub,Consumer Goods,Pacific Trade Corp,2024-09-26,1861,25.52,0,0.002,ORD-11551
+Singapore Hub,Agricultural,Andean Exports SA,2024-03-07,747,20.42,0,0.01,ORD-10540
+Dubai Hub,Raw Materials,Oceania Freight,2024-12-28,989,210.2,0,0.002,ORD-12202
+Shanghai Hub,Pharmaceuticals,EuroFreight BV,2024-09-03,278,1216.57,0,0.003,ORD-11538
+Frankfurt Hub,Consumer Goods,MarinaPort Pte,2024-06-12,651,24.74,0,0.002,ORD-10962
+Dubai Hub,Building Materials,Baltic Shipping OÜ,2024-11-04,403,49.23,0,0.002,ORD-12011
+Shanghai Hub,Textiles,Andean Exports SA,2024-07-06,979,39.06,0,0.002,ORD-11163
+Dubai Hub,Electronics,SinoLogistics Co.,2024-01-07,382,504.65,0,0.008,ORD-10096
+Rotterdam Hub,Building Materials,Andean Mining Corp,2024-09-09,1057,43.27,0,0.002,ORD-11702
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-10-16,31,2747.71,0,0.005,ORD-11768
+Dubai Hub,Luxury Goods,EuroFreight BV,2024-08-05,74,2914.63,0,0.005,ORD-11441
+Mumbai Hub,Pharmaceuticals,EuroFreight BV,2024-04-13,542,1043.5,0,0.003,ORD-10683
+São Paulo Hub,Automotive Parts,Pacific Trade Corp,2024-04-10,260,167.26,0,0.002,ORD-10639
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-01-24,1200,1219.86,0,0.003,ORD-10122
+Shanghai Hub,Electronics,Sakura Industries,2024-11-17,748,422.12,0,0.008,ORD-11915
+Singapore Hub,Food & Beverage,Mapleleaf Supply,2024-10-13,3109,11.6,0,0.012,ORD-11850
+Singapore Hub,Food & Beverage,Mediterranean Trading,2024-07-22,11081,11.77,0,0.012,ORD-11292
+Los Angeles Hub,Raw Materials,CapeTown Distributors,2024-07-23,365,184.27,0,0.002,ORD-11196
+Dubai Hub,Raw Materials,CapeTown Distributors,2024-07-19,650,210.41,0,0.002,ORD-11246
+Frankfurt Hub,Pharmaceuticals,Tata Supply Chain,2024-09-08,1477,1096.73,0,0.003,ORD-11513
+São Paulo Hub,Food & Beverage,Andean Exports SA,2024-12-16,2223,12.96,0,0.012,ORD-12170
+São Paulo Hub,Agricultural,Mapleleaf Supply,2024-05-09,2157,16.39,0,0.01,ORD-10851
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-02-25,786,24.88,0,0.002,ORD-10341
+São Paulo Hub,Machinery,Pacific Trade Corp,2024-08-18,25,6175.23,0,0.002,ORD-11415
+Dubai Hub,Pharmaceuticals,Tata Supply Chain,2024-11-14,256,1348.52,0,0.003,ORD-11993
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-02-10,42,2544.89,3,0.011,ORD-10322
+Mumbai Hub,Consumer Goods,Pacific Trade Corp,2024-01-31,767,30.71,0,0.002,ORD-10133
+Mumbai Hub,Luxury Goods,Mediterranean Trading,2024-09-28,26,2798.26,0,0.005,ORD-11651
+Dubai Hub,Textiles,Tata Supply Chain,2024-06-04,2233,35.15,0,0.002,ORD-11048
+São Paulo Hub,Chemicals,Gulf Dynamics LLC,2024-09-02,483,94.96,0,0.006,ORD-11598
+Mumbai Hub,Raw Materials,Oceania Freight,2024-04-30,538,184.07,0,0.002,ORD-10697
+São Paulo Hub,Building Materials,Andean Mining Corp,2024-12-06,223,45.31,0,0.002,ORD-12181
+Dubai Hub,Chemicals,Atlas Logistics,2024-05-12,386,93.6,0,0.006,ORD-10863
+Singapore Hub,Textiles,Tata Supply Chain,2024-11-19,2874,40.05,5,0.012,ORD-12044
+Frankfurt Hub,Electronics,TechSource GmbH,2024-11-03,790,384.06,0,0.008,ORD-11893
+Los Angeles Hub,Chemicals,Atlas Logistics,2024-04-18,257,82.3,0,0.006,ORD-10622
+Mumbai Hub,Pharmaceuticals,Tata Supply Chain,2024-10-22,1334,1276.11,0,0.003,ORD-11821
+São Paulo Hub,Raw Materials,CapeTown Distributors,2024-08-24,732,229.52,0,0.002,ORD-11419
+Rotterdam Hub,Pharmaceuticals,EuroFreight BV,2024-07-21,449,1212.57,0,0.003,ORD-11310
+Los Angeles Hub,Luxury Goods,Mediterranean Trading,2024-08-02,55,3119.96,0,0.005,ORD-11396
+São Paulo Hub,Pharmaceuticals,TechSource GmbH,2024-08-27,451,1325.49,0,0.003,ORD-11405
+Los Angeles Hub,Pharmaceuticals,Rhine Chemical AG,2024-01-30,219,1184.98,1,0.005,ORD-10052
+Los Angeles Hub,Chemicals,Rhine Chemical AG,2024-11-24,346,81.22,0,0.006,ORD-11949
+São Paulo Hub,Textiles,Mediterranean Trading,2024-09-28,1008,33.27,0,0.002,ORD-11594
+Mumbai Hub,Automotive Parts,Sakura Industries,2024-12-31,209,167.78,0,0.002,ORD-12218
+Frankfurt Hub,Machinery,Nordic Materials AB,2024-08-15,12,6070.63,0,0.002,ORD-11347
+Frankfurt Hub,Luxury Goods,Mediterranean Trading,2024-10-24,67,3190.3,0,0.005,ORD-11724
+Rotterdam Hub,Luxury Goods,MarinaPort Pte,2024-10-27,52,2523.15,0,0.005,ORD-11887
+Shanghai Hub,Agricultural,Mapleleaf Supply,2024-07-18,1279,20.6,0,0.01,ORD-11179
+São Paulo Hub,Textiles,Tata Supply Chain,2024-02-05,2234,35.09,0,0.002,ORD-10262
+Singapore Hub,Pharmaceuticals,TechSource GmbH,2024-05-22,1168,1160.08,2,0.007,ORD-10906
+Rotterdam Hub,Agricultural,Panama Canal Trade,2024-07-07,1485,17.51,0,0.01,ORD-11330
+Los Angeles Hub,Agricultural,Andean Exports SA,2024-01-20,1246,20.16,0,0.01,ORD-10075
+Singapore Hub,Luxury Goods,EuroFreight BV,2024-05-13,12,2900.58,0,0.005,ORD-10921
+Singapore Hub,Automotive Parts,Sakura Industries,2024-05-24,331,181.13,0,0.002,ORD-10907
+Shanghai Hub,Electronics,Dragon Electronics,2024-03-08,495,429.23,0,0.008,ORD-10398
+Singapore Hub,Building Materials,Andean Mining Corp,2024-07-26,816,41.19,0,0.002,ORD-11304
+Frankfurt Hub,Automotive Parts,Pacific Trade Corp,2024-11-15,145,165.94,0,0.002,ORD-11895
+Singapore Hub,Automotive Parts,TechSource GmbH,2024-06-09,365,168.17,0,0.002,ORD-11094
+Rotterdam Hub,Machinery,Pacific Trade Corp,2024-06-11,30,4766.07,1,0.004,ORD-11126
+Singapore Hub,Consumer Goods,EuroFreight BV,2024-03-13,2058,26.44,0,0.002,ORD-10532
+Rotterdam Hub,Luxury Goods,EuroFreight BV,2024-09-07,80,2561.47,0,0.005,ORD-11698
+São Paulo Hub,Pharmaceuticals,EuroFreight BV,2024-01-11,455,1279.11,0,0.003,ORD-10077
+São Paulo Hub,Building Materials,CapeTown Distributors,2024-05-07,505,51.04,0,0.002,ORD-10849
+Singapore Hub,Machinery,Nordic Materials AB,2024-09-09,18,5491.79,0,0.002,ORD-11668
+Frankfurt Hub,Raw Materials,Oceania Freight,2024-01-13,810,229.77,0,0.002,ORD-10021
+Rotterdam Hub,Automotive Parts,SinoLogistics Co.,2024-06-20,141,187.86,0,0.002,ORD-11117
+Shanghai Hub,Machinery,TechSource GmbH,2024-07-16,32,5551.35,0,0.002,ORD-11168
+Rotterdam Hub,Chemicals,Rhine Chemical AG,2024-04-25,467,103.95,0,0.006,ORD-10743
+Mumbai Hub,Electronics,TechSource GmbH,2024-09-06,649,459.06,0,0.008,ORD-11633
+Frankfurt Hub,Electronics,Sakura Industries,2024-02-03,289,483.41,0,0.008,ORD-10188
+Singapore Hub,Luxury Goods,MarinaPort Pte,2024-11-11,41,3218.39,0,0.005,ORD-12055
+Rotterdam Hub,Agricultural,Mapleleaf Supply,2024-06-15,4949,18.43,0,0.01,ORD-11134
+Frankfurt Hub,Textiles,SinoLogistics Co.,2024-05-29,1812,35.15,2,0.006,ORD-10761

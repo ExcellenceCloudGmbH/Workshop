@@ -1,0 +1,9 @@
+name,region,country,capacity_units,operating_cost_monthly,latitude,longitude
+Frankfurt Hub,EMEA,Germany,50000,125000.0,50.1109,8.6821
+Shanghai Hub,APAC,China,75000,95000.0,31.2304,121.4737
+Los Angeles Hub,AMERICAS,United States,60000,155000.0,33.9425,-118.4081
+São Paulo Hub,AMERICAS,Brazil,45000,85000.0,-23.5505,-46.6333
+Dubai Hub,MEA,United Arab Emirates,55000,110000.0,25.2048,55.2708
+Mumbai Hub,APAC,India,40000,72000.0,19.076,72.8777
+Singapore Hub,APAC,Singapore,65000,135000.0,1.3521,103.8198
+Rotterdam Hub,EMEA,Netherlands,70000,140000.0,51.9244,4.4777

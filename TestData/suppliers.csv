@@ -1,0 +1,21 @@
+name,country,lead_time_days,reliability_score,annual_capacity,min_order_qty
+TechSource GmbH,Germany,7,0.95,500000,100
+SinoLogistics Co.,China,21,0.88,1200000,500
+Pacific Trade Corp,United States,5,0.97,350000,50
+Andean Exports SA,Brazil,18,0.82,280000,200
+Gulf Dynamics LLC,United Arab Emirates,10,0.91,420000,150
+Tata Supply Chain,India,14,0.86,900000,300
+MarinaPort Pte,Singapore,8,0.94,600000,100
+EuroFreight BV,Netherlands,6,0.96,550000,75
+Sakura Industries,Japan,12,0.93,450000,120
+Nordic Materials AB,Sweden,9,0.92,320000,80
+Mediterranean Trading,Italy,11,0.89,380000,110
+Atlas Logistics,Turkey,15,0.84,520000,250
+CapeTown Distributors,South Africa,20,0.8,240000,300
+Mapleleaf Supply,Canada,6,0.95,400000,60
+Oceania Freight,Australia,16,0.87,310000,150
+Andean Mining Corp,Chile,22,0.79,200000,400
+Baltic Shipping OÜ,Estonia,13,0.85,270000,130
+Rhine Chemical AG,Germany,8,0.93,480000,90
+Dragon Electronics,China,19,0.9,850000,400
+Panama Canal Trade,Panama,17,0.83,350000,200
