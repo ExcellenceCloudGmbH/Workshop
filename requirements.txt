@@ -1,1 +1,1 @@
-lex-app
+lex-app==2.3.5
